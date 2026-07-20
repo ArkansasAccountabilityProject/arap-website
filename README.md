@@ -1,30 +1,18 @@
-# ARAP Website Version 2.0
+# ARAP Website Version 3.0
 
 Official website source for the Arkansas Accountability Project.
 
+## Architecture
+- Static website files: `public/`
+- Worker entry point: `src/index.js`
+- Cloudflare deployment: `wrangler.jsonc`
+- Public downloads: Cloudflare R2 at `download.arkansasaccountabilityproject.org`
+
+## Version 3.0
+Version 3.0 establishes a statewide evidence-repository framework with standardized jurisdiction pages and category placeholders. Exact R2 file links should be added only after public-release documents are reviewed and renamed under the approved ARAP repository standard.
+
 ## Deployment
+Commit the contents of this package to the existing `arap-website` Git repository. Cloudflare Workers Builds should deploy the `main` branch automatically.
 
-This repository is designed for Cloudflare Workers Builds using `wrangler.jsonc`.
-Static files are in `public/`; the Worker entry point is `src/index.js`.
-
-## First deployment
-
-1. Connect this repository to Cloudflare.
-2. Deploy the `main` branch.
-3. Test the generated `workers.dev` preview before moving the public domains.
-
-## Counters
-
-The site works without a database, but counters will show zero/pending until a D1 binding named `DB` is added.
-
-Create a D1 database in Cloudflare, run `schema.sql`, and bind it to the Worker as `DB`.
-No names, IP addresses, email addresses, user agents, or visitor histories are stored by the counter code.
-
-## Updating the website
-
-Edit files inside `public/`, commit changes to `main`, and Cloudflare will deploy automatically.
-
-
-
-Last updated: July 20, 2026
-
+## Important
+Do not delete the local `.git` folder. This package intentionally does not contain `.git` or large public-record downloads.
