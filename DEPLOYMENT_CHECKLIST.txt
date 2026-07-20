@@ -1,0 +1,24 @@
+ARAP WEBSITE VERSION 2.0 — DEPLOYMENT CHECKLIST
+
+1. Do not remove the current odd-voice-5969 Worker route yet.
+2. Upload/commit the complete contents of this folder to the GitHub repository:
+   ArkansasAccountabilityProject/arap-website
+3. In Cloudflare, select that repository and deploy.
+4. Test the temporary workers.dev URL:
+   - Home page
+   - Jacksonville page
+   - Packet download
+   - Repository ZIP download
+   - Primary record downloads
+   - Mobile layout
+5. Create a D1 database for counters (optional at first).
+6. Bind the D1 database to the new Worker using variable name DB.
+7. Only after the preview is approved:
+   - remove the custom-domain routes from odd-voice-5969
+   - attach arkansasaccountabilityproject.org to the new project
+   - attach/redirect www, .com and .info
+8. Keep the old Worker available temporarily as rollback protection.
+
+GITHUB BROWSER LIMIT:
+The complete repository contains a large ZIP and vendor PDFs. GitHub's browser upload may reject
+individual files over its browser limit. GitHub Desktop is the recommended way to upload this full package.
