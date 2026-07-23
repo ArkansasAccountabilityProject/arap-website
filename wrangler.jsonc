@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "arap-website",
+  "name": "odd-voice-5969",
   "main": "src/index.js",
   "compatibility_date": "2026-07-20",
   "assets": {
