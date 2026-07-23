@@ -1,0 +1,28 @@
+ARAP WEBSITE VERSION 3.1 — LEGISLATIVE REVIEW PUBLICATION
+Release date: July 22, 2026
+
+PURPOSE
+This release prepares the ARAP website for publication of the public-reference legislative review packet concerning Ark. Code Ann. §§ 12-12-1801 through 12-12-1808.
+
+NEW PUBLIC PAGE
+https://arkansasaccountabilityproject.org/publications/alpr-legislative-review-2026/
+
+PUBLIC PDF
+/public/downloads/ARAP_Legislative_Review_Packet_ALPR_Act_2026_Public_Reference.pdf
+SHA-256: fe2b9d7a8c980aedf39e35b9966ff9ea3bbeb6e716acad9b0ef6bd8139c42478
+
+CHANGES
+- New legislative-review landing page.
+- Homepage featured-publication announcement.
+- New Publications-page entry.
+- Approved public-redacted packet included as a website download.
+- Public-redaction and restricted-evidence notices.
+- Canonical URL and social-sharing metadata.
+- Sitemap and robots file.
+- Updated README, changelog, and deployment checklist.
+
+DEPLOYMENT TIMING
+Deploy the day before the legislative email campaign. Test the landing page and PDF immediately after Cloudflare completes the build, and test them again before sending email.
+
+DO NOT PUBLISH
+Do not upload or link the unredacted legislative evidentiary packet.

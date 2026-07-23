@@ -1,19 +1,26 @@
-ARAP WEBSITE VERSION 3.0 — DEPLOYMENT CHECKLIST
+ARAP WEBSITE VERSION 3.1 — LEGISLATIVE REVIEW RELEASE CHECKLIST
 
 1. Back up D:\ARAP\arap-website.
 2. Keep the existing hidden .git folder in place.
-3. Copy the Version 3.0 package contents into D:\ARAP\arap-website and allow updated source files to replace older versions.
-4. Review the changed files in GitHub Desktop.
-5. Commit with message: Deploy ARAP Website Version 3.0
-6. Push to the main branch.
-7. Confirm the Cloudflare build succeeds.
-8. Test:
-   - Home page
-   - Evidence Repository page
-   - Jacksonville and Sherwood pages
-   - One placeholder jurisdiction page
-   - Statewide Resources page
-   - Publications, About, and Contact
-   - Legacy /evidence-library/ redirect
-   - Mobile layout
-9. Do not upload evidence documents into GitHub. Publish approved files to R2 and add exact file links later.
+3. Copy the Version 3.1 package contents into D:\ARAP\arap-website and allow updated source files to replace older versions.
+4. Confirm the following new files are present:
+   - public/publications/alpr-legislative-review-2026/index.html
+   - public/downloads/ARAP_Legislative_Review_Packet_ALPR_Act_2026_Public_Reference.pdf
+   - public/sitemap.xml
+   - public/robots.txt
+5. Review the changed files in GitHub Desktop.
+6. Commit with message: Publish ALPR Legislative Review Public Reference Edition
+7. Push to the main branch.
+8. Confirm the Cloudflare build succeeds.
+9. Test on desktop and mobile:
+   - Home-page featured publication
+   - Publications-page legislative review card
+   - /publications/alpr-legislative-review-2026/
+   - PDF download button and direct PDF URL
+   - Header and footer navigation
+   - sitemap.xml and robots.txt
+10. Open the PDF after deployment and confirm it is the public-redacted edition.
+11. Confirm no visible license plates, exact coordinates, or identifying spreadsheet screenshots appear in the public packet.
+12. Copy the final live landing-page address into the legislative email body.
+13. Deploy the day before the legislative email campaign, then retest the link immediately before sending.
+14. Do not upload or link the unredacted legislative evidentiary packet.
