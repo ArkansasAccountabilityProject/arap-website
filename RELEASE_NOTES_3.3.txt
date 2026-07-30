@@ -1,0 +1,11 @@
+ARAP WEBSITE VERSION 3.3
+Release date: July 30, 2026
+
+This release publishes the complete Sherwood Council Briefing Book, ARAP-PUB-2026-003, Version 2.1.
+
+Changes:
+- Added the complete Version 2.1 Council Briefing Book in PDF and DOCX formats.
+- Updated the Sherwood jurisdiction page and Publications index to feature Version 2.1.
+- Moved the former Version 2.0 PDF into the Sherwood archive.
+- Corrected current publication references from APAP to ARAP.
+- Updated documentation and sitemap references.

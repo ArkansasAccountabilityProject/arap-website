@@ -1,4 +1,4 @@
-# ARAP Website Version 3.2
+# ARAP Website Version 3.3
 
 Official website source for the Arkansas Accountability Project.
 
@@ -7,6 +7,9 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads: Cloudflare R2 at `download.arkansasaccountabilityproject.org`
+
+## Version 3.3
+Version 3.3 publishes the complete ARAP-PUB-2026-003 Sherwood Council Briefing Book Version 2.1 in PDF and DOCX formats, replaces the former Version 2.0 primary links, and preserves Version 2.0 in the Sherwood archive.
 
 ## Version 3.2
 Version 3.2 adds the finalized Sherwood Council Briefing Book and Sherwood Resident Information Packet to the Sherwood jurisdiction page and Publications index, with direct PDF and DOCX downloads.

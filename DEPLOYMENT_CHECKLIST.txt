@@ -1,4 +1,5 @@
-ARAP WEBSITE VERSION 3.1 — LEGISLATIVE REVIEW RELEASE CHECKLIST
+ARAP Website Version 3.3 Deployment Checklist
+
 
 1. Back up D:\ARAP\arap-website.
 2. Keep the existing hidden .git folder in place.
@@ -24,3 +25,9 @@ ARAP WEBSITE VERSION 3.1 — LEGISLATIVE REVIEW RELEASE CHECKLIST
 12. Copy the final live landing-page address into the legislative email body.
 13. Deploy the day before the legislative email campaign, then retest the link immediately before sending.
 14. Do not upload or link the unredacted legislative evidentiary packet.
+
+Version 3.3 verification:
+- Confirm Version 2.1 PDF download opens.
+- Confirm Version 2.1 DOCX download opens.
+- Confirm Version 2.0 archive link opens.
+- Confirm Sherwood and Publications pages show ARAP-PUB-2026-003 Version 2.1.

@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 3.3 - July 30, 2026
+- Published ARAP-PUB-2026-003, Sherwood Council Briefing Book, Complete Version 2.1.
+- Added PDF and DOCX downloads for the complete Version 2.1 publication.
+- Replaced Version 2.0 as the primary Sherwood Council packet.
+- Preserved Version 2.0 in the Sherwood archive.
+- Corrected the publication identifier from APAP to ARAP on current website listings.
+- Updated the Sherwood jurisdiction page, Publications index, sitemap, README, release notes, and deployment checklist.
+
 ## Version 3.2 - July 30, 2026
 - Published APAP-PUB-2026-003, Sherwood Council Briefing Book, Public Reference Edition Version 2.0.
 - Finalized the Sherwood Resident Information Packet as Citizen Release Edition Version 1.0.
