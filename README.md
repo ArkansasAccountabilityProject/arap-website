@@ -1,4 +1,4 @@
-# ARAP Website Version 3.1
+# ARAP Website Version 3.2
 
 Official website source for the Arkansas Accountability Project.
 
@@ -7,6 +7,9 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads: Cloudflare R2 at `download.arkansasaccountabilityproject.org`
+
+## Version 3.2
+Version 3.2 adds the finalized Sherwood Council Briefing Book and Sherwood Resident Information Packet to the Sherwood jurisdiction page and Publications index, with direct PDF and DOCX downloads.
 
 ## Version 3.1
 Version 3.1 adds the public-reference landing page and downloadable legislative review packet concerning Ark. Code Ann. §§ 12-12-1801 through 12-12-1808, a homepage feature, a publications entry, social metadata, sitemap, and public-redaction notice.

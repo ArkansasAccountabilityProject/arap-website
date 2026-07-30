@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 3.2 - July 30, 2026
+- Published APAP-PUB-2026-003, Sherwood Council Briefing Book, Public Reference Edition Version 2.0.
+- Finalized the Sherwood Resident Information Packet as Citizen Release Edition Version 1.0.
+- Added direct Sherwood PDF and DOCX downloads.
+- Updated the Sherwood jurisdiction page and Publications index.
+- Updated sitemap, README, release notes, and deployment checklist.
+
 ## 3.1.0 — July 22, 2026
 - Added a dedicated landing page for the 2026 ALPR legislative review request.
 - Added the approved public-reference legislative packet as a static PDF download.
