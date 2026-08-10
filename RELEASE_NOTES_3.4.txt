@@ -1,0 +1,9 @@
+ARAP Website Version 3.4 — August 10, 2026
+
+This release expands the Sherwood public-reference repository with source records, reproducible analysis, integrity hashes, and explicit limits on what the records can establish.
+
+New public evidence includes the July 11–August 9 search-audit CSV and analysis workbook; CITY-2026-130 City Attorney emails; corrected H-078 legislative addendum; 2022 and 2023/2024 contract records; a February 5 installation-correspondence excerpt; May Traffic Analytics and retention correspondence; and two web-preservation screenshots.
+
+H-067 is preserved and indexed but not published because the produced copy still contains requester/contact details requiring an additional public-reference redaction.
+
+The Sherwood page uses neutral language throughout: network counts are not presented as named agencies, states, or databases; close-timed searches are not characterized as misconduct; participant statements about retention are not presented as a legal conclusion; and the removed Flock Arkansas page is not attributed to any actor or motive.

@@ -1,33 +1,23 @@
-ARAP Website Version 3.3 Deployment Checklist
+ARAP Website Version 3.4 Deployment Checklist
 
-
-1. Back up D:\ARAP\arap-website.
-2. Keep the existing hidden .git folder in place.
-3. Copy the Version 3.1 package contents into D:\ARAP\arap-website and allow updated source files to replace older versions.
-4. Confirm the following new files are present:
-   - public/publications/alpr-legislative-review-2026/index.html
-   - public/downloads/ARAP_Legislative_Review_Packet_ALPR_Act_2026_Public_Reference.pdf
-   - public/sitemap.xml
-   - public/robots.txt
-5. Review the changed files in GitHub Desktop.
-6. Commit with message: Publish ALPR Legislative Review Public Reference Edition
-7. Push to the main branch.
-8. Confirm the Cloudflare build succeeds.
-9. Test on desktop and mobile:
-   - Home-page featured publication
-   - Publications-page legislative review card
-   - /publications/alpr-legislative-review-2026/
-   - PDF download button and direct PDF URL
-   - Header and footer navigation
-   - sitemap.xml and robots.txt
-10. Open the PDF after deployment and confirm it is the public-redacted edition.
-11. Confirm no visible license plates, exact coordinates, or identifying spreadsheet screenshots appear in the public packet.
-12. Copy the final live landing-page address into the legislative email body.
-13. Deploy the day before the legislative email campaign, then retest the link immediately before sending.
-14. Do not upload or link the unredacted legislative evidentiary packet.
-
-Version 3.3 verification:
-- Confirm Version 2.1 PDF download opens.
-- Confirm Version 2.1 DOCX download opens.
-- Confirm Version 2.0 archive link opens.
-- Confirm Sherwood and Publications pages show ARAP-PUB-2026-003 Version 2.1.
+1. Back up the existing arap-website repository and preserve its hidden .git directory.
+2. Copy this Version 3.4 package into the existing repository, allowing changed source files to replace older versions.
+3. Confirm the public/downloads/sherwood/evidence directory contains H-064, H-065, H-066, H-068, H-069, H-078, H-080, H-081, H-082, H-083, and both evidence-index files.
+4. Confirm there is no public H-067 file. Its index entry must say “Restricted pending additional redaction” and “Not published.”
+5. Review the Git diff before committing. Suggested commit message: Publish Sherwood evidence update Version 3.4
+6. Push to the main branch and confirm the Cloudflare build succeeds.
+7. Test on desktop and mobile:
+   - Home-page Version 3.4 feature
+   - Evidence Repository Sherwood card
+   - /jurisdictions/sherwood/
+   - /publications/
+   - CSV and XLSX audit downloads
+   - H-066, H-078, H-080, H-081, H-082, and both H-083 PDF links
+   - H-068 and H-069 image links
+   - Current evidence-index CSV and Attachment H v1.1 DOCX
+8. Confirm the Sherwood page states five follow-on searches within 60 seconds and does not describe the timing as proof of misuse.
+9. Confirm the page does not claim that network counts identify states, agencies, or databases.
+10. Open every newly published PDF/image and confirm no visible license plates, precise vehicle coordinates, requester contact information, or unreviewed spreadsheet screenshots appear.
+11. Confirm H-078 is the corrected eight-page v1.1 PDF and its evidence table uses H-066/H-066-A/H-078.
+12. Confirm all internal links pass the static link check and sitemap.xml contains no obsolete non-archive Version 2.0 URL.
+13. After deployment, spot-check the direct URLs and retain the deployed commit hash with the release record.

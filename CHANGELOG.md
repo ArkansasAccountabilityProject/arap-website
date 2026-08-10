@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 3.4 - August 10, 2026
+- Published the Sherwood July 11–August 9 public search-audit source CSV and derived analysis workbook.
+- Added factual audit summaries: 185 searches; 104 reporting at least 1,000 networks; 21 reporting 6,248–6,295 networks; all 185 justified only as “Investigation”; and five follow-on events within 60 seconds.
+- Added explicit limits explaining that the export does not name networks, agencies, states, databases, plates, cases, or offense types.
+- Published H-066, the redacted CITY-2026-130 City Attorney email production.
+- Indexed H-067 as restricted pending additional requester/contact-information redaction; no download is exposed.
+- Corrected the supplemental FOIA-custody review to H-066/H-066-A and retained H-078 for the publication.
+- Added the 2022 agreement (H-080) and later 2023/2024 order form (H-081), including a neutral comparison of attached and web-incorporated terms.
+- Added a one-page redacted excerpt of the February 5, 2026 Flock installation exchange (H-082).
+- Added the May 2026 Traffic Analytics and retention exchange (H-083, two parts).
+- Added contemporaneous Flock Arkansas 404 and Wayback exclusion screenshots (H-068/H-069) with inference limits.
+- Added a downloadable CSV evidence index containing SHA-256 hashes, verification status, and limitations.
+- Updated the home page, Evidence Repository, Publications index, Sherwood page, sitemap, release notes, and deployment checklist.
+
 ## Version 3.3 - July 30, 2026
 - Published ARAP-PUB-2026-003, Sherwood Council Briefing Book, Complete Version 2.1.
 - Added PDF and DOCX downloads for the complete Version 2.1 publication.

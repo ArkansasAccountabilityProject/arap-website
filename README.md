@@ -1,27 +1,29 @@
-# ARAP Website Version 3.3
+# ARAP Website Version 3.4
 
 Official website source for the Arkansas Accountability Project.
 
 ## Architecture
+
 - Static website files: `public/`
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
-- Public downloads: Cloudflare R2 at `download.arkansasaccountabilityproject.org`
+- Public downloads bundled under `public/downloads/`
 
-## Version 3.3
-Version 3.3 publishes the complete ARAP-PUB-2026-003 Sherwood Council Briefing Book Version 2.1 in PDF and DOCX formats, replaces the former Version 2.0 primary links, and preserves Version 2.0 in the Sherwood archive.
+## Version 3.4
 
-## Version 3.2
-Version 3.2 adds the finalized Sherwood Council Briefing Book and Sherwood Resident Information Packet to the Sherwood jurisdiction page and Publications index, with direct PDF and DOCX downloads.
+Version 3.4 expands the Sherwood repository with the July 11–August 9, 2026 public search audit, a reproducible analysis workbook, FOIA-custody correspondence, a corrected supplemental legislative review, contract records, installation and retention correspondence, contemporaneous web screenshots, and a downloadable evidence register with SHA-256 hashes and limitations.
 
-## Version 3.1
-Version 3.1 adds the public-reference landing page and downloadable legislative review packet concerning Ark. Code Ann. §§ 12-12-1801 through 12-12-1808, a homepage feature, a publications entry, social metadata, sitemap, and public-redaction notice.
+Evidence IDs were reconciled so H-064 remains the March 11 Sherwood public statement and H-065 remains the public search audit. CITY-2026-130 records now use H-066/H-067, while the supplemental review remains H-078. H-067 is indexed but not distributed because the produced copy still requires additional requester/contact-information redaction.
 
-## Version 3.0
-Version 3.0 establishes a statewide evidence-repository framework with standardized jurisdiction pages and category placeholders. Exact R2 file links should be added only after public-release documents are reviewed and renamed under the approved ARAP repository standard.
+## Earlier releases
+
+- Version 3.3 published the complete ARAP-PUB-2026-003 Sherwood Council Briefing Book Version 2.1 and archived Version 2.0.
+- Version 3.2 added the Sherwood Council Briefing Book and Resident Information Packet.
+- Version 3.1 added the public-reference legislative review landing page and packet.
+- Version 3.0 established the standardized statewide evidence-repository framework.
 
 ## Deployment
+
 Commit the contents of this package to the existing `arap-website` Git repository. Cloudflare Workers Builds should deploy the `main` branch automatically.
 
-## Important
-Do not delete the local `.git` folder. This package intentionally does not contain `.git`. Version 3.1 includes one approved public-reference PDF under `public/downloads/` for direct website delivery.
+Preserve the repository's existing `.git` directory. This release package intentionally does not contain `.git`.
