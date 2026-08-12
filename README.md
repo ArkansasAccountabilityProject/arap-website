@@ -1,4 +1,4 @@
-# ARAP Website Version 3.4
+# ARAP Website Version 3.5
 
 Official website source for the Arkansas Accountability Project.
 
@@ -8,6 +8,12 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads bundled under `public/downloads/`
+
+## Version 3.5
+
+Version 3.5 publishes ALPR audit evaluations for Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County; regional audit and policy comparisons; an evidence manifest; a machine-readable repository index; and SHA-256 publication checksums. Jurisdiction pages and repository status labels now link directly to the public evaluations.
+
+Raw search and network audit records containing names, email addresses, plates, query details, or operational identifiers are not republished in this release. The evidence manifest records their filenames, hashes, and public-handling status.
 
 ## Version 3.4
 

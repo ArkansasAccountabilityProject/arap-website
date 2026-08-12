@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 3.5 - August 12, 2026
+- Published ALPR audit evaluations for Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County.
+- Published Central Arkansas audit-findings and policy comparisons.
+- Added a source evidence manifest with SHA-256 hashes and public-handling decisions.
+- Added a machine-readable audit repository index and SHA-256 checksums for all eight public PDFs.
+- Updated the home page, Evidence Repository, Publications index, five jurisdiction pages, sitemap, README, release notes, and deployment checklist.
+- Restricted raw user and network audit records from direct republication where they contain personal, query, or operational fields.
+- Preserved explicit inference limits: missing records are not proof of nonexistence; network scope is not result use; reporting conflicts require reconciliation rather than speculation.
+
 ## Version 3.4 - August 10, 2026
 - Published the Sherwood July 11–August 9 public search-audit source CSV and derived analysis workbook.
 - Added factual audit summaries: 185 searches; 104 reporting at least 1,000 networks; 21 reporting 6,248–6,295 networks; all 185 justified only as “Investigation”; and five follow-on events within 60 seconds.

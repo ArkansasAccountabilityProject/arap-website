@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://arkansasaccountabilityproject.org/</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-audit-evaluations/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-legislative-review-2026/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/statewide/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/about/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/contact/</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/jacksonville/</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-08-10</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/cabot/</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/pulaski-county/</loc></url>
-
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/jacksonville/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/cabot/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/pulaski-county/</loc><lastmod>2026-08-12</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-CENTRAL-ARKANSAS-COMPARISON-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVALUATION-CABOT-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVALUATION-JACKSONVILLE-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVALUATION-LITTLE-ROCK-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVALUATION-PULASKI-COUNTY-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVALUATION-SHERWOOD-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-AUDIT-EVIDENCE-MANIFEST-2026-08-12.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/alpr-audits/ARAP-ALPR-POLICY-CENTRAL-ARKANSAS-COMPARISON-2026-08-12.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/Sherwood_Citizen_Release_Edition_v1.0.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/ARAP-PUB-2026-003_Sherwood_Council_Briefing_Book_Complete_v2.1.pdf</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/ARAP-PUB-2026-003_Sherwood_Council_Briefing_Book_Complete_v2.1.docx</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/archive/APAP-PUB-2026-003_Sherwood_Council_Briefing_Book_Public_Reference_v2.0.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/ARAP-SHERWOOD-LEGISLATIVE-REVIEW-ADDENDUM-CITY-2026-130-H078-v1.1.pdf</loc></url>
-  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/ARAP-SHERWOOD-EVIDENCE-INDEX-2026-08-10-v3.4.csv</loc></url>
 </urlset>

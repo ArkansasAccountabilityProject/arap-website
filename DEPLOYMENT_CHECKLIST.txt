@@ -1,23 +1,21 @@
-ARAP Website Version 3.4 Deployment Checklist
+ARAP Website Version 3.5 Deployment Checklist
 
 1. Back up the existing arap-website repository and preserve its hidden .git directory.
-2. Copy this Version 3.4 package into the existing repository, allowing changed source files to replace older versions.
-3. Confirm the public/downloads/sherwood/evidence directory contains H-064, H-065, H-066, H-068, H-069, H-078, H-080, H-081, H-082, H-083, and both evidence-index files.
-4. Confirm there is no public H-067 file. Its index entry must say “Restricted pending additional redaction” and “Not published.”
-5. Review the Git diff before committing. Suggested commit message: Publish Sherwood evidence update Version 3.4
+2. Copy this Version 3.5 package into the existing repository, allowing changed source files to replace older versions.
+3. Confirm public/downloads/alpr-audits contains eight PDFs, repository-index.csv, and SHA256SUMS.txt.
+4. Confirm no raw user-audit or network-audit export was added to public/downloads/alpr-audits.
+5. Review the Git diff. Suggested commit message: Publish Central Arkansas ALPR audit evaluations Version 3.5
 6. Push to the main branch and confirm the Cloudflare build succeeds.
 7. Test on desktop and mobile:
-   - Home-page Version 3.4 feature
-   - Evidence Repository Sherwood card
-   - /jurisdictions/sherwood/
-   - /publications/
-   - CSV and XLSX audit downloads
-   - H-066, H-078, H-080, H-081, H-082, and both H-083 PDF links
-   - H-068 and H-069 image links
-   - Current evidence-index CSV and Attachment H v1.1 DOCX
-8. Confirm the Sherwood page states five follow-on searches within 60 seconds and does not describe the timing as proof of misuse.
-9. Confirm the page does not claim that network counts identify states, agencies, or databases.
-10. Open every newly published PDF/image and confirm no visible license plates, precise vehicle coordinates, requester contact information, or unreviewed spreadsheet screenshots appear.
-11. Confirm H-078 is the corrected eight-page v1.1 PDF and its evidence table uses H-066/H-066-A/H-078.
-12. Confirm all internal links pass the static link check and sitemap.xml contains no obsolete non-archive Version 2.0 URL.
-13. After deployment, spot-check the direct URLs and retain the deployed commit hash with the release record.
+   - Home-page Version 3.5 feature
+   - /publications/alpr-audit-evaluations/
+   - /evidence-repository/
+   - Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County jurisdiction pages
+   - All eight PDF downloads
+   - repository-index.csv and SHA256SUMS.txt
+8. Confirm the public pages do not equate a network count with a returned or used result.
+9. Confirm missing items are described as not identified in the selected record set, not as proof of nonexistence.
+10. Confirm Cabot record conflicts are presented as unreconciled discrepancies, not proof of intentional falsification.
+11. Confirm Pulaski County policy and report conflicts are presented as documentary inconsistencies, not proof of unlawful intent.
+12. Run the static internal-link check and verify every published PDF against SHA256SUMS.txt.
+13. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.

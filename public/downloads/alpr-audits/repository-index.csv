@@ -1,0 +1,9 @@
+record_id,jurisdiction,title,record_type,prepared_date,public_status,filename,sha256
+AUD-2026-001,Sherwood,Sherwood ALPR Audit Evaluation,Analytical publication,2026-08-12,Public,ARAP-ALPR-AUDIT-EVALUATION-SHERWOOD-2026-08-12.pdf,ede7ca3ea9d9b9f4bb84ea93d2d992ad11aa8a39d97124cf5b8da18c68aa1f8f
+AUD-2026-002,Cabot,Cabot ALPR Audit Evaluation,Analytical publication,2026-08-12,Public,ARAP-ALPR-AUDIT-EVALUATION-CABOT-2026-08-12.pdf,9c862a3f9995199f325f0f33c28b96e8acb7d91bcf7449b30a6adc084fe4be1d
+AUD-2026-003,Jacksonville,Jacksonville ALPR Audit Evaluation,Analytical publication,2026-08-12,Public,ARAP-ALPR-AUDIT-EVALUATION-JACKSONVILLE-2026-08-12.pdf,08dbf05affcb7a55e40dce5ebc6ca8297430e72bb421c4ad75b430529c9c047e
+AUD-2026-004,Little Rock,Little Rock ALPR Reports and Q2 Audit Evaluation,Analytical publication,2026-08-12,Public,ARAP-ALPR-AUDIT-EVALUATION-LITTLE-ROCK-2026-08-12.pdf,fcef8a2cf5667b7679e3867b44e7de19038cfbd78f7d448c284832e0d6774fa6
+AUD-2026-005,Pulaski County,Pulaski County ALPR Audit Evaluation,Analytical publication,2026-08-12,Public,ARAP-ALPR-AUDIT-EVALUATION-PULASKI-COUNTY-2026-08-12.pdf,7ce4312b52483336a06e703baf611379afc536ddd44ab13c1b3bd640936676e1
+AUD-2026-006,Central Arkansas,Central Arkansas ALPR Audit Findings Comparison,Comparative publication,2026-08-12,Public,ARAP-ALPR-AUDIT-CENTRAL-ARKANSAS-COMPARISON-2026-08-12.pdf,ea478e13f897140af900e67530abe59239ed87e7516d66260f7b2a3ba38757bc
+AUD-2026-007,Central Arkansas,Central Arkansas ALPR Policy Comparison,Comparative publication,2026-08-12,Public,ARAP-ALPR-POLICY-CENTRAL-ARKANSAS-COMPARISON-2026-08-12.pdf,4eaa4693f14822ad7573d298845967ded23710b0d37796a730f58aff2766b7f8
+AUD-2026-008,Central Arkansas,ALPR Audit Evidence Manifest,Evidence index,2026-08-12,Public,ARAP-ALPR-AUDIT-EVIDENCE-MANIFEST-2026-08-12.pdf,4962f1104598b2175a0c3f60f311b6de7d2fcd2afed7cf2b37b44096e0151b06
