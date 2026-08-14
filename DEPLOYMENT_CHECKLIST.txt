@@ -1,21 +1,27 @@
-ARAP Website Version 3.5 Deployment Checklist
+ARAP Website Version 3.6 Deployment Checklist
 
 1. Back up the existing arap-website repository and preserve its hidden .git directory.
-2. Copy this Version 3.5 package into the existing repository, allowing changed source files to replace older versions.
-3. Confirm public/downloads/alpr-audits contains eight PDFs, repository-index.csv, and SHA256SUMS.txt.
-4. Confirm no raw user-audit or network-audit export was added to public/downloads/alpr-audits.
-5. Review the Git diff. Suggested commit message: Publish Central Arkansas ALPR audit evaluations Version 3.5
+2. Copy this Version 3.6 package into the existing repository, allowing changed source files to replace older versions.
+3. Confirm these new public files are present:
+   - public/publications/sherwood-alpr-travel-patterns/index.html
+   - public/assets/interactive/sherwood-alpr-travel-patterns.html
+   - public/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-ANALYSIS-2026-08-14.xlsx
+   - public/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-MAP-2026-08-14.html
+   - public/downloads/sherwood/analysis/SHA256SUMS.txt
+4. Confirm the original source CSV and plate number are not included anywhere in the public directory.
+5. Review the Git diff. Suggested commit message: Publish Sherwood ALPR travel-pattern explorer Version 3.6
 6. Push to the main branch and confirm the Cloudflare build succeeds.
 7. Test on desktop and mobile:
-   - Home-page Version 3.5 feature
-   - /publications/alpr-audit-evaluations/
-   - /evidence-repository/
-   - Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County jurisdiction pages
-   - All eight PDF downloads
-   - repository-index.csv and SHA256SUMS.txt
-8. Confirm the public pages do not equate a network count with a returned or used result.
-9. Confirm missing items are described as not identified in the selected record set, not as proof of nonexistence.
-10. Confirm Cabot record conflicts are presented as unreconciled discrepancies, not proof of intentional falsification.
-11. Confirm Pulaski County policy and report conflicts are presented as documentary inconsistencies, not proof of unlawful intent.
-12. Run the static internal-link check and verify every published PDF against SHA256SUMS.txt.
-13. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.
+   - Home-page Version 3.6 feature
+   - /publications/sherwood-alpr-travel-patterns/
+   - Embedded map, full-screen map, recurring-pattern view, and several date views
+   - /publications/
+   - /jurisdictions/sherwood/
+   - Workbook and standalone-map downloads
+8. Confirm the public map and workbook use “Vehicle A” and contain no plate number.
+9. Confirm lines are described as chronological connectors, not verified roads traveled.
+10. Confirm the page does not claim driver identity, trip purpose, stops, continuous tracking, or certainty that every camera classification is correct.
+11. Run the static internal-link check and JavaScript syntax checks.
+12. Verify the new workbook and map against public/downloads/sherwood/analysis/SHA256SUMS.txt.
+13. Verify the existing Version 3.5 ALPR audit PDFs against public/downloads/alpr-audits/SHA256SUMS.txt.
+14. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.

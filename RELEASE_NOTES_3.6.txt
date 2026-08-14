@@ -1,0 +1,7 @@
+ARAP Website Version 3.6 — August 14, 2026
+
+This release adds a redacted Sherwood ALPR travel-pattern explorer based on the complete 80-row June 2026 export provided for analysis. The interactive page allows visitors to review recurring camera-to-camera patterns or select one of 19 active dates to inspect the sequence and elapsed time between 74 deduplicated events at 12 cameras.
+
+The public release includes a redacted analysis workbook and a downloadable standalone interactive map. The plate is removed and replaced with “Vehicle A.” The underlying source CSV is not republished.
+
+The page distinguishes documented detections from analytical connections. Lines show chronological relationships, not verified roads traveled. The records do not establish the driver, trip purpose, stops, continuous location, or whether every camera classification was accurate.

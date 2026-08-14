@@ -1,4 +1,4 @@
-# ARAP Website Version 3.5
+# ARAP Website Version 3.6
 
 Official website source for the Arkansas Accountability Project.
 
@@ -8,6 +8,12 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads bundled under `public/downloads/`
+
+## Version 3.6
+
+Version 3.6 adds a redacted Sherwood ALPR travel-pattern explorer based on an 80-row June 2026 export. The public page provides an interactive date and pattern map, reproducible methodology, explicit inference limits, a redacted analysis workbook, and a downloadable standalone map. The plate is removed and the underlying source CSV is not republished.
+
+The release also updates the home page, Publications index, Sherwood jurisdiction page, sitemap, release notes, and deployment checklist.
 
 ## Version 3.5
 

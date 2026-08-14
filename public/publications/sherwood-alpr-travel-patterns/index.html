@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sherwood ALPR travel-pattern explorer | ARAP</title>
+  <meta name="description" content="A redacted, interactive analysis of possible travel patterns and timeframes derived from a June 2026 Sherwood-area ALPR export.">
+  <link rel="canonical" href="https://arkansasaccountabilityproject.org/publications/sherwood-alpr-travel-patterns/">
+  <meta property="og:title" content="Sherwood ALPR travel-pattern explorer | ARAP">
+  <meta property="og:description" content="Explore redacted ALPR detections by date, camera, sequence, and elapsed time—with explicit limits on what the data can establish.">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://arkansasaccountabilityproject.org/publications/sherwood-alpr-travel-patterns/">
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<header><div class="wrap topbar">
+  <a class="brand" href="/">Arkansas Accountability Project <small>Public records • documented facts • informed discussion</small></a>
+  <nav aria-label="Primary navigation"><a href="/">Home</a><a href="/evidence-repository/">Evidence Repository</a><a href="/publications/">Publications</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav>
+</div></header>
+
+<main class="wrap" data-page-view="sherwood-travel-patterns">
+  <div class="breadcrumb"><a href="/">Home</a> / <a href="/publications/">Publications</a> / Sherwood ALPR travel patterns</div>
+
+  <section class="publication-hero data-publication-hero">
+    <div>
+      <span class="tag">Interactive data • August 14, 2026</span>
+      <h1 class="page-title">What a month of ALPR detections can reveal</h1>
+      <p class="lead">This redacted demonstration organizes one vehicle's June 2026 detections across twelve Sherwood-area cameras. It shows possible timing and travel patterns while preserving the distinction between a documented camera detection and an inferred route.</p>
+      <div class="actions publication-actions">
+        <a class="btn dark" href="#explorer">Explore the map</a>
+        <a class="btn outline" href="/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-ANALYSIS-2026-08-14.xlsx" download data-download-key="sherwood-travel-pattern-workbook">Download analysis workbook</a>
+      </div>
+    </div>
+    <aside class="publication-meta" aria-label="Analysis summary">
+      <h2>Analysis summary</h2>
+      <dl>
+        <div><dt>Source rows</dt><dd>80</dd></div>
+        <div><dt>Deduplicated events</dt><dd>74</dd></div>
+        <div><dt>Active dates</dt><dd>19</dd></div>
+        <div><dt>Camera locations</dt><dd>12</dd></div>
+        <div><dt>Identity treatment</dt><dd>Plate removed; “Vehicle A” used throughout</dd></div>
+      </dl>
+    </aside>
+  </section>
+
+  <section class="section" id="explorer">
+    <div class="section-heading-row">
+      <div>
+        <h2>Interactive travel-pattern explorer</h2>
+        <p class="lead">Choose “Patterns” for recurring camera-to-camera sequences or select a date to inspect that day's chronology. Select a camera or connection for details.</p>
+      </div>
+      <a class="button secondary" href="/assets/interactive/sherwood-alpr-travel-patterns.html" target="_blank" rel="noopener">Open full-screen map</a>
+    </div>
+    <div class="interactive-shell">
+      <iframe class="interactive-map-frame" src="/assets/interactive/sherwood-alpr-travel-patterns.html" title="Interactive map of redacted Sherwood-area ALPR detections and chronological connections" loading="eager" referrerpolicy="no-referrer"></iframe>
+    </div>
+    <noscript><div class="notice caution"><strong>JavaScript required.</strong> Use the downloadable workbook below if the interactive map is unavailable.</div></noscript>
+  </section>
+
+  <section class="section">
+    <h2>What the analysis found</h2>
+    <div class="stats compact-stats">
+      <div class="stat"><strong>25</strong><span>consecutive detections 20 minutes or less apart</span></div>
+      <div class="stat"><strong>10</strong><span>possible same-outing connections 20–90 minutes apart</span></div>
+      <div class="stat"><strong>20</strong><span>same-day connections more than 90 minutes apart</span></div>
+      <div class="stat"><strong>6</strong><span>same-camera burst rows collapsed as likely duplicates</span></div>
+    </div>
+    <div class="notice"><strong>Most repeated near-term sequence.</strong> Highway 107 northbound near North Hills to Kellogg Acres Road northbound at the city limits appeared 20 times across 16 dates. The elapsed times ranged from about 5.8 to 19.4 minutes, with a median of about 6.9 minutes. This establishes a repeated sequence of detections—not the road traveled between them.</div>
+  </section>
+
+  <section class="section">
+    <h2>Method</h2>
+    <div class="grid method-grid">
+      <article class="card"><span class="tag">1 • Order</span><h3>Sort documented detections</h3><p>The complete 80-row export was ordered by timestamp and assigned a standardized camera label and location.</p></article>
+      <article class="card"><span class="tag">2 • Deduplicate</span><h3>Collapse likely camera bursts</h3><p>Repeated rows at the same camera within 60 seconds were treated as one detection event. Six rows were collapsed, leaving 74 events.</p></article>
+      <article class="card"><span class="tag">3 • Connect</span><h3>Compare consecutive events</h3><p>Consecutive detections on the same date were connected and grouped by elapsed time: 20 minutes or less, 20–90 minutes, or more than 90 minutes.</p></article>
+      <article class="card"><span class="tag">4 • Protect</span><h3>Remove the plate</h3><p>The plate is not published. The map and workbook identify the subject only as “Vehicle A.” The source CSV is not included in this public release.</p></article>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Interpretation limits</h2>
+    <div class="notice caution"><strong>Do not read the lines as verified driving routes.</strong> Each detection establishes only that the camera system associated a vehicle with a location and time. Straight connectors show chronology, not turn-by-turn travel. The data does not establish the driver, purpose of travel, stops, roads used, continuous location, or whether every detection was accurate. Vehicle make labels also varied in the source records.</div>
+    <p class="lead">The visualization is a reproducible analytical aid, not a finding of wrongdoing. Its purpose is to show what location-and-time records can permit an observer to infer—and where those inferences must stop.</p>
+  </section>
+
+  <section class="section download-panel">
+    <div>
+      <span class="tag">Redacted public downloads</span>
+      <h2>Review the analysis offline</h2>
+      <p>The workbook contains the deduplicated event log, timing classifications, camera summary, and repeated sequence analysis. The standalone map contains the redacted interactive experience.</p>
+    </div>
+    <div class="actions publication-actions download-actions">
+      <a class="btn dark" href="/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-ANALYSIS-2026-08-14.xlsx" download data-download-key="sherwood-travel-pattern-workbook-bottom">Download workbook</a>
+      <a class="btn outline" href="/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-MAP-2026-08-14.html" download data-download-key="sherwood-travel-pattern-map">Download interactive map</a>
+    </div>
+  </section>
+
+  <section class="section"><div class="notice"><strong>Source and reproducibility.</strong> Analysis is based on the complete 80-row Flock Safety search-results export provided to ARAP for this review, covering June 1–28, 2026. Road geometry is derived from OpenStreetMap data retrieved August 14, 2026. The public files preserve the analysis while withholding the plate identifier. <a href="/downloads/sherwood/analysis/SHA256SUMS.txt">Verification checksums</a> are provided for both downloads.</div></section>
+</main>
+
+<footer><div class="wrap"><strong>Arkansas Accountability Project (ARAP)</strong><br><a href="https://arkansasaccountabilityproject.org">arkansasaccountabilityproject.org</a><br><small>This website is a living public-reference resource. Revisions will be published as additional verified records become available.</small></div></footer>
+<script src="/assets/site.js"></script>
+</body>
+</html>

@@ -33,3 +33,8 @@ table{width:100%;border-collapse:collapse;background:#fff}th,td{text-align:left;
 /* Version 3.5 ALPR audit evaluation collection */
 .audit-grid{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}.audit-grid .card{display:flex;flex-direction:column}.audit-grid .card p:last-child{margin-top:auto}.audit-grid strong{color:var(--accent2)}
 @media(max-width:520px){.audit-grid{grid-template-columns:1fr}.stats{grid-template-columns:1fr}}
+
+/* Version 3.6 Sherwood interactive travel-pattern analysis */
+.data-publication-hero{align-items:stretch}.data-publication-hero .publication-meta{height:100%}.section-heading-row{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:18px}.section-heading-row h2{margin-bottom:6px}.section-heading-row .lead{margin:0}.interactive-shell{background:#fff;border:1px solid var(--line);border-radius:14px;padding:10px;box-shadow:0 8px 28px rgba(20,34,56,.07)}.interactive-map-frame{display:block;width:100%;height:900px;border:0;border-radius:9px;background:#fff}.compact-stats{grid-template-columns:repeat(4,minmax(0,1fr))}.method-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.download-actions{justify-content:flex-end}.download-actions .btn{white-space:nowrap}
+@media(max-width:900px){.compact-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.interactive-map-frame{height:1050px}.section-heading-row{align-items:flex-start;flex-direction:column}}
+@media(max-width:620px){.interactive-shell{padding:4px}.interactive-map-frame{height:1250px}.compact-stats,.method-grid{grid-template-columns:1fr}.download-actions{justify-content:flex-start}.download-actions .btn{white-space:normal}}

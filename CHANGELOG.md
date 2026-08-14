@@ -1,5 +1,15 @@
 # Changelog
 
+## Version 3.6 - August 14, 2026
+- Added a public Sherwood ALPR travel-pattern explorer with recurring-pattern and date-specific views.
+- Published a redacted analysis workbook and downloadable standalone interactive map.
+- Organized 80 source rows into 74 deduplicated events across 19 active dates and 12 cameras.
+- Published timing classifications for 25 close sequences, 10 possible same-outing sequences, and 20 time-separated same-day connections.
+- Documented the repeated Highway 107 northbound to Kellogg Acres northbound sequence with its frequency and elapsed-time range.
+- Withheld the plate and underlying source CSV from the public release; all public analytical files use “Vehicle A.”
+- Added explicit limits that chronological connectors are not verified roads traveled and do not establish driver identity, purpose, stops, or continuous tracking.
+- Updated the home page, Publications index, Sherwood jurisdiction page, sitemap, README, release notes, and deployment checklist.
+
 ## Version 3.5 - August 12, 2026
 - Published ALPR audit evaluations for Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County.
 - Published Central Arkansas audit-findings and policy comparisons.
