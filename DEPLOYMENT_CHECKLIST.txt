@@ -1,24 +1,27 @@
-ARAP Website Version 3.7 Deployment Checklist
+ARAP Website Version 3.8 Deployment Checklist
 
 1. Back up the existing arap-website repository and preserve its hidden .git directory.
-2. Copy this Version 3.7 package into the existing repository, allowing changed source files to replace older versions.
-3. Confirm these new public files are present:
-   - public/downloads/sherwood/evidence/ARAP-SHERWOOD-CORRESPONDENCE-ALPR-POLICY-STATUTES-20260313-H084.pdf
-   - public/downloads/sherwood/evidence/ARAP-SHERWOOD-FOIA-CITY-2026-140-REPORTING-RECORDKEEPING-H085_REDACTED.pdf
-   - public/downloads/sherwood/evidence/ARAP-SHERWOOD-EVIDENCE-INDEX-2026-08-17-v3.7.csv
-   - public/downloads/sherwood/evidence/ARAP-SHERWOOD-H084-H085-SHA256SUMS.txt
-4. Confirm H-085 page 2 contains a permanent black redaction over the requester's email, telephone, street address, city, state, and ZIP fields.
-5. Review the Git diff. Suggested commit message: Publish Sherwood ALPR reporting records Version 3.7
-6. Push to the main branch and confirm the Cloudflare build succeeds.
-7. Test on desktop and mobile:
-   - Home-page Version 3.7 source-record update
+2. Copy this Version 3.8 package into the existing repository, allowing changed source files to replace older versions.
+3. Confirm these new publication routes are present:
+   - public/publications/the-haystack-problem-tower-dumps-and-alpr-oversight/index.html
+   - public/publications/sherwood-alpr-privacy-disclosures/index.html
+4. Confirm the three tower-dump PDFs and SHA256SUMS.txt are present under public/downloads/legal/tower-dump/.
+5. Confirm all six public-safe images are present under public/assets/evidence/sherwood-alpr-privacy-disclosures/ and the combined ZIP is present under public/downloads/sherwood/evidence/.
+6. Confirm the package does not contain the unredacted outcome CSV, original CITY-2026-112 vehicle images, or any original plate value.
+7. Review the Git diff. Suggested commit message: Publish Haystack and Sherwood privacy review Version 3.8
+8. Push to the main branch and confirm the Cloudflare build succeeds.
+9. Test on desktop and mobile:
+   - Home-page Version 3.8 publication update
+   - /publications/the-haystack-problem-tower-dumps-and-alpr-oversight/
+   - /publications/sherwood-alpr-privacy-disclosures/
+   - All six full-resolution public image links
+   - All three tower-dump PDF downloads
+   - Combined public screenshot ZIP
    - /evidence-repository/
    - /jurisdictions/sherwood/
-   - H-084 and H-085 PDF downloads
-   - Current v3.7 evidence-index and checksum downloads
-8. Confirm the Sherwood page describes H-084 as proof of transmission, not proof that every recipient reviewed or implemented the attachments.
-9. Confirm the Sherwood page describes H-085 as the City's statement, not a finding of intent, individual fault, legal liability, or effective corrective action.
-10. Confirm the presentation remains centered on statutory documentation and reporting responsibility, not advocacy for or against ALPR technology or a vendor.
-11. Run the static internal-link check and JavaScript syntax checks.
-12. Verify H-084 and H-085 against public/downloads/sherwood/evidence/ARAP-SHERWOOD-H084-H085-SHA256SUMS.txt.
-13. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.
+10. Confirm the Haystack feature states that tower dumps and ALPR systems are not identical and that the Mississippi ruling is not binding in Arkansas.
+11. Confirm network-export counts are described as scale, not proof of access.
+12. Confirm the privacy-disclosure page does not identify a final external reviewer or state that the records establish intent or liability.
+13. Run the static internal-link, HTML, JavaScript syntax, and sensitive-value checks.
+14. Verify the tower-dump and privacy-asset checksum files.
+15. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.

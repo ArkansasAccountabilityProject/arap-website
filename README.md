@@ -1,4 +1,4 @@
-# ARAP Website Version 3.7
+# ARAP Website Version 3.8
 
 Official website source for the Arkansas Accountability Project.
 
@@ -8,6 +8,14 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads bundled under `public/downloads/`
+
+## Version 3.8
+
+Version 3.8 publishes two source-linked features. “The Haystack Problem” compares the August 5, 2026 Southern District of Mississippi tower-dump ruling with networked ALPR oversight questions while keeping the legal and technological differences explicit. The page includes unchanged public copies of Documents 6, 37, and 41 from Case No. 3:25-cr-00038-CWR-ASH and publication checksums.
+
+“Sherwood’s Written Privacy Policy vs. Two Documented Data Releases” compares Policy 11.08.00 with CITY-2026-112 and CITY-2026-140. Six reviewed public-source images are included. All plate values remain redacted, and the original outcome CSV and vehicle-image production are excluded.
+
+Version 3.8 also cross-links the new publications from the home page, Publications index, Sherwood jurisdiction page, Evidence Repository, and redacted Sherwood travel-pattern explorer. The sitemap, changelog, release notes, version metadata, and deployment checklist are updated.
 
 ## Version 3.7
 

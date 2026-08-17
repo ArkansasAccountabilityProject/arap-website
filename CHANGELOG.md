@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 3.8 - August 17, 2026
+- Published “The Haystack Problem,” a documented comparison of the Southern District of Mississippi tower-dump ruling, networked ALPR systems, Arkansas law, existing ALPR authority, and Sherwood’s redacted travel-pattern demonstration.
+- Added unchanged public copies of tower-dump Documents 6, 37, and 41 with descriptive filenames and SHA-256 checksums.
+- Published “Sherwood’s Written Privacy Policy vs. Two Documented Data Releases,” comparing Policy 11.08.00 with CITY-2026-112 and CITY-2026-140.
+- Published six reviewed, public-safe source images and a combined screenshot ZIP; excluded the unredacted outcome CSV, original plate values, and unredacted vehicle images.
+- Preserved explicit limits concerning intent, external review, legal conclusions, network access, route inference, and the distinction between tower dumps and ALPR systems.
+- Cross-linked both publications from the home page, Publications index, Sherwood jurisdiction page, Evidence Repository, and Sherwood travel-pattern page.
+- Updated version metadata, sitemap, README, release notes, deployment checklist, and publication-source checksums.
+
 ## Version 3.7 - August 17, 2026
 - Published H-084, the March 13 internal email transmitting Arkansas ALPR statutes and draft Policy 11.08.00 to Chief Jeff Hagar and two other recipients.
 - Published H-085, the August 13 CITY-2026-140 reporting and recordkeeping response, with requester contact details permanently redacted.

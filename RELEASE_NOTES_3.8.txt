@@ -1,0 +1,20 @@
+ARAP Website Version 3.8 - August 17, 2026
+
+This release adds two source-linked public features before ARAP completes its ACLU outreach package.
+
+The Haystack Problem
+- Publishes a documented comparison of the August 5, 2026 Southern District of Mississippi tower-dump ruling with networked ALPR oversight questions.
+- Makes clear that the ruling is not an ALPR case, does not declare Flock or Arkansas ALPR programs unconstitutional, and is not binding precedent in Arkansas.
+- Includes unchanged public copies of Document 6, the Document 37 NACDL/ACLU/EFF amicus brief, and Document 41, with descriptive filenames and SHA-256 checksums.
+- Includes contrary and limiting ALPR authority, technological distinctions, pinpoint source notes, and responsible inference limits.
+
+Sherwood Privacy Disclosures
+- Compares Sherwood Police Department Policy 11.08.00 with CITY-2026-112 and CITY-2026-140.
+- Publishes six reviewed, public-safe images: two policy pages, two production emails, the request’s privacy/redaction language, and a ten-row outcome excerpt with every plate value removed.
+- Excludes the unredacted outcome CSV, original plate values, and unredacted vehicle images.
+- Distinguishes what the records document from questions of intent, external approval, final legal responsibility, and liability.
+
+Integration
+- Adds both features to the home page and Publications index.
+- Cross-links the Sherwood privacy-disclosure page, travel-pattern explorer, Haystack feature, Sherwood repository, and legislative review.
+- Updates the Evidence Repository, sitemap, README, changelog, version metadata, deployment checklist, and checksums.

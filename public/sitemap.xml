@@ -2,7 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-08-17</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-08-17</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/the-haystack-problem-tower-dumps-and-alpr-oversight/</loc><lastmod>2026-08-17</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/sherwood-alpr-privacy-disclosures/</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/sherwood-alpr-travel-patterns/</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-audit-evaluations/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-legislative-review-2026/</loc></url>
@@ -30,4 +32,11 @@
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-ANALYSIS-2026-08-14.xlsx</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-MAP-2026-08-14.html</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/SHA256SUMS.txt</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/legal/tower-dump/In-re-Tower-Dump-Warrants-Document-6-Magistrate-Order-2025-02-21.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/legal/tower-dump/In-re-Tower-Dump-Warrants-Document-37-Amicus-Brief-NACDL-ACLU-EFF-2025-08-29.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/legal/tower-dump/In-re-Tower-Dump-Warrants-Document-41-District-Order-2026-08-05.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/legal/tower-dump/SHA256SUMS.txt</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/Sherwood_ALPR_Privacy_Disclosure_Screenshots_2026-08-17.zip</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/Sherwood_ALPR_Privacy_Disclosure_Screenshots_2026-08-17_SHA256SUMS.txt</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/assets/evidence/sherwood-alpr-privacy-disclosures/SHA256SUMS.txt</loc></url>
 </urlset>
