@@ -1,4 +1,4 @@
-# ARAP Website Version 3.6
+# ARAP Website Version 3.7
 
 Official website source for the Arkansas Accountability Project.
 
@@ -8,6 +8,12 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads bundled under `public/downloads/`
+
+## Version 3.7
+
+Version 3.7 adds two Sherwood source records concerning statutory reporting and documentation responsibilities. H-084 contains the March 13 internal email, attached Arkansas ALPR statutes, and draft Policy 11.08.00. H-085 contains the August 13 CITY-2026-140 response acknowledging unavailable historical statistics and deficiencies in reporting and recordkeeping procedures; requester contact details are permanently redacted in the public copy.
+
+The Sherwood page places the two records in chronological order, identifies the reporting assignment in the draft, asks at what level of city government responsibility should rest, and preserves limits against inferring review, intent, individual fault, legal liability, or successful corrective action from the records alone.
 
 ## Version 3.6
 

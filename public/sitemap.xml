@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-08-17</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/sherwood-alpr-travel-patterns/</loc><lastmod>2026-08-14</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-audit-evaluations/</loc><lastmod>2026-08-12</lastmod></url>
@@ -10,7 +10,7 @@
   <url><loc>https://arkansasaccountabilityproject.org/about/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/contact/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/jacksonville/</loc><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-08-17</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/cabot/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/pulaski-county/</loc><lastmod>2026-08-12</lastmod></url>
@@ -25,6 +25,8 @@
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/Sherwood_Citizen_Release_Edition_v1.0.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/ARAP-PUB-2026-003_Sherwood_Council_Briefing_Book_Complete_v2.1.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/ARAP-SHERWOOD-LEGISLATIVE-REVIEW-ADDENDUM-CITY-2026-130-H078-v1.1.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/ARAP-SHERWOOD-CORRESPONDENCE-ALPR-POLICY-STATUTES-20260313-H084.pdf</loc></url>
+  <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/evidence/ARAP-SHERWOOD-FOIA-CITY-2026-140-REPORTING-RECORDKEEPING-H085_REDACTED.pdf</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-ANALYSIS-2026-08-14.xlsx</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/ARAP-SHERWOOD-ALPR-TRAVEL-PATTERN-MAP-2026-08-14.html</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/downloads/sherwood/analysis/SHA256SUMS.txt</loc></url>

@@ -1,5 +1,13 @@
 # Changelog
 
+## Version 3.7 - August 17, 2026
+- Published H-084, the March 13 internal email transmitting Arkansas ALPR statutes and draft Policy 11.08.00 to Chief Jeff Hagar and two other recipients.
+- Published H-085, the August 13 CITY-2026-140 reporting and recordkeeping response, with requester contact details permanently redacted.
+- Documented that the draft assigned six-month report compilation to the Chief of Police or designee and required eighteen-month retention.
+- Added explicit limits: sending an email does not prove review or implementation, and the August response does not establish intent, individual fault, legal liability, or effective corrective action.
+- Added the public accountability question of where responsibility should rest across assigned staff, supervisors, department leadership, city administration, and governing-body oversight.
+- Updated the Sherwood evidence register, SHA-256 checksums, home page, Evidence Repository, Sherwood jurisdiction page, sitemap, README, release notes, and deployment checklist.
+
 ## Version 3.6 - August 14, 2026
 - Added a public Sherwood ALPR travel-pattern explorer with recurring-pattern and date-specific views.
 - Published a redacted analysis workbook and downloadable standalone interactive map.
