@@ -1,0 +1,17 @@
+ARAP WEBSITE VERSION 3.2 - SHERWOOD PUBLICATIONS
+Release date: July 30, 2026
+
+PURPOSE
+This release publishes the finalized Sherwood Council Briefing Book and Sherwood Resident Information Packet.
+
+NEW DOWNLOADS
+/public/downloads/sherwood/APAP-PUB-2026-003_Sherwood_Council_Briefing_Book_Public_Reference_v2.0.pdf
+/public/downloads/sherwood/Sherwood_Citizen_Release_Edition_v1.0.pdf
+/public/downloads/sherwood/Sherwood_Citizen_Release_Edition_v1.0.docx
+
+CHANGES
+- Replaced the superseded APAP-PUB-2026-002 placeholder with APAP-PUB-2026-003 Version 2.0.
+- Finalized the citizen packet by removing draft labeling and identifying it as Version 1.0, July 2026.
+- Added active download buttons on the Sherwood jurisdiction page.
+- Added packet links under Sherwood repository categories 01 and 11.
+- Updated the Publications page, sitemap, README, changelog, and deployment notes.

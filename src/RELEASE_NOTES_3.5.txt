@@ -1,0 +1,7 @@
+ARAP Website Version 3.5 — August 12, 2026
+
+This release publishes five Central Arkansas ALPR audit evaluations covering Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County. It also publishes regional audit-findings and policy comparisons, an evidence manifest, a machine-readable repository index, and SHA-256 checksums.
+
+The evaluations distinguish verified observations from inference and unresolved questions. Missing records are described as not identified in the selected record set, not as proof that the records do not exist. Network counts are described as query scope, not as proof that a result was returned, viewed, or used.
+
+Raw records containing personal identifiers, plates, user accounts, query details, or operational parameters are not republished in this release. Their exact filenames, hashes, and handling decisions are preserved in the public evidence manifest.
