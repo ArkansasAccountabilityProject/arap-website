@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">ALPR installation geometry</title>
+<desc id="desc">Diagram showing a 12-foot camera pole, a 24.8-foot horizontal setback to the pavement edge, and a 27.6-foot minimum straight-line distance from the camera to the pavement edge.</desc>
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700">Documented Installation Geometry</text>
+<text x="600" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="20">Known dimensions support a minimum distance to the pavement edge—not an exact vehicle distance.</text>
+
+<!-- ground -->
+<line x1="100" y1="540" x2="1080" y2="540" stroke="#222" stroke-width="4"/>
+<text x="120" y="580" font-family="Arial, sans-serif" font-size="22">Ground level</text>
+
+<!-- pole -->
+<line x1="250" y1="540" x2="250" y2="230" stroke="#222" stroke-width="12"/>
+<rect x="235" y="205" width="70" height="38" rx="6" fill="#222"/>
+<circle cx="300" cy="224" r="10" fill="#fff"/>
+<text x="322" y="212" font-family="Arial, sans-serif" font-size="22" font-weight="700">Camera position</text>
+
+<!-- height bracket -->
+<line x1="170" y1="230" x2="170" y2="540" stroke="#555" stroke-width="3"/>
+<line x1="152" y1="230" x2="188" y2="230" stroke="#555" stroke-width="3"/>
+<line x1="152" y1="540" x2="188" y2="540" stroke="#555" stroke-width="3"/>
+<text x="125" y="395" transform="rotate(-90 125 395)" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700">12 ft pole height</text>
+
+<!-- pavement edge -->
+<line x1="760" y1="170" x2="760" y2="570" stroke="#666" stroke-width="4" stroke-dasharray="12 12"/>
+<text x="782" y="205" font-family="Arial, sans-serif" font-size="24" font-weight="700">Pavement edge</text>
+
+<!-- roadway -->
+<rect x="760" y="420" width="330" height="120" fill="#ececec"/>
+<line x1="760" y1="480" x2="1090" y2="480" stroke="#999" stroke-width="3" stroke-dasharray="18 14"/>
+<text x="915" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="22">Vehicle travels inside roadway</text>
+
+<!-- horizontal distance -->
+<line x1="250" y1="600" x2="760" y2="600" stroke="#222" stroke-width="3"/>
+<polygon points="250,600 272,588 272,612" fill="#222"/>
+<polygon points="760,600 738,588 738,612" fill="#222"/>
+<text x="505" y="642" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700">24.8 ft horizontal setback</text>
+
+<!-- diagonal -->
+<line x1="300" y1="224" x2="760" y2="540" stroke="#111" stroke-width="5"/>
+<rect x="440" y="325" width="340" height="60" rx="12" fill="#fff" stroke="#bbb"/>
+<text x="610" y="351" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700">≈ 27.6 ft minimum</text>
+<text x="610" y="378" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">camera → pavement edge</text>
+
+<!-- vehicle -->
+<rect x="900" y="438" width="120" height="45" rx="10" fill="#bbb" stroke="#222" stroke-width="3"/>
+<circle cx="925" cy="488" r="13" fill="#222"/>
+<circle cx="995" cy="488" r="13" fill="#222"/>
+<text x="960" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700">Vehicle</text>
+
+<!-- note -->
+<rect x="825" y="250" width="300" height="120" rx="12" fill="#f7f7f7" stroke="#aaa"/>
+<text x="975" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700">Important</text>
+<text x="975" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">27.6 ft ends at the pavement edge.</text>
+<text x="975" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="18">A vehicle in the lane is farther away.</text>
+</svg>

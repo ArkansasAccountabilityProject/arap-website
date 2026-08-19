@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">Multiple ALPR observations become a movement sequence</title>
+<desc id="desc">Diagram showing three separate ALPR observations at different cameras and times, which when sorted chronologically form an observed movement sequence. The diagram emphasizes that this is not continuous tracking between cameras.</desc>
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700">From Separate Images to an Observed Travel Sequence</text>
+<text x="600" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="20">Aggregation adds informational value without turning fixed cameras into continuous GPS tracking.</text>
+
+<!-- three cards -->
+<g font-family="Arial, sans-serif">
+  <rect x="90" y="170" width="290" height="230" rx="18" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  <text x="235" y="215" text-anchor="middle" font-size="26" font-weight="700">Observation 1</text>
+  <text x="235" y="258" text-anchor="middle" font-size="22">7:42 AM</text>
+  <text x="235" y="295" text-anchor="middle" font-size="22">Camera D</text>
+  <text x="235" y="332" text-anchor="middle" font-size="22">Plate ABC123</text>
+  <text x="235" y="369" text-anchor="middle" font-size="18">Discrete point in time</text>
+
+  <rect x="455" y="170" width="290" height="230" rx="18" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  <text x="600" y="215" text-anchor="middle" font-size="26" font-weight="700">Observation 2</text>
+  <text x="600" y="258" text-anchor="middle" font-size="22">7:56 AM</text>
+  <text x="600" y="295" text-anchor="middle" font-size="22">Camera C</text>
+  <text x="600" y="332" text-anchor="middle" font-size="22">Plate ABC123</text>
+  <text x="600" y="369" text-anchor="middle" font-size="18">Discrete point in time</text>
+
+  <rect x="820" y="170" width="290" height="230" rx="18" fill="#f5f5f5" stroke="#333" stroke-width="3"/>
+  <text x="965" y="215" text-anchor="middle" font-size="26" font-weight="700">Observation 3</text>
+  <text x="965" y="258" text-anchor="middle" font-size="22">8:04 AM</text>
+  <text x="965" y="295" text-anchor="middle" font-size="22">Camera A</text>
+  <text x="965" y="332" text-anchor="middle" font-size="22">Plate ABC123</text>
+  <text x="965" y="369" text-anchor="middle" font-size="18">Discrete point in time</text>
+</g>
+
+<!-- arrows -->
+<line x1="380" y1="285" x2="455" y2="285" stroke="#222" stroke-width="5"/>
+<polygon points="455,285 430,270 430,300" fill="#222"/>
+<line x1="745" y1="285" x2="820" y2="285" stroke="#222" stroke-width="5"/>
+<polygon points="820,285 795,270 795,300" fill="#222"/>
+
+<!-- aggregation -->
+<rect x="170" y="475" width="860" height="125" rx="18" fill="#f7f7f7" stroke="#444" stroke-width="3"/>
+<text x="600" y="515" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700">Sort by same vehicle + time + camera location</text>
+<text x="600" y="553" text-anchor="middle" font-family="Arial, sans-serif" font-size="22">Observed sequence: Camera D → Camera C → Camera A</text>
+<text x="600" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="19">Supports movement inference between observation points; does not prove the exact route between them.</text>
+
+<!-- footer -->
+<text x="600" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700">Discrete observations ≠ continuous tracking • Aggregated observations can still reveal travel patterns</text>
+</svg>
