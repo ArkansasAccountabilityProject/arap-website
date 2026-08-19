@@ -1,3 +1,10 @@
+## Version 3.9.2 — August 19, 2026 (final)
+- Added the `ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf` distribution edition with a one-page municipal roadmap and printable city-government review checklist. Rebuilt the checklist pagination so rows are not split across pages and the final public-standard line remains with the checklist.
+- Added a direct download callout to the Audit vs. Accountability publication page.
+- Corrected repeated Version 3.9 insertion blocks on Publications, Evidence Repository, ALPR Audit Evaluations, Sherwood Travel Patterns, and Sherwood jurisdiction pages.
+- Preserved the Version 3.9.1 long-form table-of-contents CSS fix and the homepage duplicate-card correction.
+- No underlying evidence records or substantive publication findings changed.
+
 ## Version 3.9.1 — August 19, 2026
 - Hotfix: restored visible link text in the "On this page" navigation on long-form publication pages.
 - Cause: global header rule `nav a { color: #fff; }` also applied to article TOC navigation.

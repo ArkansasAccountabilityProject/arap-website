@@ -1,16 +1,16 @@
-ARAP Website Version 3.9.1 Deployment Checklist
+ARAP Website Version 3.9.2 Deployment Checklist
 
 1. Back up the existing arap-website repository and preserve its hidden .git directory.
-2. Overlay this Version 3.9.1 package onto the existing repository, allowing changed files to replace Version 3.8 copies.
+2. Overlay this Version 3.9.2 package onto the existing repository, allowing changed files to replace Version 3.8 copies.
 3. Confirm the new publication routes are present:
    - public/publications/alpr-audit-vs-accountability/index.html
    - public/publications/alpr-camera-geometry-multi-image-data/index.html
 4. Confirm the four new SVG figures and both SHA256SUMS.txt files are present under public/assets/publications/.
 5. Confirm all Version 3.8 publication routes and assets remain present, including the Haystack feature, Sherwood privacy-disclosure page, and Sherwood travel-pattern explorer.
-6. Review the Git diff. Suggested commit message: Publish ALPR technical and accountability papers Version 3.9.1
+6. Review the Git diff. Suggested commit message: Publish ALPR technical and accountability papers Version 3.9.2
 7. Push to the main branch and confirm the Cloudflare build succeeds.
 8. Test on desktop and mobile:
-   - Home page shows Website Version 3.9.1
+   - Home page shows Website Version 3.9.2
    - /publications/alpr-audit-vs-accountability/
    - /publications/alpr-camera-geometry-multi-image-data/
    - Both pages' SVG figures

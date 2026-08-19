@@ -1,0 +1,31 @@
+ARAP Website Version 3.9.2 - Final Validation
+Prepared: August 19, 2026
+
+Municipal Roadmap PDF
+- File: ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf
+- Pages visually rendered and reviewed: 28
+- SHA-256: 0bdc682a9ea1087633c461271e08f6a70cd70c69c8ce845e2e589b4a248f5f1c
+- Includes one-page Municipal ALPR Accountability Roadmap, full Audit vs. Accountability paper, and printable City Government Review Checklist.
+- Pagination correction: checklist rows are kept intact across the final two pages; the prior one-line orphan page was eliminated.
+
+Duplicate cleanup
+- Publications duplicate cards removed: 6
+- Evidence Repository duplicate 3.9 sections removed: 3
+- ALPR Audit Evaluations duplicate notices removed: 3
+- Sherwood Travel Patterns duplicate new-publication cards removed: 6
+- Sherwood duplicate technical/accountability spotlight sections removed: 3
+- Sherwood publication-category repeated link pairs normalized.
+
+Validation
+- HTML pages parsed: 30
+- Broken internal links/assets: 0
+- Missing same-page anchors: 0
+- Duplicate HTML IDs: 0
+- Version 3.9.1 TOC CSS hotfix preserved.
+- Homepage Version 3.9 feature card remains single.
+- Municipal Roadmap PDF download target resolves inside the package.
+
+Editorial scope
+- No underlying evidence records changed.
+- No substantive findings in either Version 3.9 paper changed.
+- The Municipal Roadmap identifies recommendations as governance proposals rather than claims that Arkansas law mandates every listed safeguard.
