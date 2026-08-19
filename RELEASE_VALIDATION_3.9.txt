@@ -1,0 +1,59 @@
+ARAP Website Version 3.9 - Release Validation
+Prepared: August 19, 2026
+
+BASE
+- Source of truth: user-supplied ARAP Website Version 3.8 GitHub-ready package.
+- Version 3.8 files present in source package: 98
+- Version 3.8 files missing after Version 3.9 build: 0
+- Version 3.8 files preserved byte-for-byte: 85
+- Expected Version 3.8 files modified for Version 3.9 integration/versioning: 13
+
+VERSION 3.9 ADDITIONS
+- /publications/alpr-audit-vs-accountability/
+- /publications/alpr-camera-geometry-multi-image-data/
+- Two accountability SVG figures + SHA-256 manifest
+- Two camera/multi-image SVG figures + SHA-256 manifest
+- RELEASE_NOTES_3.9.txt
+- RELEASE_VALIDATION_3.9.txt
+
+INTEGRATION
+- Home page updated to Website Version 3.9.
+- Publications index updated.
+- Evidence Repository updated.
+- Sherwood jurisdiction page updated.
+- Sherwood travel-pattern explorer cross-linked.
+- ALPR audit-evaluations collection cross-linked.
+- Sitemap updated.
+- README, changelog, package.json, package-lock.json, and deployment checklist updated.
+
+VALIDATION
+- HTML pages parsed: 30
+- Internal HTML/asset references checked: 665
+- Broken internal targets: 0
+- Missing same-page anchors: 0
+- Duplicate HTML IDs detected: 0
+- Sitemap XML parsed successfully.
+- public/assets/site.js passed Node syntax check.
+- src/index.js passed Node syntax check.
+- New publication SVG checksums verified.
+- Version 3.8 critical Haystack, privacy-disclosure, travel-pattern, legal-document, and public-safe image assets remain present.
+- No Flock_Safety_Search_Results raw source export was introduced into the public package.
+
+PUBLICATION SAFEGUARDS CONFIRMED
+Audit vs. Accountability:
+- Warrant comparison remains expressly limited to governance/process analogy.
+- No claim that every ALPR database query legally requires a warrant.
+- Blank/generic reasons are not characterized as automatic proof of misuse.
+- Broad-network queries are not characterized as proof that outside data was returned or used.
+- Proposed municipal controls are identified as policy recommendations.
+
+Camera Geometry and Multi-Image Data:
+- 12-foot pole height and 24.8-foot pavement-edge setback remain labeled as documented municipal-record measurements.
+- 27.6 feet remains a mathematical minimum to the pavement edge, not an exact camera-to-vehicle distance.
+- Exact screenshot-derived vehicle distances are not presented as measured facts.
+- Flock capture range, speed, lane coverage, and Vehicle Signature statements remain labeled as manufacturer-described capabilities.
+- Multi-image aggregation is distinguished from continuous GPS tracking.
+- The underlying installation drawing is identified as retained in the ARAP collection but not republished in Version 3.9.
+
+DEPLOYMENT
+Overlay this package onto the existing authenticated arap-website Git repository while preserving the repository's .git directory. Review the diff, commit, push main, confirm the Cloudflare build, and test the direct live URLs listed in DEPLOYMENT_CHECKLIST.txt.

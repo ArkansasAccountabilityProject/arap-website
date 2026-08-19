@@ -1,5 +1,49 @@
 # Changelog
 
+## Version 3.9 - August 19, 2026
+- Published **Audit vs. Accountability: Preventive Controls for ALPR Database Searches**, separating authentication, documentation, authorization, scope control, audit, review, statutory reporting, and corrective action.
+- Preserved explicit limits that blank or generic audit reasons do not prove misuse, broad-network queries do not prove outside data was returned or used, and the warrant comparison is a governance analogy rather than a claim that every ALPR query legally requires a warrant.
+- Published **Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data**, documenting the approximately 12-foot pole height and 24.8-foot pavement-edge setback and deriving an approximately 27.6-foot minimum slant distance to the pavement edge.
+- Preserved the distinction between the derived minimum to the pavement edge and an unmeasured camera-to-vehicle distance; exact screenshot-based photogrammetric claims are not published without calibration data.
+- Labeled Flock capture-distance, lane-coverage, speed, and vehicle-classification statements as manufacturer-described capabilities rather than site-specific validation.
+- Added two website-ready SVG figures for the accountability paper and two for the camera/multi-image paper, with SHA-256 checksum files.
+- Cross-linked the new papers from the home page, Publications index, Evidence Repository, Sherwood page, Sherwood travel-pattern explorer, and ALPR audit collection.
+- Updated sitemap, README, release notes, package version, deployment checklist, and validation records while preserving all Version 3.8 public content.
+
+
+## Version 3.9 - August 19, 2026
+- Published **Audit vs. Accountability: Preventive Controls for ALPR Database Searches**, separating authentication, documentation, authorization, scope control, audit, review, statutory reporting, and corrective action.
+- Preserved explicit limits that blank or generic audit reasons do not prove misuse, broad-network queries do not prove outside data was returned or used, and the warrant comparison is a governance analogy rather than a claim that every ALPR query legally requires a warrant.
+- Published **Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data**, documenting the approximately 12-foot pole height and 24.8-foot pavement-edge setback and deriving an approximately 27.6-foot minimum slant distance to the pavement edge.
+- Preserved the distinction between the derived minimum to the pavement edge and an unmeasured camera-to-vehicle distance; exact screenshot-based photogrammetric claims are not published without calibration data.
+- Labeled Flock capture-distance, lane-coverage, speed, and vehicle-classification statements as manufacturer-described capabilities rather than site-specific validation.
+- Added two website-ready SVG figures for the accountability paper and two for the camera/multi-image paper, with SHA-256 checksum files.
+- Cross-linked the new papers from the home page, Publications index, Evidence Repository, Sherwood page, Sherwood travel-pattern explorer, and ALPR audit collection.
+- Updated sitemap, README, release notes, package version, deployment checklist, and validation records while preserving all Version 3.8 public content.
+
+
+## Version 3.9 - August 19, 2026
+- Published **Audit vs. Accountability: Preventive Controls for ALPR Database Searches**, separating authentication, documentation, authorization, scope control, audit, review, statutory reporting, and corrective action.
+- Preserved explicit limits that blank or generic audit reasons do not prove misuse, broad-network queries do not prove outside data was returned or used, and the warrant comparison is a governance analogy rather than a claim that every ALPR query legally requires a warrant.
+- Published **Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data**, documenting the approximately 12-foot pole height and 24.8-foot pavement-edge setback and deriving an approximately 27.6-foot minimum slant distance to the pavement edge.
+- Preserved the distinction between the derived minimum to the pavement edge and an unmeasured camera-to-vehicle distance; exact screenshot-based photogrammetric claims are not published without calibration data.
+- Labeled Flock capture-distance, lane-coverage, speed, and vehicle-classification statements as manufacturer-described capabilities rather than site-specific validation.
+- Added two website-ready SVG figures for the accountability paper and two for the camera/multi-image paper, with SHA-256 checksum files.
+- Cross-linked the new papers from the home page, Publications index, Evidence Repository, Sherwood page, Sherwood travel-pattern explorer, and ALPR audit collection.
+- Updated sitemap, README, release notes, package version, deployment checklist, and validation records while preserving all Version 3.8 public content.
+
+
+## Version 3.9 - August 19, 2026
+- Published **Audit vs. Accountability: Preventive Controls for ALPR Database Searches**, separating authentication, documentation, authorization, scope control, audit, review, statutory reporting, and corrective action.
+- Preserved explicit limits that blank or generic audit reasons do not prove misuse, broad-network queries do not prove outside data was returned or used, and the warrant comparison is a governance analogy rather than a claim that every ALPR query legally requires a warrant.
+- Published **Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data**, documenting the approximately 12-foot pole height and 24.8-foot pavement-edge setback and deriving an approximately 27.6-foot minimum slant distance to the pavement edge.
+- Preserved the distinction between the derived minimum to the pavement edge and an unmeasured camera-to-vehicle distance; exact screenshot-based photogrammetric claims are not published without calibration data.
+- Labeled Flock capture-distance, lane-coverage, speed, and vehicle-classification statements as manufacturer-described capabilities rather than site-specific validation.
+- Added two website-ready SVG figures for the accountability paper and two for the camera/multi-image paper, with SHA-256 checksum files.
+- Cross-linked the new papers from the home page, Publications index, Evidence Repository, Sherwood page, Sherwood travel-pattern explorer, and ALPR audit collection.
+- Updated sitemap, README, release notes, package version, deployment checklist, and validation records while preserving all Version 3.8 public content.
+
+
 ## Version 3.8 - August 17, 2026
 - Published “The Haystack Problem,” a documented comparison of the Southern District of Mississippi tower-dump ruling, networked ALPR systems, Arkansas law, existing ALPR authority, and Sherwood’s redacted travel-pattern demonstration.
 - Added unchanged public copies of tower-dump Documents 6, 37, and 41 with descriptive filenames and SHA-256 checksums.

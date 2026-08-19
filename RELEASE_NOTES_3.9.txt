@@ -1,0 +1,23 @@
+ARAP Website Version 3.9 - August 19, 2026
+
+This release adds two complementary public papers while preserving all Version 3.8 material.
+
+Audit vs. Accountability
+- Distinguishes after-the-fact audit logs from preventive documentation, authorization, scope control, verification, reporting, and corrective action.
+- Uses Arkansas law and selected Sherwood/Cabot records with explicit limits against treating blank reasons, broad network scope, or reporting gaps as automatic proof of misuse.
+- Labels municipal approval structures as policy recommendations rather than universal current statutory requirements.
+- Treats the search-warrant comparison as a timing/process analogy, not a legal conclusion that every ALPR database query requires a warrant.
+
+Fixed ALPR Camera Geometry and Multi-Image Data
+- Publishes the documented approximately 12-foot pole height and 24.8-foot pavement-edge setback used in the technical analysis.
+- Derives an approximately 27.6-foot minimum slant distance to the pavement edge using the Pythagorean theorem.
+- Makes clear that 27.6 feet is not an exact camera-to-vehicle measurement.
+- Declines exact screenshot-derived vehicle distances without focal length, sensor dimensions, camera orientation, distortion calibration, or equivalent site-specific optical evidence.
+- Labels Flock capture-distance, speed, lane-coverage, and Vehicle Signature statements as manufacturer-described capabilities.
+- Explains that multiple discrete ALPR observations can support retrospective movement inferences without becoming continuous GPS tracking.
+
+Integration and preservation
+- Adds both papers to the home page, Publications index, Evidence Repository, Sherwood page, travel-pattern explorer, and audit-evaluation collection.
+- Adds four SVG publication figures and checksum files.
+- Updates sitemap, README, changelog, package version, release notes, and deployment checklist.
+- Preserves all Version 3.8 pages, public-safe screenshots, legal documents, redacted analyses, and downloads.

@@ -1,0 +1,2 @@
+222aba02578488f32632d86b16fd3d88436be77cc0d5c6473a6f9259528e23da  alpr-accountability-chain.svg
+876ad1cfa5836acace41f9ffc2306aa69da6baa411e06332cc220518d16580ff  audit-vs-presearch-control.svg

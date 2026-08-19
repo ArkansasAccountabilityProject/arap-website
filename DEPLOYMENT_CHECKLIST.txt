@@ -1,27 +1,28 @@
-ARAP Website Version 3.8 Deployment Checklist
+ARAP Website Version 3.9 Deployment Checklist
 
 1. Back up the existing arap-website repository and preserve its hidden .git directory.
-2. Copy this Version 3.8 package into the existing repository, allowing changed source files to replace older versions.
-3. Confirm these new publication routes are present:
-   - public/publications/the-haystack-problem-tower-dumps-and-alpr-oversight/index.html
-   - public/publications/sherwood-alpr-privacy-disclosures/index.html
-4. Confirm the three tower-dump PDFs and SHA256SUMS.txt are present under public/downloads/legal/tower-dump/.
-5. Confirm all six public-safe images are present under public/assets/evidence/sherwood-alpr-privacy-disclosures/ and the combined ZIP is present under public/downloads/sherwood/evidence/.
-6. Confirm the package does not contain the unredacted outcome CSV, original CITY-2026-112 vehicle images, or any original plate value.
-7. Review the Git diff. Suggested commit message: Publish Haystack and Sherwood privacy review Version 3.8
-8. Push to the main branch and confirm the Cloudflare build succeeds.
-9. Test on desktop and mobile:
-   - Home-page Version 3.8 publication update
-   - /publications/the-haystack-problem-tower-dumps-and-alpr-oversight/
-   - /publications/sherwood-alpr-privacy-disclosures/
-   - All six full-resolution public image links
-   - All three tower-dump PDF downloads
-   - Combined public screenshot ZIP
+2. Overlay this Version 3.9 package onto the existing repository, allowing changed files to replace Version 3.8 copies.
+3. Confirm the new publication routes are present:
+   - public/publications/alpr-audit-vs-accountability/index.html
+   - public/publications/alpr-camera-geometry-multi-image-data/index.html
+4. Confirm the four new SVG figures and both SHA256SUMS.txt files are present under public/assets/publications/.
+5. Confirm all Version 3.8 publication routes and assets remain present, including the Haystack feature, Sherwood privacy-disclosure page, and Sherwood travel-pattern explorer.
+6. Review the Git diff. Suggested commit message: Publish ALPR technical and accountability papers Version 3.9
+7. Push to the main branch and confirm the Cloudflare build succeeds.
+8. Test on desktop and mobile:
+   - Home page shows Website Version 3.9
+   - /publications/alpr-audit-vs-accountability/
+   - /publications/alpr-camera-geometry-multi-image-data/
+   - Both pages' SVG figures
+   - /publications/
    - /evidence-repository/
    - /jurisdictions/sherwood/
-10. Confirm the Haystack feature states that tower dumps and ALPR systems are not identical and that the Mississippi ruling is not binding in Arkansas.
-11. Confirm network-export counts are described as scale, not proof of access.
-12. Confirm the privacy-disclosure page does not identify a final external reviewer or state that the records establish intent or liability.
-13. Run the static internal-link, HTML, JavaScript syntax, and sensitive-value checks.
-14. Verify the tower-dump and privacy-asset checksum files.
-15. After deployment, check the direct live URLs and retain the deployed commit hash with the release record.
+   - /publications/sherwood-alpr-travel-patterns/
+9. Confirm the audit paper states that the warrant comparison is a governance/process analogy and does not claim every ALPR query requires a warrant.
+10. Confirm the audit paper does not characterize blank reasons or broad-network searches as proof of improper activity.
+11. Confirm the camera paper states that 27.6 feet is the derived minimum to the pavement edge, not an exact camera-to-vehicle distance.
+12. Confirm manufacturer statements are labeled as manufacturer-described capabilities, not site-specific calibration or independent validation.
+13. Confirm the camera paper does not contain unsupported exact screenshot-based vehicle distances.
+14. Run static HTML parsing, internal-link/asset checks, sitemap XML parsing, JavaScript syntax checks, and archive-integrity tests.
+15. Verify both new publication-asset checksum files.
+16. After deployment, check the two new direct live URLs and retain the deployed commit hash with the release record.

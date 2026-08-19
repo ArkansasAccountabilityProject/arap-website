@@ -1,0 +1,894 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Audit vs. Accountability: Preventive Controls for ALPR Database Searches | ARAP</title>
+<meta name="description" content="An Arkansas-focused technical and policy paper distinguishing after-the-fact ALPR auditing from preventive documentation, authorization, verification, reporting, and oversight.">
+<link rel="canonical" href="https://arkansasaccountabilityproject.org/publications/alpr-audit-vs-accountability/">
+<meta property="og:title" content="Audit vs. Accountability: Preventive Controls for ALPR Database Searches | ARAP">
+<meta property="og:description" content="An Arkansas-focused technical and policy paper distinguishing after-the-fact ALPR auditing from preventive documentation, authorization, verification, reporting, and oversight.">
+<meta property="og:type" content="article"><meta property="og:url" content="https://arkansasaccountabilityproject.org/publications/alpr-audit-vs-accountability/">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<header><div class="wrap topbar"><a class="brand" href="/">Arkansas Accountability Project <small>Public records • documented facts • informed discussion</small></a><nav aria-label="Primary navigation"><a href="/">Home</a><a href="/evidence-repository/">Evidence Repository</a><a href="/publications/">Publications</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></header>
+<main class="wrap article-page" data-page-view="alpr-audit-vs-accountability">
+<div class="breadcrumb"><a href="/">Home</a> / <a href="/publications/">Publications</a> / Audit vs. Accountability: Preventive Controls for ALPR Database Searches</div>
+<section class="publication-hero article-hero"><div><span class="tag">New • Accountability framework • August 19, 2026</span><h1 class="page-title">Audit vs. Accountability: Preventive Controls for ALPR Database Searches</h1><p class="lead">Audit logs can show what happened after an ALPR search. This paper examines what safeguards can operate before sensitive historical vehicle-location data is accessed.</p></div><aside class="publication-meta" aria-label="Publication scope"><h2>Publication scope</h2><p>This is a records-and-governance analysis. Proposed municipal controls are identified as policy recommendations rather than claims that Arkansas law currently requires every recommended step.</p><p><strong>Published:</strong> August 19, 2026</p><p><strong>Standard:</strong> Facts First. Questions Second. Conclusions Last.</p></aside></section>
+<div class="article-layout"><nav class="article-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#executive-summary">Executive Summary</a></li>
+<li><a href="#what-an-alpr-audit-log-actually-does">1. What an ALPR Audit Log Actually Does</a></li>
+<li><a href="#what-an-alpr-audit-cannot-do">2. What an ALPR Audit Cannot Do</a></li>
+<li><a href="#pre-search-controls">3. Pre-Search Controls</a></li>
+<li><a href="#prior-review-and-the-search-warrant-analogy">4. Prior Review and the Search-Warrant Analogy</a></li>
+<li><a href="#a-model-municipal-approval-structure">5. A Model Municipal Approval Structure</a></li>
+<li><a href="#arkansas-specific-legal-framework">6. Arkansas-Specific Legal Framework</a></li>
+<li><a href="#what-arkansas-municipal-records-show-in-practice">7. What Arkansas Municipal Records Show in Practice</a></li>
+<li><a href="#a-practical-accountability-framework">8. A Practical Accountability Framework</a></li>
+<li><a href="#policy-recommendations">9. Policy Recommendations</a></li>
+<li><a href="#conclusion">10. Conclusion</a></li>
+<li><a href="#sources-and-evidence">Sources and Evidence</a></li></ul></nav><article class="article-content">
+<blockquote>
+<p><strong>Scope note:</strong> This paper distinguishes retrospective auditing from preventive controls that operate before or during access to automated license plate reader (ALPR) data. It does <strong>not</strong> argue that every ALPR database query legally requires a warrant. Where the warrant process is discussed, the comparison is limited to the governance principles of contemporaneous justification, defined scope, separation between requester and reviewer, and review before access.</p>
+</blockquote>
+<h2 id="executive-summary">Executive Summary</h2>
+<p>An ALPR audit log is an important accountability tool. It can create a trace showing who accessed the system, when a search occurred, what criteria were used, and what reason the user entered—depending on the platform and local configuration.</p>
+<p>But an audit log has a fundamental limitation:</p>
+<blockquote>
+<p><strong>By the time an after-the-fact audit becomes useful, the search has ordinarily already occurred and the information has already been accessed.</strong></p>
+</blockquote>
+<p>That means an audit primarily answers:</p>
+<blockquote>
+<p><strong>What happened?</strong></p>
+</blockquote>
+<p>A more complete accountability system also asks:</p>
+<blockquote>
+<p><strong>What had to happen before this search was allowed to occur?</strong></p>
+</blockquote>
+<p>Those are different questions.</p>
+<p>This paper therefore separates five concepts that are often treated as interchangeable:</p>
+<ul>
+<li><strong>authentication</strong> — Who is the user?</li>
+<li><strong>documentation</strong> — Why does the user say the search is needed?</li>
+<li><strong>authorization</strong> — Is this user permitted to conduct this type of search?</li>
+<li><strong>scope control</strong> — How much data should the user be permitted to retrieve?</li>
+<li><strong>audit</strong> — What actually happened?</li>
+</ul>
+<p>A system can have an excellent audit trail while still allowing a credentialed user to perform a search that should not have occurred. Conversely, a strong pre-search approval system without a complete audit trail can make later verification difficult. Mature governance requires both preventive and retrospective controls.</p>
+<p>Arkansas already regulates ALPR systems through the <strong>Automatic License Plate Reader System Act, Ark. Code Ann. §§ 12-12-1801 through 12-12-1808</strong>. Act 668 of 2025 amended significant portions of that framework, including §§ 12-12-1803 through 12-12-1805 and § 12-12-1807. Among other things, the statute addresses authorized use, retention, sharing, six-month practice-and-usage reporting, preservation of required statistics, public inspection of rules and policies, and enforcement.<a class="footnote-ref" href="#fn1" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>Arkansas State Police rules provide an important example of a <strong>preventive</strong> ALPR safeguard. Before initiating a traffic stop based on an LPR alert, the officer must visually verify the plate, verify the plate’s status through communications or ACIC/NCIC, and make reasonable efforts to confirm that a wanted person’s description matches the driver or occupants.<a class="footnote-ref" href="#fn2" id="fnref2" role="doc-noteref"><sup>2</sup></a> That requirement operates before the coercive action, not merely during a later audit.</p>
+<p>The municipal records reviewed by the Arkansas Accountability Project also show why these distinctions matter. Sherwood records document an internal auditing role and public statements about audit visibility, while the available exports raised separate questions about how consistently search purposes could be verified from the audit record itself. The July 28 project notebook, for example, records 1,177 distinct searches in the reviewed exports, with 171 blank reason fields and only six entries containing a recognizable case-number format on the face of the exported reason field. The notebook expressly cautions that this does <strong>not</strong> mean only six searches were connected to cases; supporting records may exist elsewhere.<a class="footnote-ref" href="#fn3" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>Cabot provides another useful comparison. Its 2026 audit evaluation found that Cabot produces six-month public reports and supporting data, but also identified reconciliation problems between the 2025 memorandum and workbook. The same evaluation found 469 searches in a public audit CSV, with 157 blank reasons, while expressly stating that the records did not establish whether any individual search was proper or improper.<a class="footnote-ref" href="#fn4" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>These examples support a narrow conclusion:</p>
+<blockquote>
+<p><strong>An audit trail is part of accountability, but demonstrable accountability requires connecting lawful purpose, contemporaneous documentation, appropriate authorization, defined scope, audit records, meaningful review, statutory reporting, and corrective action.</strong></p>
+</blockquote>
+<figure>
+<img alt="Audit versus preventive accountability workflow." src="/assets/publications/alpr-audit-vs-accountability/audit-vs-presearch-control.svg"/>
+<figcaption aria-hidden="true">Audit versus preventive accountability workflow.</figcaption>
+</figure>
+<p><em>Figure 1. An after-the-fact audit provides traceability after access. Preventive accountability inserts documentation and, where required, review before results are returned.</em></p>
+<hr/>
+<h2 id="what-an-alpr-audit-log-actually-does">1. What an ALPR Audit Log Actually Does</h2>
+<p>An ALPR audit log is fundamentally a <strong>record of system activity</strong>.</p>
+<p>Depending on the system and agency configuration, an audit entry may contain information such as:</p>
+<ul>
+<li>user identity or user identifier;</li>
+<li>agency;</li>
+<li>date and time;</li>
+<li>search criteria;</li>
+<li>plate or vehicle characteristics searched;</li>
+<li>date range;</li>
+<li>camera or network scope;</li>
+<li>stated reason;</li>
+<li>case or incident number;</li>
+<li>and other actions associated with the query.</li>
+</ul>
+<p>The precise fields should always be established from the actual system and agency records rather than assumed.</p>
+<h3 id="audit-logs-are-primarily-retrospective">Audit logs are primarily retrospective</h3>
+<p>The ordinary sequence is:</p>
+<p><strong>User accesses system</strong></p>
+<p>↓</p>
+<p><strong>Search executes</strong></p>
+<p>↓</p>
+<p><strong>Results are returned</strong></p>
+<p>↓</p>
+<p><strong>System records activity</strong></p>
+<p>↓</p>
+<p><strong>Supervisor, administrator, or auditor reviews the activity later</strong></p>
+<p>That allows the agency to ask:</p>
+<ul>
+<li>Who searched?</li>
+<li>When?</li>
+<li>What was searched?</li>
+<li>What reason was entered?</li>
+<li>Were unusual patterns present?</li>
+</ul>
+<p>Those are meaningful accountability functions.</p>
+<p>But the chronology matters. The audit generally becomes useful <strong>after the access has occurred</strong>.</p>
+<h3 id="auditability-is-not-authorization">Auditability is not authorization</h3>
+<p>The existence of a record does not establish that anyone independently decided before the search that the search was appropriate.</p>
+<p>For example:</p>
+<p><strong>User enters plate</strong></p>
+<p>↓</p>
+<p><strong>User enters “Investigation”</strong></p>
+<p>↓</p>
+<p><strong>Search executes</strong></p>
+<p>↓</p>
+<p><strong>Audit entry is created</strong></p>
+<p>This workflow documents the activity. It does not necessarily establish:</p>
+<ul>
+<li>that an investigation actually existed;</li>
+<li>that the vehicle was connected to it;</li>
+<li>that the user was assigned to or assisting with it;</li>
+<li>that the date range was appropriate;</li>
+<li>or that another person reviewed the justification.</li>
+</ul>
+<p>A search reason is therefore <strong>documentation</strong>, not necessarily <strong>approval</strong>.</p>
+<h3 id="blank-or-generic-fields-reduce-audit-value">Blank or generic fields reduce audit value</h3>
+<p>A reason such as:</p>
+<blockquote>
+<p><strong>Case 26-1847 — stolen vehicle investigation</strong></p>
+</blockquote>
+<p>is more verifiable than:</p>
+<blockquote>
+<p><strong>Investigation</strong></p>
+</blockquote>
+<p>or:</p>
+<blockquote>
+<p><strong>Other</strong></p>
+</blockquote>
+<p>or a blank field.</p>
+<p>A specific case reference allows a later reviewer to compare the audit entry with an external record:</p>
+<ul>
+<li>Did the case exist?</li>
+<li>Did it involve this vehicle?</li>
+<li>Was the user connected to the investigation?</li>
+<li>Was the search performed during a relevant period?</li>
+</ul>
+<p>A blank or generic reason does not prove misuse. It simply makes the audit record less capable of establishing the purpose on its face.</p>
+<h3 id="what-auditing-does-well">What auditing does well</h3>
+<p>A properly designed audit system can:</p>
+<ul>
+<li>deter misuse;</li>
+<li>attribute activity to users;</li>
+<li>identify repeated or unusual behavior;</li>
+<li>support internal investigations;</li>
+<li>support training or discipline where appropriate;</li>
+<li>identify policy weaknesses;</li>
+<li>and provide data for outside or independent review.</li>
+</ul>
+<p>The problem arises only when the existence of an audit is treated as though it provides the same protection as a control operating <strong>before access</strong>.</p>
+<hr/>
+<h2 id="what-an-alpr-audit-cannot-do">2. What an ALPR Audit Cannot Do</h2>
+<p>The central limitation is simple:</p>
+<blockquote>
+<p><strong>An audit cannot stop a search that has already happened.</strong></p>
+</blockquote>
+<p>If a user retrieves historical vehicle observations and a supervisor later determines that the query was inappropriate, the original access cannot be reversed.</p>
+<p>The information may already have been:</p>
+<ul>
+<li>displayed;</li>
+<li>reviewed;</li>
+<li>remembered;</li>
+<li>copied;</li>
+<li>exported;</li>
+<li>or used to guide additional investigative activity.</li>
+</ul>
+<p>An audit can document that event. It cannot undo it.</p>
+<h3 id="an-audit-cannot-validate-the-truth-of-the-stated-reason-by-itself">An audit cannot validate the truth of the stated reason by itself</h3>
+<p>A user may enter:</p>
+<blockquote>
+<p><strong>Case 26-1847</strong></p>
+</blockquote>
+<p>The audit proves that the user entered that value. Unless the case reference is independently checked, the audit alone does not establish that the case exists, concerns the vehicle, or justifies the scope of the search.</p>
+<p>This is why audit review should involve verification against records outside the audit platform when appropriate.</p>
+<h3 id="an-audit-cannot-replace-independent-approval">An audit cannot replace independent approval</h3>
+<p>Compare two systems.</p>
+<h4 id="documentation-only-model">Documentation-only model</h4>
+<p><strong>User enters reason</strong></p>
+<p>↓</p>
+<p><strong>Search immediately executes</strong></p>
+<p>↓</p>
+<p><strong>Audit records reason</strong></p>
+<h4 id="documentation-plus-authorization-model">Documentation-plus-authorization model</h4>
+<p><strong>User identifies case</strong></p>
+<p>↓</p>
+<p><strong>User states purpose</strong></p>
+<p>↓</p>
+<p><strong>Scope is defined</strong></p>
+<p>↓</p>
+<p><strong>Required reviewer approves or narrows request</strong></p>
+<p>↓</p>
+<p><strong>Search executes</strong></p>
+<p>↓</p>
+<p><strong>Audit preserves both authorization and actual query</strong></p>
+<p>Both models produce an audit trail. Only the second creates a preventive checkpoint.</p>
+<h3 id="an-audit-cannot-correct-an-excessive-search-before-data-is-exposed">An audit cannot correct an excessive search before data is exposed</h3>
+<p>A query can be overly broad in:</p>
+<ul>
+<li>time;</li>
+<li>geographic area;</li>
+<li>number of cameras;</li>
+<li>number of connected agencies;</li>
+<li>or vehicle-description criteria.</li>
+</ul>
+<p>A later reviewer may conclude that the search was unnecessarily broad, but the broader dataset has already been exposed.</p>
+<p>Scope controls solve a different problem from auditing.</p>
+<h3 id="an-audit-cannot-recreate-information-that-was-never-captured">An audit cannot recreate information that was never captured</h3>
+<p>If the platform does not preserve:</p>
+<ul>
+<li>case number;</li>
+<li>reason;</li>
+<li>network scope;</li>
+<li>approval;</li>
+<li>export activity;</li>
+<li>or relevant administrative changes,</li>
+</ul>
+<p>a later auditor cannot recover those fields from the audit itself.</p>
+<blockquote>
+<p><strong>You cannot audit information that was never recorded.</strong></p>
+</blockquote>
+<h3 id="an-audit-log-is-not-the-same-as-an-audit-program">An audit log is not the same as an audit program</h3>
+<p>The existence of thousands of stored entries does not establish meaningful review.</p>
+<p>A complete audit program should answer:</p>
+<ul>
+<li>Who reviews the records?</li>
+<li>How often?</li>
+<li>Are all searches reviewed or only a sample?</li>
+<li>What activity triggers enhanced review?</li>
+<li>How are findings documented?</li>
+<li>Who investigates exceptions?</li>
+<li>What corrective actions are available?</li>
+</ul>
+<p>Logging creates evidence. Auditing requires someone to use it.</p>
+<hr/>
+<h2 id="pre-search-controls">3. Pre-Search Controls</h2>
+<p>If an audit tells us what happened afterward, the next question is what should happen <strong>before</strong> an ALPR query is allowed to execute.</p>
+<p>The core principle is:</p>
+<blockquote>
+<p><strong>When government access can reasonably be justified before the search, the system should capture that justification before the results are returned whenever practicable.</strong></p>
+</blockquote>
+<p>That does not require treating every query as a warrant application.</p>
+<p>It means distinguishing between five controls.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Control</th>
+<th>Question</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Authentication</td>
+<td>Who are you?</td>
+</tr>
+<tr class="even">
+<td>Documentation</td>
+<td>Why is the search needed?</td>
+</tr>
+<tr class="odd">
+<td>Authorization</td>
+<td>Are you permitted to perform this search?</td>
+</tr>
+<tr class="even">
+<td>Scope control</td>
+<td>How much data may you retrieve?</td>
+</tr>
+<tr class="odd">
+<td>Audit</td>
+<td>What actually happened?</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-minimum-pre-search-record">The minimum pre-search record</h3>
+<p>For historical investigative searches, a municipality could require:</p>
+<ul>
+<li>requesting user;</li>
+<li>agency;</li>
+<li>case or incident number where available;</li>
+<li>investigative purpose;</li>
+<li>offense or event type;</li>
+<li>plate or vehicle criteria;</li>
+<li>requested date range;</li>
+<li>geographic scope;</li>
+<li>network scope;</li>
+<li>emergency designation where applicable.</li>
+</ul>
+<p>The purpose is not paperwork for its own sake. It is to create a contemporaneous record that can later be compared with the actual investigation.</p>
+<h3 id="required-fields-should-actually-be-required">Required fields should actually be required</h3>
+<p>A written policy is weaker if the technical system permits required fields to be skipped.</p>
+<p>A stronger architecture is:</p>
+<p><strong>Request entered</strong></p>
+<p>↓</p>
+<p><strong>Required fields validated</strong></p>
+<p>↓</p>
+<p><strong>Incomplete request rejected</strong></p>
+<p>↓</p>
+<p><strong>Complete request proceeds</strong></p>
+<p>Technical enforcement reduces reliance on memory and voluntary compliance.</p>
+<h3 id="search-scope-should-be-defined-before-access">Search scope should be defined before access</h3>
+<p>A search for a known stolen vehicle during the previous hour is materially different from a search spanning weeks across hundreds of networks.</p>
+<p>Both may be legitimate.</p>
+<p>They do not necessarily require the same level of review.</p>
+<p>Relevant scope considerations include:</p>
+<ul>
+<li>historical depth;</li>
+<li>geographic breadth;</li>
+<li>number of cameras;</li>
+<li>network breadth;</li>
+<li>known plate versus broad vehicle attributes;</li>
+<li>and whether the query is intended to identify a recurring pattern.</li>
+</ul>
+<hr/>
+<h2 id="prior-review-and-the-search-warrant-analogy">4. Prior Review and the Search-Warrant Analogy</h2>
+<p>The search-warrant process is a useful analogy for one limited principle:</p>
+<blockquote>
+<p><strong>In some government search contexts, the protection comes from requiring justification to be reviewed before access occurs—not merely from documenting the search afterward.</strong></p>
+</blockquote>
+<p>This paper does <strong>not</strong> claim that every ALPR database search legally requires a warrant.</p>
+<h3 id="the-comparison-is-about-process">The comparison is about process</h3>
+<p>The warrant model illustrates:</p>
+<p><strong>Requester</strong></p>
+<p>↓</p>
+<p><strong>Written justification</strong></p>
+<p>↓</p>
+<p><strong>Separate reviewer</strong></p>
+<p>↓</p>
+<p><strong>Defined authority and scope</strong></p>
+<p>↓</p>
+<p><strong>Approval or denial</strong></p>
+<p>↓</p>
+<p><strong>Search</strong></p>
+<p>The relevant lesson for ALPR governance is the presence of a decision point between the desire to search and access to the information.</p>
+<h3 id="an-internal-reviewer-is-not-a-judge">An internal reviewer is not a judge</h3>
+<p>A municipality could require supervisory approval for certain historical searches without converting the supervisor into a judicial officer.</p>
+<p>The supervisor would be answering:</p>
+<blockquote>
+<p><strong>Does this request comply with our policy?</strong></p>
+</blockquote>
+<p>not:</p>
+<blockquote>
+<p><strong>Does the Constitution require a warrant?</strong></p>
+</blockquote>
+<p>Those are separate questions.</p>
+<h3 id="prior-review-helps-prevent-result-driven-justification">Prior review helps prevent result-driven justification</h3>
+<p>A stronger sequence is:</p>
+<p><strong>Purpose identified</strong></p>
+<p>↓</p>
+<p><strong>Scope defined</strong></p>
+<p>↓</p>
+<p><strong>Approval obtained where required</strong></p>
+<p>↓</p>
+<p><strong>Results viewed</strong></p>
+<p>rather than:</p>
+<p><strong>Results viewed</strong></p>
+<p>↓</p>
+<p><strong>Purpose reconstructed later</strong></p>
+<p>Contemporaneous justification gives a later auditor something objective to compare against the actual search.</p>
+<h3 id="scope-is-part-of-accountability">Scope is part of accountability</h3>
+<p>A legitimate purpose does not automatically justify the broadest possible query.</p>
+<p>A reviewer should be able to:</p>
+<ul>
+<li>shorten a date range;</li>
+<li>restrict geographic scope;</li>
+<li>limit the search to local cameras;</li>
+<li>narrow vehicle attributes;</li>
+<li>or request further justification.</li>
+</ul>
+<p>The point is proportionality, not prohibition.</p>
+<hr/>
+<h2 id="a-model-municipal-approval-structure">5. A Model Municipal Approval Structure</h2>
+<p>A practical system can be <strong>graduated</strong>, allowing rapid access where speed matters and stronger review where the search exposes more historical information.</p>
+<h3 id="level-1-immediate-operational-search">Level 1 — Immediate operational search</h3>
+<p>Examples:</p>
+<ul>
+<li>active stolen vehicle;</li>
+<li>missing or endangered person;</li>
+<li>unfolding violent offense;</li>
+<li>immediate officer-safety concern.</li>
+</ul>
+<p>Possible requirements:</p>
+<ul>
+<li>authenticated user;</li>
+<li>required reason;</li>
+<li>incident number where available;</li>
+<li>narrow operational scope.</li>
+</ul>
+<p>Possible approval:</p>
+<p><strong>No separate pre-search supervisor approval</strong>, provided the query falls within clearly defined emergency or immediate-response criteria.</p>
+<h3 id="level-2-routine-historical-investigative-search">Level 2 — Routine historical investigative search</h3>
+<p>Examples:</p>
+<ul>
+<li>checking whether a known vehicle was observed near a crime scene;</li>
+<li>reviewing prior-day observations;</li>
+<li>comparing several local cameras;</li>
+<li>searching a defined period tied to an open case.</li>
+</ul>
+<p>Possible requirements:</p>
+<ul>
+<li>case or incident number;</li>
+<li>documented purpose;</li>
+<li>date range;</li>
+<li>geographic scope;</li>
+<li>requesting user.</li>
+</ul>
+<p>Possible approval:</p>
+<p><strong>Supervisor or designated investigative reviewer before execution.</strong></p>
+<h3 id="level-3-broad-or-sensitive-historical-search">Level 3 — Broad or sensitive historical search</h3>
+<p>Examples:</p>
+<ul>
+<li>long historical periods;</li>
+<li>repeated-location analysis;</li>
+<li>broad vehicle-description queries;</li>
+<li>searches across many cameras or jurisdictions;</li>
+<li>queries designed to reconstruct recurring movement.</li>
+</ul>
+<p>Possible requirements:</p>
+<ul>
+<li>detailed justification;</li>
+<li>case number;</li>
+<li>explanation of necessity;</li>
+<li>defined time and geographic limits;</li>
+<li>network scope;</li>
+<li>explanation of why a narrower query would be insufficient.</li>
+</ul>
+<p>Possible approval:</p>
+<p><strong>Command-level review</strong>, with legal review where local policy determines it is appropriate.</p>
+<h3 id="emergency-override">Emergency override</h3>
+<p>An emergency system should preserve immediate access where delay would create substantial risk.</p>
+<p>A defensible workflow is:</p>
+<p><strong>Emergency category selected</strong></p>
+<p>↓</p>
+<p><strong>Reason documented</strong></p>
+<p>↓</p>
+<p><strong>Search executes immediately</strong></p>
+<p>↓</p>
+<p><strong>Query automatically flagged</strong></p>
+<p>↓</p>
+<p><strong>Supervisor notified</strong></p>
+<p>↓</p>
+<p><strong>Mandatory post-event review</strong></p>
+<p>Emergency access should be clearly defined so it does not become the default method of bypassing ordinary controls.</p>
+<h3 id="approval-must-be-substantive">Approval must be substantive</h3>
+<p>The reviewer should have authority to:</p>
+<ul>
+<li>approve;</li>
+<li>deny;</li>
+<li>narrow;</li>
+<li>request additional information;</li>
+<li>or direct the requester to another process.</li>
+</ul>
+<p>A signature that cannot meaningfully change the request is not a strong preventive control.</p>
+<hr/>
+<h2 id="arkansas-specific-legal-framework">6. Arkansas-Specific Legal Framework</h2>
+<p>Arkansas regulates ALPR systems under the <strong>Automatic License Plate Reader System Act, Ark. Code Ann. §§ 12-12-1801 through 12-12-1808</strong>. Act 668 of 2025 amended the Act, including §§ 12-12-1803 through 12-12-1805 and § 12-12-1807.<a class="footnote-ref" href="#fn5" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>The statutory framework is important because Arkansas does not treat ALPR use as unrestricted merely because license plates are publicly visible.</p>
+<h3 id="restrictions-on-use">§ 12-12-1803 — Restrictions on use</h3>
+<p>Act 668 states that ALPR systems are generally unlawful except for authorized uses. For law enforcement, § 12-12-1803(b)(1) allows a state, county, or municipal law-enforcement agency to compare captured plate data with specified governmental or investigative databases for a lawful purpose.<a class="footnote-ref" href="#fn6" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
+<p>This answers part of the accountability question:</p>
+<blockquote>
+<p><strong>What uses are legally authorized?</strong></p>
+</blockquote>
+<p>It does not, by itself, define a universal municipal workflow for pre-approving each historical query.</p>
+<h3 id="protections">§ 12-12-1804 — Protections</h3>
+<p>The current statutory framework addresses purpose limitation, retention, and sharing. For most eligible governmental entities, captured plate data may not ordinarily be preserved for more than <strong>150 days</strong>, subject to the ongoing-investigation provision. Data retained as part of an ongoing investigation must be destroyed at the conclusion of an investigation that produces no criminal charges or at the conclusion of the resulting criminal action.<a class="footnote-ref" href="#fn7" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>The statute also generally prohibits governmental sale, trade, or exchange of captured plate data. Captured plate data obtained by law enforcement that <strong>indicates evidence of an offense</strong> may be shared with another law-enforcement agency.<a class="footnote-ref" href="#fn8" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+<p>These are meaningful safeguards, but they are distinct from individual pre-search approval.</p>
+<h3 id="practice-and-usage-data-preservation">§ 12-12-1805 — Practice and usage data preservation</h3>
+<p>For governmental users covered by the provision, § 12-12-1805 requires six-month compilation of specified statistical information in a format sufficient for public review and preservation of the compiled information for eighteen months.<a class="footnote-ref" href="#fn9" id="fnref9" role="doc-noteref"><sup>9</sup></a></p>
+<p>The listed statistics include:</p>
+<ul>
+<li>number of license plates scanned;</li>
+<li>names of lists against which captured plate data were checked;</li>
+<li>number of confirmed matches;</li>
+<li>number of matches that did not correlate to an alert after further investigation;</li>
+<li>number of matches resulting in arrest and prosecution.</li>
+</ul>
+<p>The section also requires rules and policies concerning obtaining, retaining, and destroying captured plate data and requires those rules and policies to be available for public inspection.<a class="footnote-ref" href="#fn10" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>This is <strong>program-level accountability</strong>.</p>
+<p>It is not the same as an individual search audit.</p>
+<h3 id="reporting-audit-and-authorization-serve-different-functions">Reporting, audit, and authorization serve different functions</h3>
+<h4 id="six-month-reporting">Six-month reporting</h4>
+<p>Answers questions about the program as a whole.</p>
+<h4 id="individual-audit">Individual audit</h4>
+<p>Can show what a user did.</p>
+<h4 id="pre-search-authorization">Pre-search authorization</h4>
+<p>Determines what must occur before specified access is permitted.</p>
+<p>A municipality can perform well in one category and poorly in another.</p>
+<h3 id="arkansas-state-police-provides-a-preventive-control-example">Arkansas State Police provides a preventive-control example</h3>
+<p>The official Arkansas State Police LPR rule states that before a traffic stop based on an LPR alert, the officer must:</p>
+<ol type="1">
+<li>visually verify the plate number and issuing state;</li>
+<li>verify the plate status through communications or ACIC/NCIC; and</li>
+<li>make reasonable efforts to verify that a wanted person’s description matches the driver or occupants.<a class="footnote-ref" href="#fn11" id="fnref11" role="doc-noteref"><sup>11</sup></a></li>
+</ol>
+<p>That is important to this paper because the rule does not merely require review after the stop.</p>
+<p>It requires specified verification <strong>before the stop is initiated based on the alert</strong>.</p>
+<p>This does not establish that Arkansas requires supervisory approval before every historical database query. It does demonstrate that Arkansas ALPR governance already recognizes the value of preventive verification in at least one operational context.</p>
+<hr/>
+<h2 id="what-arkansas-municipal-records-show-in-practice">7. What Arkansas Municipal Records Show in Practice</h2>
+<p>The project records do not support a sweeping statement that Arkansas cities either do or do not adequately audit ALPR systems.</p>
+<p>They support a narrower conclusion:</p>
+<blockquote>
+<p><strong>The strength of accountability depends on whether policy, search documentation, audit records, case records, statutory reports, and review practices can be connected into a verifiable chain.</strong></p>
+</blockquote>
+<h3 id="sherwood-auditing-role-versus-what-the-export-itself-demonstrates">Sherwood — auditing role versus what the export itself demonstrates</h3>
+<p>The Arkansas Accountability Project’s July 28, 2026 notebook preserves statements from the July 27 Sherwood City Council presentation. It records Capt. Scott Hicks as stating that searches are visible in the audit and that regular auditing can identify improper activity. The notebook also records his statement that searches are supposed to have case numbers.<a class="footnote-ref" href="#fn12" id="fnref12" role="doc-noteref"><sup>12</sup></a></p>
+<p>The same project review recalculated the supplied search exports by distinct search ID. For the reviewed dataset it identified:</p>
+<ul>
+<li><strong>1,177 distinct searches</strong>;</li>
+<li><strong>171 blank reason fields</strong>;</li>
+<li><strong>349 reasons exactly “Investigation”</strong>;</li>
+<li><strong>410 investigation variants</strong>;</li>
+<li><strong>six entries with a recognizable case-number format in the visible reason field</strong>.<a class="footnote-ref" href="#fn13" id="fnref13" role="doc-noteref"><sup>13</sup></a></li>
+</ul>
+<p>Those numbers require an important qualification.</p>
+<p>The notebook expressly states that they <strong>do not mean only six searches were connected to police cases</strong>. A case number may exist in a separate report, dispatch record, or internal system. The finding is narrower: the exported Flock audit itself rarely displayed a recognizable case number on its face.<a class="footnote-ref" href="#fn14" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>That is the distinction between:</p>
+<h4 id="technical-traceability">Technical traceability</h4>
+<p>The export identifies that a search occurred.</p>
+<h4 id="purpose-traceability">Purpose traceability</h4>
+<p>The available record contains enough information to verify why the search was performed.</p>
+<p>A strong accountability structure should make the connection between those records easy to verify.</p>
+<h3 id="sherwood-audit-responsibility-does-not-answer-methodology">Sherwood — audit responsibility does not answer methodology</h3>
+<p>A statement that a supervisor audits the system identifies responsibility, but additional questions remain:</p>
+<ul>
+<li>Is every search reviewed or only a sample?</li>
+<li>How often?</li>
+<li>Are blank reasons flagged?</li>
+<li>Are case references independently checked?</li>
+<li>Are broad-network queries treated differently?</li>
+<li>Are findings recorded?</li>
+<li>Are exceptions preserved?</li>
+<li>Is the auditor’s own activity independently reviewable?</li>
+</ul>
+<p>Those questions do not imply misconduct. They define what is needed to evaluate the audit itself.</p>
+<h3 id="cabot-reporting-strength-and-audit-limitations-can-coexist">Cabot — reporting strength and audit limitations can coexist</h3>
+<p>Cabot illustrates why accountability should not be reduced to a single label.</p>
+<p>The Cabot audit evaluation found that the department produces six-month statistical memoranda and supporting data. That is a meaningful transparency practice.<a class="footnote-ref" href="#fn15" id="fnref15" role="doc-noteref"><sup>15</sup></a></p>
+<p>For January–June 2025, the memorandum reported:</p>
+<ul>
+<li><strong>7,023,170 scans</strong>;</li>
+<li><strong>279 positive alerts</strong>;</li>
+<li><strong>3 non-correlating matches</strong>;</li>
+<li><strong>12 matches reported as resulting in arrest and prosecution</strong>.<a class="footnote-ref" href="#fn16" id="fnref16" role="doc-noteref"><sup>16</sup></a></li>
+</ul>
+<p>But the supporting workbook produced monthly totals of:</p>
+<ul>
+<li><strong>7,555,734 scans</strong>; and</li>
+<li><strong>617 entries labeled as matches that did not correlate to the alert</strong>.<a class="footnote-ref" href="#fn17" id="fnref17" role="doc-noteref"><sup>17</sup></a></li>
+</ul>
+<p>The positive-alert total reconciled at 279; the scan and non-correlation figures did not. The project evaluation therefore cautioned against using the unreconciled figures to make claims about effectiveness, accuracy, or statutory completeness.<a class="footnote-ref" href="#fn18" id="fnref18" role="doc-noteref"><sup>18</sup></a></p>
+<p>The same evaluation found a 2026 public audit CSV containing <strong>469 searches</strong>, with:</p>
+<ul>
+<li>user field masked in every row;</li>
+<li><strong>157 blank reasons</strong>;</li>
+<li><strong>45 reasons containing “Traffic”</strong>;</li>
+<li><strong>360 searches spanning more than 1,000 networks</strong>.<a class="footnote-ref" href="#fn19" id="fnref19" role="doc-noteref"><sup>19</sup></a></li>
+</ul>
+<p>Again, the evaluation expressly states what the records <strong>do not</strong> establish:</p>
+<ul>
+<li>whether blank reasons lacked supporting records elsewhere;</li>
+<li>whether broad-network queries actually returned or exposed outside-agency data;</li>
+<li>whether any individual search was proper or improper.<a class="footnote-ref" href="#fn20" id="fnref20" role="doc-noteref"><sup>20</sup></a></li>
+</ul>
+<p>That is the evidentiary standard this paper adopts.</p>
+<h3 id="what-blank-reasons-do-and-do-not-establish">What blank reasons do and do not establish</h3>
+<p>A blank reason field does <strong>not</strong> prove an unlawful or improper search.</p>
+<p>It establishes something narrower:</p>
+<blockquote>
+<p><strong>The audit record alone does not demonstrate the reason for that search.</strong></p>
+</blockquote>
+<p>A later reviewer may locate a case file or dispatch record that fully explains the query.</p>
+<p>But that is retrospective reconstruction. It is not the same evidentiary record as contemporaneous documentation attached to the search.</p>
+<h3 id="program-level-records-and-search-level-records-are-different">Program-level records and search-level records are different</h3>
+<p>A six-month report can be complete while an individual search record is weak.</p>
+<p>An individual audit can be detailed while required program-level reporting is deficient.</p>
+<p>Neither one substitutes for the other.</p>
+<hr/>
+<h2 id="a-practical-accountability-framework">8. A Practical Accountability Framework</h2>
+<p>A municipality, council member, auditor, journalist, or citizen can evaluate an ALPR program by asking whether the complete chain is demonstrable.</p>
+<figure>
+<img alt="Integrated ALPR accountability chain." src="/assets/publications/alpr-audit-vs-accountability/alpr-accountability-chain.svg"/>
+<figcaption aria-hidden="true">Integrated ALPR accountability chain.</figcaption>
+</figure>
+<p><em>Figure 2. No single safeguard substitutes for the others. Preventive controls operate before or during access; auditing and reporting verify activity afterward.</em></p>
+<h3 id="lawful-purpose">1. Lawful purpose</h3>
+<ul>
+<li>What uses are permitted by statute and policy?</li>
+<li>Are prohibited uses defined?</li>
+<li>Are users trained on those limits?</li>
+</ul>
+<h3 id="contemporaneous-documentation">2. Contemporaneous documentation</h3>
+<ul>
+<li>Is a reason required?</li>
+<li>Is a case or incident number required where one exists?</li>
+<li>Can the reason field be blank?</li>
+<li>Is the purpose recorded before results are displayed?</li>
+</ul>
+<h3 id="authorization">3. Authorization</h3>
+<ul>
+<li>Who may conduct operational searches?</li>
+<li>Who may conduct historical searches?</li>
+<li>Which queries require supervisor or command approval?</li>
+<li>Who reviews the highest-ranking user’s searches?</li>
+<li>What is the emergency process?</li>
+</ul>
+<h3 id="scope">4. Scope</h3>
+<ul>
+<li>Are date ranges limited?</li>
+<li>Are geographic limits defined?</li>
+<li>Are broad vehicle-characteristic searches treated differently?</li>
+<li>Are local and network searches distinguished?</li>
+<li>Can an approver narrow the request?</li>
+</ul>
+<h3 id="audit-record">5. Audit record</h3>
+<p>Where technically available, does the record preserve:</p>
+<ul>
+<li>user;</li>
+<li>time;</li>
+<li>criteria;</li>
+<li>reason;</li>
+<li>case reference;</li>
+<li>date range;</li>
+<li>network scope;</li>
+<li>approval;</li>
+<li>exports or downloads;</li>
+<li>administrative changes?</li>
+</ul>
+<h3 id="review">6. Review</h3>
+<ul>
+<li>Who reviews?</li>
+<li>How often?</li>
+<li>All searches or a sample?</li>
+<li>What activity is automatically flagged?</li>
+<li>How are findings recorded?</li>
+</ul>
+<h3 id="program-level-reporting">7. Program-level reporting</h3>
+<p>For Arkansas governmental users covered by § 12-12-1805:</p>
+<ul>
+<li>Are six-month statistics compiled?</li>
+<li>Are they preserved for eighteen months?</li>
+<li>Are they in a format sufficient for public review?</li>
+<li>Are the underlying calculations reproducible?</li>
+</ul>
+<h3 id="corrective-action">8. Corrective action</h3>
+<p>When a problem is identified, can the municipality:</p>
+<ul>
+<li>correct records;</li>
+<li>retrain users;</li>
+<li>change permissions;</li>
+<li>modify policy;</li>
+<li>change technical configuration;</li>
+<li>suspend access;</li>
+<li>or escalate for discipline when warranted?</li>
+</ul>
+<p>Without corrective action, oversight risks becoming descriptive rather than preventive.</p>
+<hr/>
+<h2 id="policy-recommendations">9. Policy Recommendations</h2>
+<p>The following recommendations are policy proposals, not statements that Arkansas law currently requires each one.</p>
+<h3 id="require-documented-purpose-for-historical-searches">Require documented purpose for historical searches</h3>
+<p>Historical queries should ordinarily identify:</p>
+<ul>
+<li>requesting user;</li>
+<li>case or incident reference where available;</li>
+<li>investigative purpose;</li>
+<li>vehicle criteria;</li>
+<li>time range;</li>
+<li>geographic or network scope.</li>
+</ul>
+<h3 id="prevent-blank-mandatory-fields">Prevent blank mandatory fields</h3>
+<p>If policy says a field is required, the platform should prevent execution when the field is incomplete where technically feasible.</p>
+<h3 id="use-graduated-approval">Use graduated approval</h3>
+<p>The level of review should increase with:</p>
+<ul>
+<li>historical depth;</li>
+<li>geographic breadth;</li>
+<li>network breadth;</li>
+<li>query sensitivity;</li>
+<li>and breadth of vehicle criteria.</li>
+</ul>
+<p>A reasonable model is:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Search category</th>
+<th>Possible approval</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Immediate operational</td>
+<td>Authenticated user</td>
+</tr>
+<tr class="even">
+<td>Routine historical</td>
+<td>Supervisor</td>
+</tr>
+<tr class="odd">
+<td>Broad/sensitive historical</td>
+<td>Command-level reviewer</td>
+</tr>
+<tr class="even">
+<td>Emergency override</td>
+<td>Immediate access + mandatory review</td>
+</tr>
+</tbody>
+</table>
+<h3 id="define-who-can-approve">Define who can approve</h3>
+<p>Policies should specify:</p>
+<ul>
+<li>qualifying rank or role;</li>
+<li>delegation;</li>
+<li>acting supervisors;</li>
+<li>who reviews supervisors;</li>
+<li>who reviews the chief or highest-ranking user.</li>
+</ul>
+<h3 id="give-reviewers-real-authority">Give reviewers real authority</h3>
+<p>Reviewers should be able to approve, deny, narrow, or request additional justification.</p>
+<h3 id="define-scope-before-access">Define scope before access</h3>
+<p>Authorization should cover a defined query, not open-ended future searching.</p>
+<h3 id="treat-network-searches-separately">Treat network searches separately</h3>
+<p>A query of local cameras is different from a query spanning large interagency networks. Broader searches can reasonably require stronger justification and review.</p>
+<h3 id="distinguish-known-plate-searches-from-broad-attribute-searches">Distinguish known-plate searches from broad attribute searches</h3>
+<p>Queries such as “white pickup truck” may expose records involving many uninvolved vehicles. They can reasonably be subject to additional scope and approval controls.</p>
+<h3 id="establish-an-emergency-override">Establish an emergency override</h3>
+<p>Emergency access should remain fast while being:</p>
+<ul>
+<li>clearly categorized;</li>
+<li>documented;</li>
+<li>automatically flagged;</li>
+<li>and reviewed afterward.</li>
+</ul>
+<h3 id="use-role-based-access">Use role-based access</h3>
+<p>Apply least privilege. Not every account needs every search, sharing, hotlist, or administrative function.</p>
+<h3 id="preserve-tamper-evident-records">Preserve tamper-evident records</h3>
+<p>Later changes to reasons, case numbers, approvals, or administrative settings should preserve the original value and the identity and time of the change where the platform supports it.</p>
+<h3 id="define-audit-frequency-and-methodology">Define audit frequency and methodology</h3>
+<p>“Audited” should have an operational definition:</p>
+<ul>
+<li>who;</li>
+<li>how often;</li>
+<li>what sample;</li>
+<li>what fields;</li>
+<li>what triggers escalation;</li>
+<li>what record documents completion.</li>
+</ul>
+<h3 id="maintain-12-12-1805-data-throughout-the-reporting-cycle">Maintain § 12-12-1805 data throughout the reporting cycle</h3>
+<p>Required six-month metrics are more reliable when the underlying data are captured continuously rather than reconstructed from memory at the end of the period.</p>
+<h3 id="present-program-level-data-to-municipal-leadership">Present program-level data to municipal leadership</h3>
+<p>Reporting has greater oversight value when elected officials actually receive and evaluate it before renewal, expansion, or major budget decisions.</p>
+<h3 id="document-false-alerts-and-significant-technical-errors">Document false alerts and significant technical errors</h3>
+<p>Error records can identify:</p>
+<ul>
+<li>training problems;</li>
+<li>recognition failures;</li>
+<li>configuration problems;</li>
+<li>vendor issues;</li>
+<li>or needed verification controls.</li>
+</ul>
+<h3 id="protect-municipal-control-over-records">Protect municipal control over records</h3>
+<p>Contracts and policy should address:</p>
+<ul>
+<li>data export;</li>
+<li>audit-record preservation;</li>
+<li>termination;</li>
+<li>non-renewal;</li>
+<li>deletion;</li>
+<li>equipment removal;</li>
+<li>and access to records needed for legal or statutory compliance after the vendor relationship ends.</li>
+</ul>
+<h3 id="require-review-before-expansion-or-renewal">Require review before expansion or renewal</h3>
+<p>Adding cameras, expanding networks, extending retention, or adding new analytics should trigger a policy review rather than allowing technical capability to expand automatically without governance review.</p>
+<hr/>
+<h2 id="conclusion">10. Conclusion</h2>
+<p>The central finding is:</p>
+<blockquote>
+<p><strong>An audit is an important accountability tool, but an audit is not the same thing as accountability.</strong></p>
+</blockquote>
+<p>An audit can document:</p>
+<ul>
+<li>who searched;</li>
+<li>when;</li>
+<li>what criteria were used;</li>
+<li>what reason was entered;</li>
+<li>and what activity the system recorded.</li>
+</ul>
+<p>Those functions are valuable.</p>
+<p>But an after-the-fact audit operates primarily <strong>after access has occurred</strong>.</p>
+<p>Preventive accountability asks a different question:</p>
+<blockquote>
+<p><strong>What had to happen before this access was allowed?</strong></p>
+</blockquote>
+<p>A mature ALPR governance structure therefore connects:</p>
+<p><strong>Lawful purpose</strong></p>
+<p>↓</p>
+<p><strong>Contemporaneous documentation</strong></p>
+<p>↓</p>
+<p><strong>Authorization</strong></p>
+<p>↓</p>
+<p><strong>Defined scope</strong></p>
+<p>↓</p>
+<p><strong>Technical controls</strong></p>
+<p>↓</p>
+<p><strong>Search</strong></p>
+<p>↓</p>
+<p><strong>Audit</strong></p>
+<p>↓</p>
+<p><strong>Review</strong></p>
+<p>↓</p>
+<p><strong>Program-level reporting</strong></p>
+<p>↓</p>
+<p><strong>Corrective action</strong></p>
+<h3 id="audits-should-verify-compliance-not-create-justification-retroactively">Audits should verify compliance, not create justification retroactively</h3>
+<p>The strongest audit asks:</p>
+<blockquote>
+<p><strong>Did the actual search match what had already been documented and authorized?</strong></p>
+</blockquote>
+<p>It should not routinely be the first time anyone asks:</p>
+<blockquote>
+<p><strong>Why did this search happen?</strong></p>
+</blockquote>
+<h3 id="defensibility-requires-restraint">Defensibility requires restraint</h3>
+<p>This paper does not conclude:</p>
+<ul>
+<li>that a blank reason proves misconduct;</li>
+<li>that every broad network query is improper;</li>
+<li>that every ALPR query requires a warrant;</li>
+<li>or that an incomplete program report proves every individual search unlawful.</li>
+</ul>
+<p>It concludes that those circumstances affect the <strong>quality of the accountability record</strong> and may warrant additional review.</p>
+<h3 id="the-final-municipal-question">The final municipal question</h3>
+<p>The most useful question is not:</p>
+<blockquote>
+<p><strong>Do you audit your ALPR system?</strong></p>
+</blockquote>
+<p>It is:</p>
+<blockquote>
+<p><strong>Can the municipality demonstrate what protects against inappropriate access before it occurs, what records the access when it occurs, what reviews it afterward, and what happens when the system identifies a problem?</strong></p>
+</blockquote>
+<p>That is the difference between having an audit trail and having an accountability system.</p>
+<hr/>
+<h2 id="sources-and-evidence">Sources and Evidence</h2>
+<h3 id="primary-arkansas-legal-sources">Primary Arkansas legal sources</h3>
+<h3 id="arkansas-accountability-project-records-used-for-municipal-examples">Arkansas Accountability Project records used for municipal examples</h3>
+<h3 id="publication-methodology">Publication methodology</h3>
+<p>This paper follows an evidence-first approach:</p>
+<ul>
+<li>statutory requirements are distinguished from recommended policy;</li>
+<li>agency records are distinguished from project inference;</li>
+<li>missing documentation is not treated as proof that no lawful justification existed;</li>
+<li>audit-log limitations are not treated as proof of misconduct;</li>
+<li>and numerical records are not used to claim effectiveness where the underlying figures do not reconcile.</li>
+</ul>
+<p><em>Arkansas Accountability Project — August 19, 2026</em></p>
+<section class="footnotes footnotes-end-of-document" id="footnotes" role="doc-endnotes">
+<hr/>
+<ol>
+<li id="fn1"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref1" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Code of Arkansas Rules, <strong>12 CAR § 24-104 — Division of Arkansas State Police LPR data usage and retention</strong>. Official rules database: https://codeofarrules.arkansas.gov/Rules/Rule?chapterID=61&amp;levelType=section&amp;partID=1202&amp;sectionID=42727&amp;subChapterID=81&amp;subPartID=6557&amp;titleID=12<a class="footnote-back" href="#fnref2" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p><strong>ARAP Project Notebook Update — Sherwood ALPR/Flock Review, July 28, 2026.</strong> The notebook consolidates Sherwood policy, FOIA responses, audit exports, email clarification regarding search IDs/network counts, and preserved statements from the July 27, 2026 City Council presentation. The notebook expressly distinguishes what the visible audit fields establish from what may exist in separate case or dispatch records.<a class="footnote-back" href="#fnref3" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref4" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref5" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref6" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref7" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref8" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref9" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Arkansas General Assembly, <strong>Act 668 of 2025 (SB446), Automatic License Plate Reader System Act amendments</strong>, approved April 16, 2025. Official Act PDF: https://arkleg.state.ar.us/Acts/FTPDocument?ddBienniumSession=2025%2F2025R&amp;file=668.pdf&amp;path=%2FACTS%2F2025R%2FPublic%2F<a class="footnote-back" href="#fnref10" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>Code of Arkansas Rules, <strong>12 CAR § 24-104 — Division of Arkansas State Police LPR data usage and retention</strong>. Official rules database: https://codeofarrules.arkansas.gov/Rules/Rule?chapterID=61&amp;levelType=section&amp;partID=1202&amp;sectionID=42727&amp;subChapterID=81&amp;subPartID=6557&amp;titleID=12<a class="footnote-back" href="#fnref11" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p><strong>ARAP Project Notebook Update — Sherwood ALPR/Flock Review, July 28, 2026.</strong> The notebook consolidates Sherwood policy, FOIA responses, audit exports, email clarification regarding search IDs/network counts, and preserved statements from the July 27, 2026 City Council presentation. The notebook expressly distinguishes what the visible audit fields establish from what may exist in separate case or dispatch records.<a class="footnote-back" href="#fnref12" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p><strong>ARAP Project Notebook Update — Sherwood ALPR/Flock Review, July 28, 2026.</strong> The notebook consolidates Sherwood policy, FOIA responses, audit exports, email clarification regarding search IDs/network counts, and preserved statements from the July 27, 2026 City Council presentation. The notebook expressly distinguishes what the visible audit fields establish from what may exist in separate case or dispatch records.<a class="footnote-back" href="#fnref13" role="doc-backlink">↩︎</a></p></li>
+<li id="fn14"><p><strong>ARAP Project Notebook Update — Sherwood ALPR/Flock Review, July 28, 2026.</strong> The notebook consolidates Sherwood policy, FOIA responses, audit exports, email clarification regarding search IDs/network counts, and preserved statements from the July 27, 2026 City Council presentation. The notebook expressly distinguishes what the visible audit fields establish from what may exist in separate case or dispatch records.<a class="footnote-back" href="#fnref14" role="doc-backlink">↩︎</a></p></li>
+<li id="fn15"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref15" role="doc-backlink">↩︎</a></p></li>
+<li id="fn16"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref16" role="doc-backlink">↩︎</a></p></li>
+<li id="fn17"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref17" role="doc-backlink">↩︎</a></p></li>
+<li id="fn18"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref18" role="doc-backlink">↩︎</a></p></li>
+<li id="fn19"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref19" role="doc-backlink">↩︎</a></p></li>
+<li id="fn20"><p><strong>Cabot ALPR Audit Evaluation, August 12, 2026.</strong> Based on Cabot Policy 305.1, public six-month reports, the 2025 supporting workbook, and the June–July 2026 public search-audit CSV. The evaluation expressly states that it is a records and governance analysis, not a finding about an individual search or legal compliance.<a class="footnote-back" href="#fnref20" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<hr><h2>Related technical analysis</h2><p>The companion <a href="/publications/alpr-camera-geometry-multi-image-data/">Fixed ALPR Camera Geometry and Multi-Image Data</a> paper addresses what the physical installation and aggregated observation records can and cannot establish.</p><div class="notice"><strong>Publication asset verification.</strong> <a href="/assets/publications/alpr-audit-vs-accountability/SHA256SUMS.txt">SHA-256 checksums</a> are provided for the two figures used in this paper.</div></article></div>
+</main>
+<footer><div class="wrap"><strong>Arkansas Accountability Project (ARAP)</strong><br><a href="https://arkansasaccountabilityproject.org">arkansasaccountabilityproject.org</a><br><small>This website is a living public-reference resource. Revisions will be published as additional verified records become available.</small></div></footer>
+<script src="/assets/site.js"></script>
+</body></html>

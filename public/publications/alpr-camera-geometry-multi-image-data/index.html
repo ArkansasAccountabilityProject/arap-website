@@ -1,0 +1,635 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data | ARAP</title>
+<meta name="description" content="A technical paper examining documented camera installation geometry, manufacturer-described capture characteristics, evidentiary limits, and what multiple ALPR observations can reveal when combined.">
+<link rel="canonical" href="https://arkansasaccountabilityproject.org/publications/alpr-camera-geometry-multi-image-data/">
+<meta property="og:title" content="Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data | ARAP">
+<meta property="og:description" content="A technical paper examining documented camera installation geometry, manufacturer-described capture characteristics, evidentiary limits, and what multiple ALPR observations can reveal when combined.">
+<meta property="og:type" content="article"><meta property="og:url" content="https://arkansasaccountabilityproject.org/publications/alpr-camera-geometry-multi-image-data/">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<header><div class="wrap topbar"><a class="brand" href="/">Arkansas Accountability Project <small>Public records • documented facts • informed discussion</small></a><nav aria-label="Primary navigation"><a href="/">Home</a><a href="/evidence-repository/">Evidence Repository</a><a href="/publications/">Publications</a><a href="/about/">About</a><a href="/contact/">Contact</a></nav></div></header>
+<main class="wrap article-page" data-page-view="alpr-camera-geometry-multi-image-data">
+<div class="breadcrumb"><a href="/">Home</a> / <a href="/publications/">Publications</a> / Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data</div>
+<section class="publication-hero article-hero"><div><span class="tag">New • Technical assessment • August 19, 2026</span><h1 class="page-title">Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data</h1><p class="lead">A measurement-focused review of fixed ALPR installation geometry, capture-range claims, photogrammetric limits, and the informational effect of aggregating multiple observations.</p></div><aside class="publication-meta" aria-label="Publication scope"><h2>Publication scope</h2><p>This paper is limited to camera geometry, manufacturer-described capture characteristics, evidentiary limits, and multi-image data. Search authorization, audit procedures, and municipal accountability are addressed separately.</p><p><strong>Published:</strong> August 19, 2026</p><p><strong>Standard:</strong> Facts First. Questions Second. Conclusions Last.</p></aside></section>
+<div class="article-layout"><nav class="article-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#executive-summary">Executive Summary</a></li>
+<li><a href="#methodology-and-evidentiary-standard">1. Methodology and Evidentiary Standard</a></li>
+<li><a href="#known-installation-geometry">2. Known Installation Geometry</a></li>
+<li><a href="#deriving-the-27.6-foot-minimum">3. Deriving the 27.6-Foot Minimum</a></li>
+<li><a href="#why-27.6-feet-is-not-a-vehicle-distance">4. Why 27.6 Feet Is Not a Vehicle Distance</a></li>
+<li><a href="#why-exact-screenshot-based-distance-estimates-should-not-be-published-yet">5. Why Exact Screenshot-Based Distance Estimates Should Not Be Published Yet</a></li>
+<li><a href="#manufacturer-described-capture-characteristics">6. Manufacturer-Described Capture Characteristics</a></li>
+<li><a href="#detection-area-optical-field-of-view-and-recognition-range-are-not-identical">7. Detection Area, Optical Field of View, and Recognition Range Are Not Identical</a></li>
+<li><a href="#what-the-camera-record-contains">8. What the Camera Record Contains</a></li>
+<li><a href="#machine-interpretation-should-be-distinguished-from-the-original-image">9. Machine Interpretation Should Be Distinguished From the Original Image</a></li>
+<li><a href="#one-image-vs.-multiple-images">10. One Image vs. Multiple Images</a></li>
+<li><a href="#the-aggregation-effect">11. The Aggregation Effect</a></li>
+<li><a href="#discrete-observation-is-not-continuous-tracking">12. Discrete Observation Is Not Continuous Tracking</a></li>
+<li><a href="#example-of-multi-image-pattern-formation">13. Example of Multi-Image Pattern Formation</a></li>
+<li><a href="#what-multiple-images-do-not-automatically-prove">14. What Multiple Images Do Not Automatically Prove</a></li>
+<li><a href="#why-multiple-images-matter-more-than-its-just-a-license-plate">15. Why Multiple Images Matter More Than “It’s Just a License Plate”</a></li>
+<li><a href="#camera-density-and-retention-affect-informational-value">16. Camera Density and Retention Affect Informational Value</a></li>
+<li><a href="#evidence-matrix">17. Evidence Matrix</a></li>
+<li><a href="#source-of-evidence-roadmap">18. Source-of-Evidence Roadmap</a></li>
+<li><a href="#what-additional-technical-evidence-would-improve-this-paper">19. What Additional Technical Evidence Would Improve This Paper</a></li>
+<li><a href="#findings">20. Findings</a></li>
+<li><a href="#conclusion">21. Conclusion</a></li>
+<li><a href="#sources">Sources</a></li>
+<li><a href="#evidence-note">Evidence Note</a></li></ul></nav><article class="article-content">
+
+<blockquote>
+<p><strong>Scope note:</strong> This paper is intentionally limited to the physical camera installation, manufacturer-described capture characteristics, evidentiary limitations, and the informational significance of multiple ALPR observations when combined. Questions involving audit procedures, search authorization, supervisory approval, and government accountability are reserved for a separate paper.</p>
+</blockquote>
+<h2 id="executive-summary">Executive Summary</h2>
+<p>A fixed automated license plate reader (ALPR) should not be evaluated solely as a camera that photographs a license plate. The roadside device is one component in a system that converts discrete vehicle observations into structured records containing, at minimum, a plate or plate interpretation, an image, a time, and a camera location. Manufacturer documentation also describes vehicle-characteristic classification and searches based on those characteristics.<a class="footnote-ref" href="#fn1" id="fnref1" role="doc-noteref"><sup>1</sup></a><a class="footnote-ref" href="#fn2" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>For the Sherwood installation examined in the Arkansas Accountability Project’s records, the available installation drawing establishes two physical measurements:</p>
+<ul>
+<li>approximate camera/pole height: <strong>12 feet</strong></li>
+<li>approximate horizontal setback from the edge of pavement: <strong>24.8 feet</strong></li>
+</ul>
+<p>Those measurements support one transparent geometric calculation:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>=</mo><msqrt><mrow><msup><mn>12</mn><mn>2</mn></msup><mo>+</mo><msup><mn>24.8</mn><mn>2</mn></msup></mrow></msqrt><mo>≈</mo><mn>27.6</mn><mrow><mspace width="0.333em"></mspace><mtext mathvariant="normal"> feet</mtext></mrow></mrow><annotation encoding="application/x-tex">
+d=\sqrt{12^2+24.8^2}\approx27.6\text{ feet}
+</annotation></semantics></math></p>
+<p>Accordingly, <strong>27.6 feet is the approximate minimum straight-line distance from the camera position to the documented edge of pavement</strong>.</p>
+<p>It is <strong>not</strong> the distance from the camera to a particular vehicle. A vehicle traveling within the roadway would normally be farther from the camera than the pavement edge. The current municipal record does not contain sufficient optical calibration information to calculate exact camera-to-vehicle distances from screenshots with defensible precision.</p>
+<p>Flock Safety’s current FAQ states that its license-plate-reading cameras can capture vehicles traveling up to 100 mph, day or night, and up to 75 feet away; that one camera is designed to cover approximately 1.5 lanes of traffic in one direction; and that motion detection operates to approximately 75 feet with a field about 20 feet wide at that distance.<a class="footnote-ref" href="#fn3" id="fnref3" role="doc-noteref"><sup>3</sup></a> Those statements are useful manufacturer-described operating characteristics. They are <strong>not a site-specific optical calibration</strong> for the Sherwood installation.</p>
+<p>The second focus of this paper is what happens when multiple discrete ALPR observations are combined. One observation establishes, at most, that a vehicle was observed at a particular camera at a particular time. Multiple observations sorted by time and location can reveal substantially more, including direction of movement, recurring travel corridors, repeated appearances, approximate timing patterns, and relationships between locations.</p>
+<p>This does not mean that a stationary ALPR continuously follows a vehicle. It means that <strong>multiple discrete observations can become more informative when aggregated</strong>.</p>
+<p>That distinction is central to an accurate description of ALPR technology.</p>
+<hr/>
+<h2 id="methodology-and-evidentiary-standard">1. Methodology and Evidentiary Standard</h2>
+<p>This paper uses five labels to distinguish levels of certainty.</p>
+<h3 id="documented-municipal-fact">Documented municipal fact</h3>
+<p>A fact directly established by a municipal record, installation drawing, produced data record, or other government document in the project collection.</p>
+<h3 id="mathematical-derivation">Mathematical derivation</h3>
+<p>A calculation based on documented measurements.</p>
+<h3 id="manufacturer-described-capability">Manufacturer-described capability</h3>
+<p>A capability or specification stated by the manufacturer in public product documentation. Manufacturer claims are identified as such and are not treated as independent field validation.</p>
+<h3 id="reasonable-inference">Reasonable inference</h3>
+<p>A conclusion supported by the available facts but dependent on one or more assumptions.</p>
+<h3 id="unknown-or-unverified">Unknown or unverified</h3>
+<p>A technical detail that the current evidence does not establish.</p>
+<p>This framework prevents a common analytical error: treating a plausible estimate as though it were a documented measurement.</p>
+<hr/>
+<h2 id="known-installation-geometry">2. Known Installation Geometry</h2>
+<p>The available installation drawing contains two useful dimensions.</p>
+<h3 id="camera-height">2.1 Camera height</h3>
+<p><strong>Documented municipal fact:</strong> approximately <strong>12 feet</strong>.</p>
+<h3 id="horizontal-setback">2.2 Horizontal setback</h3>
+<p><strong>Documented municipal fact:</strong> approximately <strong>24.8 feet from the edge of pavement</strong>.</p>
+<p>These measurements allow a minimum camera-to-roadway distance to be calculated without making assumptions about the camera lens.</p>
+<figure>
+<img alt="Simplified ALPR installation geometry showing the 12-foot pole height, 24.8-foot horizontal setback, and approximately 27.6-foot minimum slant distance to the pavement edge." src="/assets/publications/alpr-camera-geometry-multi-image-data/alpr-camera-geometry.svg"/>
+<figcaption aria-hidden="true">Simplified ALPR installation geometry showing the 12-foot pole height, 24.8-foot horizontal setback, and approximately 27.6-foot minimum slant distance to the pavement edge.</figcaption>
+</figure>
+<p><em>Figure 1. Simplified geometry based on the dimensions shown in the installation drawing. The 27.6-foot line terminates at the pavement edge, not at a vehicle.</em></p>
+<hr/>
+<h2 id="deriving-the-27.6-foot-minimum">3. Deriving the 27.6-Foot Minimum</h2>
+<p>Using the Pythagorean theorem:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>=</mo><msqrt><mrow><msup><mrow><mo form="prefix" stretchy="true">(</mo><mn>12</mn><mo form="postfix" stretchy="true">)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo form="prefix" stretchy="true">(</mo><mn>24.8</mn><mo form="postfix" stretchy="true">)</mo></mrow><mn>2</mn></msup></mrow></msqrt></mrow><annotation encoding="application/x-tex">
+d=\sqrt{(12)^2+(24.8)^2}
+</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>=</mo><msqrt><mrow><mn>144</mn><mo>+</mo><mn>615.04</mn></mrow></msqrt></mrow><annotation encoding="application/x-tex">
+d=\sqrt{144+615.04}
+</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>=</mo><msqrt><mn>759.04</mn></msqrt></mrow><annotation encoding="application/x-tex">
+d=\sqrt{759.04}
+</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>≈</mo><mn>27.55</mn><mrow><mspace width="0.333em"></mspace><mtext mathvariant="normal"> feet</mtext></mrow></mrow><annotation encoding="application/x-tex">
+d\approx27.55\text{ feet}
+</annotation></semantics></math></p>
+<p>Rounded to one decimal place:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><menclose notation="box"><mrow><mi>d</mi><mo>≈</mo><mn>27.6</mn><mrow><mspace width="0.333em"></mspace><mtext mathvariant="normal"> feet</mtext></mrow></mrow></menclose><annotation encoding="application/x-tex">
+\boxed{d\approx27.6\text{ feet}}
+</annotation></semantics></math></p>
+<h3 id="finding">Finding</h3>
+<p><strong>Mathematical derivation:</strong> the approximate straight-line distance from the camera position to the documented pavement edge is <strong>27.6 feet</strong>.</p>
+<p>This is the strongest precise distance statement presently supported by the record.</p>
+<hr/>
+<h2 id="why-27.6-feet-is-not-a-vehicle-distance">4. Why 27.6 Feet Is Not a Vehicle Distance</h2>
+<p>The 27.6-foot calculation ends at the pavement edge.</p>
+<p>A moving vehicle is ordinarily located inside the roadway. Therefore, the vehicle’s plate or body would normally be farther from the camera than the nearest pavement edge.</p>
+<p>The exact distance depends on variables not established by the two site-plan measurements alone, including:</p>
+<ul>
+<li>lane width;</li>
+<li>vehicle position within the lane;</li>
+<li>longitudinal position when the image was captured;</li>
+<li>camera yaw;</li>
+<li>camera pitch;</li>
+<li>roadway grade;</li>
+<li>plate height;</li>
+<li>and the exact point in the camera’s field at which the image was captured.</li>
+</ul>
+<p>A defensible public statement is therefore:</p>
+<blockquote>
+<p><strong>The documented geometry establishes approximately 27.6 feet as a minimum straight-line distance to the pavement edge. A vehicle traveling within the roadway would ordinarily be farther away, but the exact camera-to-vehicle distance cannot be established from the current municipal record alone.</strong></p>
+</blockquote>
+<p>That is materially different from asserting a precise vehicle distance.</p>
+<hr/>
+<h2 id="why-exact-screenshot-based-distance-estimates-should-not-be-published-yet">5. Why Exact Screenshot-Based Distance Estimates Should Not Be Published Yet</h2>
+<p>Perspective images contain spatial information, but reliable photogrammetric measurement normally requires camera calibration or known real-world reference geometry.</p>
+<p>The current municipal record does not establish all of the following:</p>
+<ul>
+<li>exact sensor dimensions;</li>
+<li>exact focal length;</li>
+<li>optical center;</li>
+<li>lens distortion coefficients;</li>
+<li>exact horizontal optical field of view;</li>
+<li>exact vertical optical field of view;</li>
+<li>camera pitch, yaw, and roll;</li>
+<li>any digital crop applied before storage;</li>
+<li>perspective correction;</li>
+<li>exact road-plane geometry;</li>
+<li>lane centerlines;</li>
+<li>or a site-specific calibration image.</li>
+</ul>
+<p>Without these values, a pixel coordinate in a screenshot cannot responsibly be converted into a precise real-world vehicle distance.</p>
+<p>Accordingly, exact claims such as <strong>47 feet</strong>, <strong>53 feet</strong>, or <strong>71 feet</strong> should not be presented as measured facts unless later evidence supplies a defensible calibration method.</p>
+<h3 id="appropriate-wording">Appropriate wording</h3>
+<blockquote>
+<p>“The vehicle appears farther from the camera than the documented pavement edge.”</p>
+</blockquote>
+<h3 id="not-presently-supported">Not presently supported</h3>
+<blockquote>
+<p>“The vehicle was exactly 53 feet from the camera.”</p>
+</blockquote>
+<p>The paper intentionally chooses the first form.</p>
+<hr/>
+<h2 id="manufacturer-described-capture-characteristics">6. Manufacturer-Described Capture Characteristics</h2>
+<p>Flock Safety’s current public FAQ provides several relevant statements about its license-plate-reading cameras.</p>
+<p>According to Flock:</p>
+<ul>
+<li>cameras can capture vehicles traveling <strong>up to 100 mph</strong>;</li>
+<li>capture is described as operating <strong>day and night</strong>;</li>
+<li>plates can be captured <strong>up to 75 feet away</strong>;</li>
+<li>one LPR camera is designed to cover about <strong>1.5 lanes in one direction</strong>;</li>
+<li>motion detection operates to about <strong>75 feet</strong>; and</li>
+<li>the field at that distance is described as approximately <strong>20 feet wide</strong>.<a class="footnote-ref" href="#fn4" id="fnref4" role="doc-noteref"><sup>4</sup></a></li>
+</ul>
+<p>These statements are useful for understanding the manufacturer’s intended operating envelope.</p>
+<p>They must be used carefully.</p>
+<h3 id="what-these-statements-support">What these statements support</h3>
+<p>They support the proposition that Flock publicly describes its fixed LPR product as being designed to capture vehicles across roadway distances substantially greater than the 27.6-foot minimum derived to the pavement edge.</p>
+<h3 id="what-these-statements-do-not-establish">What these statements do not establish</h3>
+<p>They do not establish:</p>
+<ul>
+<li>the exact installed camera model or hardware revision at every municipal location;</li>
+<li>a site-specific focal length;</li>
+<li>exact camera-to-vehicle distance in a particular image;</li>
+<li>exact optical field-of-view angles;</li>
+<li>site-specific OCR accuracy;</li>
+<li>or the maximum distance at which every plate will be readable under every condition.</li>
+</ul>
+<p>Manufacturer-described performance and site-specific measured performance are different categories of evidence.</p>
+<hr/>
+<h2 id="detection-area-optical-field-of-view-and-recognition-range-are-not-identical">7. Detection Area, Optical Field of View, and Recognition Range Are Not Identical</h2>
+<p>Several technical concepts are easy to collapse into one another.</p>
+<h3 id="motion-detection-area">Motion-detection area</h3>
+<p>The area in which the system detects an event that may trigger processing or capture.</p>
+<h3 id="optical-field-of-view">Optical field of view</h3>
+<p>The physical scene projected onto the image sensor.</p>
+<h3 id="plate-recognition-range">Plate-recognition range</h3>
+<p>The conditions and distances under which a captured plate can be resolved and interpreted.</p>
+<h3 id="infrared-illumination-region">Infrared illumination region</h3>
+<p>The portion of the scene receiving useful IR illumination for reflective plate capture.</p>
+<p>These regions may overlap, but they are not necessarily identical.</p>
+<p>Flock’s statement that motion detection works to approximately 75 feet with a roughly 20-foot-wide field at that distance should therefore <strong>not</strong> be used as though it were a complete site-specific optical calibration.<a class="footnote-ref" href="#fn5" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<hr/>
+<h2 id="what-the-camera-record-contains">8. What the Camera Record Contains</h2>
+<p>Flock’s product materials describe LPR cameras as producing more than a plate number. Its platform materials describe <strong>Vehicle Signature</strong> searches using characteristics such as color, make, model, body type, and other distinctive vehicle features.<a class="footnote-ref" href="#fn6" id="fnref6" role="doc-noteref"><sup>6</sup></a><a class="footnote-ref" href="#fn7" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>For analytical purposes, a single ALPR observation can be modeled as:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo>=</mo><mrow><mo form="prefix" stretchy="true">(</mo><mi>P</mi><mo>,</mo><mi>V</mi><mo>,</mo><mi>T</mi><mo>,</mo><mi>L</mi><mo>,</mo><mi>I</mi><mo form="postfix" stretchy="true">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+O=(P,V,T,L,I)
+</annotation></semantics></math></p>
+<p>where:</p>
+<ul>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>P</mi><annotation encoding="application/x-tex">P</annotation></semantics></math> = plate or plate interpretation</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>V</mi><annotation encoding="application/x-tex">V</annotation></semantics></math> = vehicle attributes</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>T</mi><annotation encoding="application/x-tex">T</annotation></semantics></math> = timestamp</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>L</mi><annotation encoding="application/x-tex">L</annotation></semantics></math> = camera/location</li>
+<li><math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>I</mi><annotation encoding="application/x-tex">I</annotation></semantics></math> = associated image</li>
+</ul>
+<p>Not every field has the same evidentiary status.</p>
+<p>The image is a captured observation. Plate text and vehicle attributes may involve machine interpretation.</p>
+<p>That distinction should remain visible in any forensic or policy analysis.</p>
+<hr/>
+<h2 id="machine-interpretation-should-be-distinguished-from-the-original-image">9. Machine Interpretation Should Be Distinguished From the Original Image</h2>
+<p>The system may associate automated classifications with an image, such as:</p>
+<ul>
+<li>plate characters;</li>
+<li>make;</li>
+<li>model;</li>
+<li>color;</li>
+<li>body type;</li>
+<li>or other vehicle characteristics.<a class="footnote-ref" href="#fn8" id="fnref8" role="doc-noteref"><sup>8</sup></a><a class="footnote-ref" href="#fn9" id="fnref9" role="doc-noteref"><sup>9</sup></a></li>
+</ul>
+<p>Those classifications can be useful investigative metadata.</p>
+<p>They should not be treated as though the algorithmic label and the original image are identical forms of evidence.</p>
+<p>A defensible hierarchy is:</p>
+<ol type="1">
+<li><strong>Original captured image</strong></li>
+<li><strong>Timestamp and camera-location metadata</strong></li>
+<li><strong>Machine-read plate result</strong></li>
+<li><strong>Machine-generated vehicle classification</strong></li>
+<li><strong>Human interpretation or investigative conclusion</strong></li>
+</ol>
+<p>This distinction becomes particularly important when records from the same vehicle contain inconsistent automated vehicle descriptions.</p>
+<p>An inconsistency in machine classification does not necessarily mean the underlying image depicts a different vehicle. It means the classification output itself must be interpreted cautiously.</p>
+<hr/>
+<h2 id="one-image-vs.-multiple-images">10. One Image vs. Multiple Images</h2>
+<p>One ALPR observation is limited.</p>
+<p>For example:</p>
+<blockquote>
+<p><strong>8:04 AM — Camera A — Plate ABC123</strong></p>
+</blockquote>
+<p>That tells the viewer that the vehicle was observed at that point at that time, subject to the accuracy of the underlying record.</p>
+<p>A second observation adds a relationship:</p>
+<blockquote>
+<p><strong>8:04 AM — Camera A</strong><br/>
+<strong>8:19 AM — Camera B</strong></p>
+</blockquote>
+<p>A third adds another:</p>
+<blockquote>
+<p><strong>8:04 AM — Camera A</strong><br/>
+<strong>8:19 AM — Camera B</strong><br/>
+<strong>8:37 AM — Camera C</strong></p>
+</blockquote>
+<p>The informational value does not increase merely because there are more photographs. It increases because the observations can be ordered by <strong>time and location</strong>.</p>
+<figure>
+<img alt="Diagram showing how separate ALPR observations become a movement sequence when sorted by time and location." src="/assets/publications/alpr-camera-geometry-multi-image-data/alpr-multi-image-aggregation.svg"/>
+<figcaption aria-hidden="true">Diagram showing how separate ALPR observations become a movement sequence when sorted by time and location.</figcaption>
+</figure>
+<p><em>Figure 2. Multiple discrete observations can reveal a sequence even though no individual stationary camera continuously follows the vehicle.</em></p>
+<hr/>
+<h2 id="the-aggregation-effect">11. The Aggregation Effect</h2>
+<p>A single record may have modest informational value.</p>
+<p>Multiple records associated with the same plate can be represented as:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>O</mi><mn>1</mn></msub><mo>=</mo><mrow><mo form="prefix" stretchy="true">(</mo><mi>P</mi><mo>,</mo><msub><mi>L</mi><mn>1</mn></msub><mo>,</mo><msub><mi>T</mi><mn>1</mn></msub><mo form="postfix" stretchy="true">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+O_1=(P,L_1,T_1)
+</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>O</mi><mn>2</mn></msub><mo>=</mo><mrow><mo form="prefix" stretchy="true">(</mo><mi>P</mi><mo>,</mo><msub><mi>L</mi><mn>2</mn></msub><mo>,</mo><msub><mi>T</mi><mn>2</mn></msub><mo form="postfix" stretchy="true">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+O_2=(P,L_2,T_2)
+</annotation></semantics></math></p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>O</mi><mn>3</mn></msub><mo>=</mo><mrow><mo form="prefix" stretchy="true">(</mo><mi>P</mi><mo>,</mo><msub><mi>L</mi><mn>3</mn></msub><mo>,</mo><msub><mi>T</mi><mn>3</mn></msub><mo form="postfix" stretchy="true">)</mo></mrow></mrow><annotation encoding="application/x-tex">
+O_3=(P,L_3,T_3)
+</annotation></semantics></math></p>
+<p>When ordered by time:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>O</mi><mn>1</mn></msub><mo>→</mo><msub><mi>O</mi><mn>2</mn></msub><mo>→</mo><msub><mi>O</mi><mn>3</mn></msub></mrow><annotation encoding="application/x-tex">
+O_1\rightarrow O_2\rightarrow O_3
+</annotation></semantics></math></p>
+<p>the dataset can support inferences about movement between fixed observation points.</p>
+<p>With enough observations, the records may reveal or help infer:</p>
+<ul>
+<li>direction of travel;</li>
+<li>repeated travel corridors;</li>
+<li>approximate travel times between cameras;</li>
+<li>recurring appearances at similar times;</li>
+<li>repeated presence near a location;</li>
+<li>frequency of travel;</li>
+<li>and relationships among multiple locations.</li>
+</ul>
+<p>The exact strength of any inference depends on the completeness of the camera network and the observations available.</p>
+<hr/>
+<h2 id="discrete-observation-is-not-continuous-tracking">12. Discrete Observation Is Not Continuous Tracking</h2>
+<p>Precision in terminology is important.</p>
+<p>A stationary ALPR camera does not necessarily document every point traveled between two camera locations.</p>
+<p>Therefore, the following statement is too broad:</p>
+<blockquote>
+<p>“The camera continuously tracked the vehicle.”</p>
+</blockquote>
+<p>A more accurate statement is:</p>
+<blockquote>
+<p><strong>The system produced discrete observations at fixed camera locations that can be ordered chronologically to reconstruct portions of a vehicle’s observed travel.</strong></p>
+</blockquote>
+<p>This distinguishes ALPR data from continuous GPS telemetry while still recognizing the informational value of aggregated records.</p>
+<p>Both facts can be true:</p>
+<ol type="1">
+<li>no individual fixed camera continuously follows the vehicle; and</li>
+<li>multiple fixed-camera observations can retrospectively reveal meaningful portions of a vehicle’s movement.</li>
+</ol>
+<hr/>
+<h2 id="example-of-multi-image-pattern-formation">13. Example of Multi-Image Pattern Formation</h2>
+<p>Consider the following hypothetical sequence:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Camera</th>
+<th>Direction</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>7:42 AM</td>
+<td>D</td>
+<td>Eastbound</td>
+</tr>
+<tr class="even">
+<td>7:56 AM</td>
+<td>C</td>
+<td>Southbound</td>
+</tr>
+<tr class="odd">
+<td>8:04 AM</td>
+<td>A</td>
+<td>Southbound</td>
+</tr>
+<tr class="even">
+<td>5:11 PM</td>
+<td>A</td>
+<td>Northbound</td>
+</tr>
+<tr class="odd">
+<td>5:29 PM</td>
+<td>C</td>
+<td>Northbound</td>
+</tr>
+<tr class="even">
+<td>5:44 PM</td>
+<td>D</td>
+<td>Westbound</td>
+</tr>
+</tbody>
+</table>
+<p>No single observation establishes a daily routine.</p>
+<p>If materially similar sequences recur over multiple dates, however, an analyst could reasonably begin testing hypotheses such as:</p>
+<ul>
+<li>repeated morning travel in one direction;</li>
+<li>repeated evening return travel;</li>
+<li>recurring corridors;</li>
+<li>or approximate departure and return windows.</li>
+</ul>
+<p>Those conclusions should still be labeled as <strong>inferences from observed records</strong>, not as proof of where the person was during unobserved intervals.</p>
+<hr/>
+<h2 id="what-multiple-images-do-not-automatically-prove">14. What Multiple Images Do Not Automatically Prove</h2>
+<p>Aggregated ALPR records have limits.</p>
+<p>Even a sequence of observations generally does not, by itself, establish:</p>
+<ul>
+<li>who was driving;</li>
+<li>who owned the vehicle at that moment;</li>
+<li>the precise route traveled between cameras;</li>
+<li>whether the vehicle stopped between observations;</li>
+<li>the purpose of the trip;</li>
+<li>the identity of passengers;</li>
+<li>the destination intended by the driver;</li>
+<li>or activity occurring where no camera observation exists.</li>
+</ul>
+<p>These limitations should accompany any public demonstration of multi-image travel reconstruction.</p>
+<p>The appropriate claim is usually:</p>
+<blockquote>
+<p><strong>The records can reveal observed movement patterns and support travel inferences.</strong></p>
+</blockquote>
+<p>Not:</p>
+<blockquote>
+<p><strong>The records prove every movement or activity of the person associated with the vehicle.</strong></p>
+</blockquote>
+<hr/>
+<h2 id="why-multiple-images-matter-more-than-its-just-a-license-plate">15. Why Multiple Images Matter More Than “It’s Just a License Plate”</h2>
+<p>The privacy significance of ALPR records is not dependent on a plate number being secret.</p>
+<p>A plate is publicly displayed.</p>
+<p>The analytical capability comes from adding:</p>
+<ul>
+<li>repeated observation;</li>
+<li>time;</li>
+<li>location;</li>
+<li>vehicle attributes;</li>
+<li>retention;</li>
+<li>and searchability.</li>
+</ul>
+<p>A simplified representation is:</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtext mathvariant="normal">Plate alone</mtext><annotation encoding="application/x-tex">
+\text{Plate alone}
+</annotation></semantics></math></p>
+<p>versus</p>
+<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Plate</mtext><mo>+</mo><mtext mathvariant="normal">Time</mtext><mo>+</mo><mtext mathvariant="normal">Location</mtext><mo>+</mo><mtext mathvariant="normal">Repeated observations</mtext></mrow><annotation encoding="application/x-tex">
+\text{Plate}+\text{Time}+\text{Location}+\text{Repeated observations}
+</annotation></semantics></math></p>
+<p>The second dataset answers questions that the plate itself cannot.</p>
+<p>It can show <strong>when and where the vehicle was observed</strong>, and multiple records can reveal relationships among those observations.</p>
+<p>The distinction is therefore one between <strong>visibility of an identifier</strong> and <strong>aggregation of structured observations</strong>.</p>
+<hr/>
+<h2 id="camera-density-and-retention-affect-informational-value">16. Camera Density and Retention Affect Informational Value</h2>
+<p>The ability to reconstruct observed movement depends on the available dataset.</p>
+<p>Two variables are particularly important.</p>
+<h3 id="camera-coverage">Camera coverage</h3>
+<p>More strategically distributed camera locations create more possible observation points.</p>
+<h3 id="retention">Retention</h3>
+<p>Longer retention creates a larger historical window in which observations can be compared.</p>
+<p>Flock’s public materials describe <strong>30 days as its standard retention period</strong>, while noting that retention may differ when law or local policy requires another period.<a class="footnote-ref" href="#fn10" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>This paper does not treat a 30-day manufacturer default as proof of the exact retention setting for every Arkansas deployment.</p>
+<p>Local implementation must be established from local records.</p>
+<hr/>
+<h2 id="evidence-matrix">17. Evidence Matrix</h2>
+<table>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Question</th>
+<th>Status</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Approximate pole height</td>
+<td><strong>Established</strong></td>
+<td>Municipal installation drawing: ~12 ft</td>
+</tr>
+<tr class="even">
+<td>Horizontal setback to pavement edge</td>
+<td><strong>Established</strong></td>
+<td>Municipal installation drawing: ~24.8 ft</td>
+</tr>
+<tr class="odd">
+<td>Minimum slant distance to pavement edge</td>
+<td><strong>Derived</strong></td>
+<td>Pythagorean calculation: ~27.6 ft</td>
+</tr>
+<tr class="even">
+<td>Exact distance to a photographed vehicle</td>
+<td><strong>Not established</strong></td>
+<td>Insufficient site-specific optical calibration</td>
+</tr>
+<tr class="odd">
+<td>Manufacturer-described capture distance</td>
+<td><strong>Manufacturer states up to 75 ft</strong></td>
+<td>Flock FAQ</td>
+</tr>
+<tr class="even">
+<td>Manufacturer-described traffic coverage</td>
+<td><strong>Manufacturer states ~1.5 lanes, one direction</strong></td>
+<td>Flock FAQ</td>
+</tr>
+<tr class="odd">
+<td>Manufacturer-described motion-detection range</td>
+<td><strong>Manufacturer states ~75 ft</strong></td>
+<td>Flock FAQ</td>
+</tr>
+<tr class="even">
+<td>Approximate width at 75 ft</td>
+<td><strong>Manufacturer states ~20 ft</strong></td>
+<td>Flock FAQ</td>
+</tr>
+<tr class="odd">
+<td>Exact focal length at examined installation</td>
+<td><strong>Not established</strong></td>
+<td>Not present in current municipal record</td>
+</tr>
+<tr class="even">
+<td>Exact sensor dimensions</td>
+<td><strong>Not established</strong></td>
+<td>Not present in current municipal record</td>
+</tr>
+<tr class="odd">
+<td>Exact optical field-of-view angles</td>
+<td><strong>Not established</strong></td>
+<td>Not present in current municipal record</td>
+</tr>
+<tr class="even">
+<td>Vehicle attribute classification</td>
+<td><strong>Manufacturer-described capability</strong></td>
+<td>Flock platform/product materials</td>
+</tr>
+<tr class="odd">
+<td>Multiple records can be time-ordered</td>
+<td><strong>Established analytical property</strong></td>
+<td>Timestamped/location-associated records</td>
+</tr>
+<tr class="even">
+<td>Multiple records can support movement inferences</td>
+<td><strong>Reasonable inference</strong></td>
+<td>Depends on observed sequence and coverage</td>
+</tr>
+<tr class="odd">
+<td>Continuous route between cameras</td>
+<td><strong>Not established by ALPR observations alone</strong></td>
+<td>Unobserved intervals remain</td>
+</tr>
+<tr class="even">
+<td>Driver identity from plate observation alone</td>
+<td><strong>Not established</strong></td>
+<td>Vehicle observation is not driver identification</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<h2 id="source-of-evidence-roadmap">18. Source-of-Evidence Roadmap</h2>
+<p>Not every technical question should be directed to a municipal department.</p>
+<h3 id="municipal-records-are-the-appropriate-source-for">Municipal records are the appropriate source for</h3>
+<ul>
+<li>installation drawings;</li>
+<li>camera locations;</li>
+<li>site-specific measurements;</li>
+<li>locally produced ALPR data;</li>
+<li>retention as locally implemented;</li>
+<li>and records showing how observations appear in actual municipal datasets.</li>
+</ul>
+<h3 id="manufacturer-materials-are-the-more-appropriate-source-for">Manufacturer materials are the more appropriate source for</h3>
+<ul>
+<li>product operating envelopes;</li>
+<li>general capture capabilities;</li>
+<li>product-family functionality;</li>
+<li>vehicle-classification capabilities;</li>
+<li>and proprietary engineering specifications the manufacturer elects to disclose.</li>
+</ul>
+<h3 id="independent-technical-testing-would-be-required-to-validate">Independent technical testing would be required to validate</h3>
+<ul>
+<li>site-specific capture accuracy by distance;</li>
+<li>OCR accuracy under varying lighting conditions;</li>
+<li>performance by vehicle speed;</li>
+<li>machine-classification accuracy;</li>
+<li>and precise photogrammetric calibration.</li>
+</ul>
+<p>The absence of proprietary optical engineering records from a city should therefore not automatically be characterized as deficient municipal recordkeeping.</p>
+<hr/>
+<h2 id="what-additional-technical-evidence-would-improve-this-paper">19. What Additional Technical Evidence Would Improve This Paper</h2>
+<p>The strongest additional evidence would be one or more of the following:</p>
+<ol type="1">
+<li>exact installed camera model and hardware revision;</li>
+<li>manufacturer technical sheet for that exact model;</li>
+<li>focal length and sensor dimensions;</li>
+<li>horizontal and vertical optical field of view;</li>
+<li>site-specific camera pitch and yaw;</li>
+<li>roadway/lane survey dimensions;</li>
+<li>an uncropped original image with known reference dimensions;</li>
+<li>controlled test captures from known distances;</li>
+<li>documentation explaining how vehicle classifications are generated;</li>
+<li>metadata definitions for the produced ALPR records.</li>
+</ol>
+<p>Until that evidence exists, the current paper deliberately stops short of precise site-specific optical claims.</p>
+<hr/>
+<h2 id="findings">20. Findings</h2>
+<h3 id="finding-1-known-geometry">Finding 1 — Known geometry</h3>
+<p>The current installation drawing supports an approximate <strong>12-foot pole height</strong> and <strong>24.8-foot horizontal setback from the pavement edge</strong>.</p>
+<h3 id="finding-2-defensible-minimum-distance">Finding 2 — Defensible minimum distance</h3>
+<p>Those measurements produce a transparent geometric minimum of approximately <strong>27.6 feet from camera position to pavement edge</strong>.</p>
+<h3 id="finding-3-vehicle-distance-remains-unmeasured">Finding 3 — Vehicle distance remains unmeasured</h3>
+<p>The 27.6-foot value does not establish the distance to a vehicle traveling in the roadway.</p>
+<h3 id="finding-4-exact-photogrammetry-is-not-yet-supported">Finding 4 — Exact photogrammetry is not yet supported</h3>
+<p>The current record does not contain sufficient site-specific calibration information to publish exact camera-to-vehicle distances from screenshots.</p>
+<h3 id="finding-5-manufacturer-specifications-provide-context-not-site-calibration">Finding 5 — Manufacturer specifications provide context, not site calibration</h3>
+<p>Flock publicly describes captures up to 75 feet, coverage of roughly 1.5 lanes in one direction, and a motion-detection field approximately 20 feet wide at 75 feet.<a class="footnote-ref" href="#fn11" id="fnref11" role="doc-noteref"><sup>11</sup></a> These are manufacturer-described operating characteristics, not measurements of a particular Sherwood capture.</p>
+<h3 id="finding-6-the-system-produces-structured-vehicle-observations">Finding 6 — The system produces structured vehicle observations</h3>
+<p>Flock describes license-plate capture together with searchable vehicle characteristics, allowing records to contain more analytical information than a plate number alone.<a class="footnote-ref" href="#fn12" id="fnref12" role="doc-noteref"><sup>12</sup></a><a class="footnote-ref" href="#fn13" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+<h3 id="finding-7-multiple-observations-can-reveal-more-than-one-observation">Finding 7 — Multiple observations can reveal more than one observation</h3>
+<p>Time-ordered observations from different camera locations can support inferences about direction, recurring corridors, timing, and repeated travel.</p>
+<h3 id="finding-8-aggregation-is-not-the-same-as-continuous-gps-tracking">Finding 8 — Aggregation is not the same as continuous GPS tracking</h3>
+<p>Fixed ALPR observations remain discrete points. However, a sequence of discrete observations can retrospectively reconstruct portions of observed travel.</p>
+<h3 id="finding-9-inference-has-limits">Finding 9 — Inference has limits</h3>
+<p>ALPR observations alone generally do not establish who was driving, the exact route between cameras, trip purpose, passenger identity, or activity during unobserved intervals.</p>
+<hr/>
+<h2 id="conclusion">21. Conclusion</h2>
+<p>The most defensible technical description of a fixed ALPR system begins with careful separation of what is <strong>measured</strong>, what is <strong>derived</strong>, what the <strong>manufacturer claims</strong>, and what must remain an <strong>inference</strong>.</p>
+<p>For the installation examined here, the strongest physical measurement finding is straightforward:</p>
+<ul>
+<li>camera/pole height: approximately <strong>12 feet</strong></li>
+<li>horizontal setback from pavement edge: approximately <strong>24.8 feet</strong></li>
+<li>derived minimum slant distance to pavement edge: approximately <strong>27.6 feet</strong></li>
+</ul>
+<p>That calculation should not be extended into unsupported claims about exact camera-to-vehicle distance.</p>
+<p>The same discipline applies to the data.</p>
+<p>One ALPR image is a discrete observation. Multiple observations, when connected by the same vehicle identifier and ordered by time and location, can become substantially more informative. They can support reconstruction of portions of observed movement even though the system does not continuously record every point between cameras.</p>
+<p>The central technical distinction is therefore:</p>
+<blockquote>
+<p><strong>A publicly visible license plate is one piece of information. A retained, timestamped, location-indexed series of observations involving that plate is a different dataset.</strong></p>
+</blockquote>
+<p>That conclusion does not depend on exaggerating the camera’s optics or claiming continuous tracking.</p>
+<p>It follows from the structure of the records themselves.</p>
+<hr/>
+<h2 id="sources">Sources</h2>
+<hr/>
+<h2 id="evidence-note">Evidence Note</h2>
+<p>The <strong>12-foot pole height</strong> and <strong>24.8-foot setback</strong> used in this paper derive from an installation drawing retained in the Arkansas Accountability Project’s Sherwood records collection. That underlying drawing is not republished in this Version 3.9 release. The measurements are therefore identified throughout as documented municipal-record facts rather than independently surveyed site measurements. If a reviewed public/redacted copy of the installation drawing is later added to the repository, this publication can be revised to link the exhibit directly.</p>
+<hr/>
+<p><em>Arkansas Accountability Project — Technical Working Paper — August 19, 2026</em></p>
+<section class="footnotes footnotes-end-of-document" id="footnotes" role="doc-endnotes">
+<hr/>
+<ol>
+<li id="fn1"><p>Flock Safety, <strong>Frequently Asked Questions</strong>, current manufacturer FAQ. Relevant statements describe captures up to 100 mph and 75 feet, approximately 1.5 lanes in one direction, and an approximately 20-foot-wide field at 75 feet. https://www.flocksafety.com/faq<a class="footnote-back" href="#fnref1" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Flock Safety, <strong>Flock Safety Platform</strong>, describing Vehicle Signature searches using color, make, model, and unique vehicle features. https://www.flocksafety.com/products/flock-safety-platform<a class="footnote-back" href="#fnref2" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Flock Safety, <strong>Frequently Asked Questions</strong>, current manufacturer FAQ. Relevant statements describe captures up to 100 mph and 75 feet, approximately 1.5 lanes in one direction, and an approximately 20-foot-wide field at 75 feet. https://www.flocksafety.com/faq<a class="footnote-back" href="#fnref3" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Flock Safety, <strong>Frequently Asked Questions</strong>, current manufacturer FAQ. Relevant statements describe captures up to 100 mph and 75 feet, approximately 1.5 lanes in one direction, and an approximately 20-foot-wide field at 75 feet. https://www.flocksafety.com/faq<a class="footnote-back" href="#fnref4" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Flock Safety, <strong>Frequently Asked Questions</strong>, current manufacturer FAQ. Relevant statements describe captures up to 100 mph and 75 feet, approximately 1.5 lanes in one direction, and an approximately 20-foot-wide field at 75 feet. https://www.flocksafety.com/faq<a class="footnote-back" href="#fnref5" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6"><p>Flock Safety, <strong>Flock Safety Platform</strong>, describing Vehicle Signature searches using color, make, model, and unique vehicle features. https://www.flocksafety.com/products/flock-safety-platform<a class="footnote-back" href="#fnref6" role="doc-backlink">↩︎</a></p></li>
+<li id="fn7"><p>Flock Safety, <strong>License Plate Readers (LPR) Cameras</strong>, describing Vehicle Signature search, real-time alerts, and related LPR platform capabilities. https://www.flocksafety.com/products/license-plate-readers<a class="footnote-back" href="#fnref7" role="doc-backlink">↩︎</a></p></li>
+<li id="fn8"><p>Flock Safety, <strong>Flock Safety Platform</strong>, describing Vehicle Signature searches using color, make, model, and unique vehicle features. https://www.flocksafety.com/products/flock-safety-platform<a class="footnote-back" href="#fnref8" role="doc-backlink">↩︎</a></p></li>
+<li id="fn9"><p>Flock Safety, <strong>License Plate Readers (LPR) Cameras</strong>, describing Vehicle Signature search, real-time alerts, and related LPR platform capabilities. https://www.flocksafety.com/products/license-plate-readers<a class="footnote-back" href="#fnref9" role="doc-backlink">↩︎</a></p></li>
+<li id="fn10"><p>Flock Safety, <strong>Privacy &amp; Ethics: Fact vs. Fiction</strong>, stating that standard LPR retention is 30 days but may be increased or decreased when required by law or customer policy. https://www.flocksafety.com/privacy-ethics-copy<a class="footnote-back" href="#fnref10" role="doc-backlink">↩︎</a></p></li>
+<li id="fn11"><p>Flock Safety, <strong>Frequently Asked Questions</strong>, current manufacturer FAQ. Relevant statements describe captures up to 100 mph and 75 feet, approximately 1.5 lanes in one direction, and an approximately 20-foot-wide field at 75 feet. https://www.flocksafety.com/faq<a class="footnote-back" href="#fnref11" role="doc-backlink">↩︎</a></p></li>
+<li id="fn12"><p>Flock Safety, <strong>Flock Safety Platform</strong>, describing Vehicle Signature searches using color, make, model, and unique vehicle features. https://www.flocksafety.com/products/flock-safety-platform<a class="footnote-back" href="#fnref12" role="doc-backlink">↩︎</a></p></li>
+<li id="fn13"><p>Flock Safety, <strong>License Plate Readers (LPR) Cameras</strong>, describing Vehicle Signature search, real-time alerts, and related LPR platform capabilities. https://www.flocksafety.com/products/license-plate-readers<a class="footnote-back" href="#fnref13" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<hr><h2>Related accountability analysis</h2><p>The companion <a href="/publications/alpr-audit-vs-accountability/">Audit vs. Accountability</a> paper addresses search documentation, authorization, audit review, reporting, and corrective controls. The <a href="/publications/sherwood-alpr-travel-patterns/">Sherwood ALPR Travel-Pattern Explorer</a> provides a separate redacted demonstration of how multiple timestamped observations can be organized.</p><div class="notice"><strong>Publication asset verification.</strong> <a href="/assets/publications/alpr-camera-geometry-multi-image-data/SHA256SUMS.txt">SHA-256 checksums</a> are provided for the two figures used in this paper.</div></article></div>
+</main>
+<footer><div class="wrap"><strong>Arkansas Accountability Project (ARAP)</strong><br><a href="https://arkansasaccountabilityproject.org">arkansasaccountabilityproject.org</a><br><small>This website is a living public-reference resource. Revisions will be published as additional verified records become available.</small></div></footer>
+<script src="/assets/site.js"></script>
+</body></html>
