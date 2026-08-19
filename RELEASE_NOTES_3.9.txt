@@ -1,4 +1,4 @@
-ARAP Website Version 3.9 - August 19, 2026
+ARAP Website Version 3.9.1 - August 19, 2026
 
 This release adds two complementary public papers while preserving all Version 3.8 material.
 

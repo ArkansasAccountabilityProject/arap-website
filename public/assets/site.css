@@ -63,3 +63,9 @@ table{width:100%;border-collapse:collapse;background:#fff}th,td{text-align:left;
 /* Version 3.9 technical and accountability publications */
 .article-content figure{margin:2rem 0;max-width:100%}.article-content figure img,.article-content>p>img{display:block;max-width:100%;height:auto;margin:1.5rem auto;border:1px solid var(--line);border-radius:10px;background:#fff}.article-content figure figcaption,.article-content>p+em{color:var(--muted);font-size:.92rem}.article-content math{font-size:1.08em;max-width:100%;overflow-x:auto}.article-content .footnotes{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);font-size:.92rem}.article-content .footnotes ol{padding-left:1.4rem}.article-content .footnotes li{margin:.8rem 0}.article-content sup{line-height:0}.article-content .sourceCode{overflow:auto}.article-content tbody tr:nth-child(even){background:#fafcfd}
 @media(max-width:620px){.article-content math{font-size:1em}.article-content>p>img{margin:1rem auto}}
+
+/* Version 3.9.1 hotfix: long-form table-of-contents links
+   Global `nav a` is white for the dark site header; article TOCs are white cards. */
+.article-toc a{color:var(--accent);font-weight:650}
+.article-toc a:visited{color:var(--accent)}
+.article-toc a:hover{color:var(--accent2)}

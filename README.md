@@ -1,4 +1,4 @@
-# ARAP Website Version 3.9
+# ARAP Website Version 3.8
 
 Official website source for the Arkansas Accountability Project.
 
@@ -8,38 +8,6 @@ Official website source for the Arkansas Accountability Project.
 - Worker entry point: `src/index.js`
 - Cloudflare deployment: `wrangler.jsonc`
 - Public downloads bundled under `public/downloads/`
-
-## Version 3.9
-
-Version 3.9 adds two complementary August 19, 2026 publications. **Audit vs. Accountability: Preventive Controls for ALPR Database Searches** distinguishes authentication, contemporaneous documentation, authorization, scope control, retrospective auditing, program-level reporting, and corrective action. It keeps policy recommendations separate from existing Arkansas statutory requirements and uses Sherwood and Cabot records with explicit evidentiary limits.
-
-**Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data** examines documented 12-foot camera height and 24.8-foot pavement-edge setback measurements, derives the approximately 27.6-foot minimum slant distance to the pavement edge, explains why that value is not an exact camera-to-vehicle distance, labels manufacturer-described capture characteristics as manufacturer claims, and explains what multiple timestamped/location-associated observations can and cannot reveal when aggregated.
-
-Version 3.9 cross-links the papers from the home page, Publications index, Evidence Repository, Sherwood page, travel-pattern explorer, and ALPR audit collection. It adds publication figures and checksum files, updates the sitemap and version metadata, and preserves all Version 3.8 publications and public-safe assets.
-
-## Version 3.9
-
-Version 3.9 adds two complementary August 19, 2026 publications. **Audit vs. Accountability: Preventive Controls for ALPR Database Searches** distinguishes authentication, contemporaneous documentation, authorization, scope control, retrospective auditing, program-level reporting, and corrective action. It keeps policy recommendations separate from existing Arkansas statutory requirements and uses Sherwood and Cabot records with explicit evidentiary limits.
-
-**Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data** examines documented 12-foot camera height and 24.8-foot pavement-edge setback measurements, derives the approximately 27.6-foot minimum slant distance to the pavement edge, explains why that value is not an exact camera-to-vehicle distance, labels manufacturer-described capture characteristics as manufacturer claims, and explains what multiple timestamped/location-associated observations can and cannot reveal when aggregated.
-
-Version 3.9 cross-links the papers from the home page, Publications index, Evidence Repository, Sherwood page, travel-pattern explorer, and ALPR audit collection. It adds publication figures and checksum files, updates the sitemap and version metadata, and preserves all Version 3.8 publications and public-safe assets.
-
-## Version 3.9
-
-Version 3.9 adds two complementary August 19, 2026 publications. **Audit vs. Accountability: Preventive Controls for ALPR Database Searches** distinguishes authentication, contemporaneous documentation, authorization, scope control, retrospective auditing, program-level reporting, and corrective action. It keeps policy recommendations separate from existing Arkansas statutory requirements and uses Sherwood and Cabot records with explicit evidentiary limits.
-
-**Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data** examines documented 12-foot camera height and 24.8-foot pavement-edge setback measurements, derives the approximately 27.6-foot minimum slant distance to the pavement edge, explains why that value is not an exact camera-to-vehicle distance, labels manufacturer-described capture characteristics as manufacturer claims, and explains what multiple timestamped/location-associated observations can and cannot reveal when aggregated.
-
-Version 3.9 cross-links the papers from the home page, Publications index, Evidence Repository, Sherwood page, travel-pattern explorer, and ALPR audit collection. It adds publication figures and checksum files, updates the sitemap and version metadata, and preserves all Version 3.8 publications and public-safe assets.
-
-## Version 3.9
-
-Version 3.9 adds two complementary August 19, 2026 publications. **Audit vs. Accountability: Preventive Controls for ALPR Database Searches** distinguishes authentication, contemporaneous documentation, authorization, scope control, retrospective auditing, program-level reporting, and corrective action. It keeps policy recommendations separate from existing Arkansas statutory requirements and uses Sherwood and Cabot records with explicit evidentiary limits.
-
-**Technical Assessment of Fixed ALPR Camera Geometry and Multi-Image Data** examines documented 12-foot camera height and 24.8-foot pavement-edge setback measurements, derives the approximately 27.6-foot minimum slant distance to the pavement edge, explains why that value is not an exact camera-to-vehicle distance, labels manufacturer-described capture characteristics as manufacturer claims, and explains what multiple timestamped/location-associated observations can and cannot reveal when aggregated.
-
-Version 3.9 cross-links the papers from the home page, Publications index, Evidence Repository, Sherwood page, travel-pattern explorer, and ALPR audit collection. It adds publication figures and checksum files, updates the sitemap and version metadata, and preserves all Version 3.8 publications and public-safe assets.
 
 ## Version 3.8
 

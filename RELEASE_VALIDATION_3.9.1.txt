@@ -1,0 +1,20 @@
+ARAP Website Version 3.9.1 Hotfix Validation
+Prepared: August 19, 2026
+
+Issue observed:
+- "On this page" link text appeared invisible on white background.
+- Bullets remained visible.
+
+Root cause:
+- Global CSS rule `nav a { color: #fff; }` is intended for the dark site header.
+- Long-form publication TOCs also use a `<nav>` element.
+- The global rule therefore rendered TOC links white.
+
+Fix:
+- Added scoped `.article-toc a` rules restoring normal blue link text.
+- Added explicit visited and hover states.
+
+Scope:
+- CSS-only functional hotfix plus release/version metadata.
+- No publication prose, evidence, downloads, routes, or public-safe source assets changed.
+- Applies to both Version 3.9 long-form publication TOCs.
