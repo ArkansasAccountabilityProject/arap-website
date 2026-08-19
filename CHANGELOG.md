@@ -1,5 +1,12 @@
+
+## 3.9.2 homepage hotfix — 2026-08-19
+- Corrected live-homepage deployment issue that displayed the August 19 feature multiple times.
+- Homepage now contains one August 19 feature block.
+- Updated visible homepage version references to 3.9.2.
+- Preserved the verified corrected 28-page Municipal Roadmap PDF.
+
 ## Version 3.9.2 — August 19, 2026 (final)
-- Added the `ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf` distribution edition with a one-page municipal roadmap and printable city-government review checklist. Rebuilt the checklist pagination so rows are not split across pages and the final public-standard line remains with the checklist.
+- Added the 29-page `ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf` distribution edition with a one-page municipal roadmap and printable city-government review checklist.
 - Added a direct download callout to the Audit vs. Accountability publication page.
 - Corrected repeated Version 3.9 insertion blocks on Publications, Evidence Repository, ALPR Audit Evaluations, Sherwood Travel Patterns, and Sherwood jurisdiction pages.
 - Preserved the Version 3.9.1 long-form table-of-contents CSS fix and the homepage duplicate-card correction.

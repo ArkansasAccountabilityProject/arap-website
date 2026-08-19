@@ -1,0 +1,15 @@
+ARAP WEBSITE VERSION 3.9.2 — HOMEPAGE HOTFIX
+August 19, 2026
+
+Purpose
+- Removes the duplicate August 19 homepage publication feature by deploying the clean single-block homepage source.
+- Updates the homepage visible website version label from 3.9 to 3.9.2.
+- Updates homepage descriptive references to Version 3.9.2.
+- Preserves the corrected 28-page Municipal Roadmap PDF verified from the live website.
+
+Scope
+- public/index.html
+- public/downloads/alpr-accountability/ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf
+- this release note
+
+No publication analysis or evidentiary conclusions were changed by this hotfix.

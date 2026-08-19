@@ -3,10 +3,9 @@ Prepared: August 19, 2026
 
 Municipal Roadmap PDF
 - File: ARAP_ALPR_Audit_vs_Accountability_Municipal_Roadmap_2026.pdf
-- Pages visually rendered and reviewed: 28
-- SHA-256: 0bdc682a9ea1087633c461271e08f6a70cd70c69c8ce845e2e589b4a248f5f1c
+- Pages visually rendered and reviewed: 29
+- SHA-256: 46dd8e57e02784ce210fc9215b1a1e5738ffd7289e34f5b63b15b6d0a7fccc7b
 - Includes one-page Municipal ALPR Accountability Roadmap, full Audit vs. Accountability paper, and printable City Government Review Checklist.
-- Pagination correction: checklist rows are kept intact across the final two pages; the prior one-line orphan page was eliminated.
 
 Duplicate cleanup
 - Publications duplicate cards removed: 6
