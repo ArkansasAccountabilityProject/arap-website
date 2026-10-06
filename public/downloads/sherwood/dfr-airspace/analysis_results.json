@@ -1,0 +1,322 @@
+{
+  "city_total_sq_mi": 21.154789824410155,
+  "city_water_sq_mi": 0.41038094096568445,
+  "city_land_sq_mi": 20.74440888344445,
+  "uasfm_union": {
+    "sq_mi": 15.706613871475795,
+    "pct_land": 75.71492617468998,
+    "sq_mi_total_boundary": 16.06463230109799
+  },
+  "surface_airspace_union": {
+    "sq_mi": 13.524185452302644,
+    "pct_land": 65.19436407318373,
+    "sq_mi_total_boundary": 13.882203881924834
+  },
+  "grid_outside_surface": {
+    "sq_mi": 2.1824284191731427,
+    "pct_land": 10.5205621015062,
+    "sq_mi_total_boundary": 2.1824284191731427
+  },
+  "surface_outside_grid": {
+    "sq_mi": 0.0,
+    "pct_land": 0.0,
+    "sq_mi_total_boundary": 0.0
+  },
+  "intersecting_cells": 85,
+  "airport": {
+    "LRF": {
+      "sq_mi": 13.524524200856298,
+      "pct_land": 65.19599703633808,
+      "sq_mi_total_boundary": 13.868424282934626,
+      "cells": 69,
+      "laanc_attributes": [
+        "1"
+      ]
+    },
+    "ORK": {
+      "sq_mi": 0.0,
+      "pct_land": 0.0,
+      "sq_mi_total_boundary": 0.0,
+      "cells": 0,
+      "laanc_attributes": []
+    },
+    "LIT": {
+      "sq_mi": 2.1820896706194977,
+      "pct_land": 10.518929138351895,
+      "sq_mi_total_boundary": 2.196208018163362,
+      "cells": 16,
+      "laanc_attributes": [
+        "1"
+      ]
+    }
+  },
+  "exclusive_airport": {
+    "LRF": {
+      "sq_mi": 13.524524200856295,
+      "pct_land": 65.19599703633807,
+      "sq_mi_total_boundary": 13.524524200856295
+    },
+    "LIT": {
+      "sq_mi": 2.1820896706194994,
+      "pct_land": 10.518929138351906,
+      "sq_mi_total_boundary": 2.1820896706194994
+    },
+    "Outside UASFM": {
+      "sq_mi": 5.037795011968671,
+      "pct_land": 24.2850738253101,
+      "sq_mi_total_boundary": 5.037795011968671
+    }
+  },
+  "ceilings": {
+    "0": {
+      "sq_mi": 5.134123638424424,
+      "pct_land": 24.749433291983696,
+      "sq_mi_total_boundary": 5.134123638424424
+    },
+    "400": {
+      "sq_mi": 10.572490233051358,
+      "pct_land": 50.965492882706215,
+      "sq_mi_total_boundary": 10.93050866267355
+    }
+  },
+  "airport_ceiling": {
+    "LRF": {
+      "0": {
+        "sq_mi": 5.134123638424424,
+        "pct_land": 24.749433291983696,
+        "sq_mi_total_boundary": 5.134123638424424
+      },
+      "400": {
+        "sq_mi": 8.390400562431871,
+        "pct_land": 40.446563744354386,
+        "sq_mi_total_boundary": 8.734300644510197
+      }
+    },
+    "ORK": {},
+    "LIT": {
+      "400": {
+        "sq_mi": 2.1820896706194977,
+        "pct_land": 10.518929138351895,
+        "sq_mi_total_boundary": 2.196208018163362
+      }
+    }
+  },
+  "surface_by_airport": {
+    "LRF": {
+      "sq_mi": 12.197066888173213,
+      "pct_land": 58.79688814805111,
+      "sq_mi_total_boundary": 12.540966970251539
+    },
+    "ORK": {
+      "sq_mi": 0.0,
+      "pct_land": 0.0,
+      "sq_mi_total_boundary": 0.0
+    },
+    "LIT": {
+      "sq_mi": 1.3271185641294307,
+      "pct_land": 6.397475925132618,
+      "sq_mi_total_boundary": 1.3412369116732952
+    }
+  },
+  "planning_radius": {
+    "center": [
+      -92.208861322158,
+      34.833337827083945
+    ],
+    "radius_statute_miles": 3,
+    "total_sq_mi": 28.272897074880603,
+    "city_land": {
+      "sq_mi": 15.616161224097064,
+      "pct_land": 75.27889231184552,
+      "sq_mi_total_boundary": 16.01476872072623
+    },
+    "surface_sq_mi": 15.275853497551365,
+    "surface_pct_circle": 54.03002549435721,
+    "uasfm_sq_mi": 18.806628306960313,
+    "uasfm_pct_circle": 66.51822152201477
+  },
+  "spd_cells": [],
+  "spd_airspace": [
+    {
+      "OBJECTID": 4542,
+      "GLOBAL_ID": "FF7AD807-CDB0-4A47-8A5B-03921133C294",
+      "IDENT": null,
+      "ICAO_ID": null,
+      "NAME": "CONTIGUOUS UNITED STATES CLASS A",
+      "UPPER_DESC": "TI",
+      "UPPER_VAL": 600,
+      "UPPER_UOM": "FL",
+      "UPPER_CODE": "STD",
+      "LOWER_DESC": null,
+      "LOWER_VAL": 18000,
+      "LOWER_UOM": "FT",
+      "LOWER_CODE": "MSL",
+      "TYPE_CODE": "CLASS",
+      "LOCAL_TYPE": "CLASS_A",
+      "CLASS": "A",
+      "MIL_CODE": "CIV",
+      "COMM_NAME": null,
+      "LEVEL_": "U",
+      "SECTOR": null,
+      "ONSHORE": "1",
+      "EXCLUSION": "0",
+      "WKHR_CODE": "H24",
+      "WKHR_RMK": null,
+      "DST": null,
+      "GMTOFFSET": null,
+      "CONT_AGENT": null,
+      "CITY": null,
+      "STATE": null,
+      "COUNTRY": "",
+      "ADHP_ID": null,
+      "US_HIGH": 1,
+      "AK_HIGH": 1,
+      "AK_LOW": 0,
+      "US_LOW": 0,
+      "US_AREA": 0,
+      "PACIFIC": 0,
+      "Shape__Area": 865.292355027204,
+      "Shape__Length": 195.26456005406678
+    },
+    {
+      "OBJECTID": 4663,
+      "GLOBAL_ID": "5A65D27A-FEC1-46E9-B71A-7415C914A0E7",
+      "IDENT": null,
+      "ICAO_ID": null,
+      "NAME": "ARKANSAS CLASS E5",
+      "UPPER_DESC": "AA",
+      "UPPER_VAL": -9998,
+      "UPPER_UOM": null,
+      "UPPER_CODE": null,
+      "LOWER_DESC": null,
+      "LOWER_VAL": 1200,
+      "LOWER_UOM": "FT",
+      "LOWER_CODE": "SFC",
+      "TYPE_CODE": "CLASS",
+      "LOCAL_TYPE": "CLASS_E5",
+      "CLASS": "E",
+      "MIL_CODE": "CIV",
+      "COMM_NAME": null,
+      "LEVEL_": "L",
+      "SECTOR": null,
+      "ONSHORE": "1",
+      "EXCLUSION": "0",
+      "WKHR_CODE": "H24",
+      "WKHR_RMK": null,
+      "DST": null,
+      "GMTOFFSET": null,
+      "CONT_AGENT": null,
+      "CITY": "ARKANSAS",
+      "STATE": "AR",
+      "COUNTRY": "",
+      "ADHP_ID": null,
+      "US_HIGH": 0,
+      "AK_HIGH": 0,
+      "AK_LOW": 0,
+      "US_LOW": 1,
+      "US_AREA": 0,
+      "PACIFIC": 0,
+      "Shape__Area": 13.585381711262698,
+      "Shape__Length": 22.095095165726303
+    },
+    {
+      "OBJECTID": 4931,
+      "GLOBAL_ID": "B045A302-2C6F-43AD-8287-8016ABB746B4",
+      "IDENT": null,
+      "ICAO_ID": null,
+      "NAME": "LITTLE ROCK CLASS E5",
+      "UPPER_DESC": "AA",
+      "UPPER_VAL": -9998,
+      "UPPER_UOM": null,
+      "UPPER_CODE": null,
+      "LOWER_DESC": null,
+      "LOWER_VAL": 700,
+      "LOWER_UOM": "FT",
+      "LOWER_CODE": "SFC",
+      "TYPE_CODE": "CLASS",
+      "LOCAL_TYPE": "CLASS_E5",
+      "CLASS": "E",
+      "MIL_CODE": "CIV",
+      "COMM_NAME": null,
+      "LEVEL_": "L",
+      "SECTOR": null,
+      "ONSHORE": "1",
+      "EXCLUSION": "0",
+      "WKHR_CODE": "H24",
+      "WKHR_RMK": null,
+      "DST": null,
+      "GMTOFFSET": null,
+      "CONT_AGENT": null,
+      "CITY": "LITTLE ROCK",
+      "STATE": "AR",
+      "COUNTRY": "",
+      "ADHP_ID": "F7BC5001-BB8C-4DA7-AD41-44B4F0EFEFE8",
+      "US_HIGH": 0,
+      "AK_HIGH": 0,
+      "AK_LOW": 0,
+      "US_LOW": 1,
+      "US_AREA": 0,
+      "PACIFIC": 0,
+      "Shape__Area": 0.6385775623955396,
+      "Shape__Length": 2.8652268383705124
+    },
+    {
+      "OBJECTID": 5199,
+      "GLOBAL_ID": "0B26E634-91D8-4479-9B2E-CBD7E9E22AB8",
+      "IDENT": "LIT",
+      "ICAO_ID": "KLIT",
+      "NAME": "LITTLE ROCK, ADAMS FIELD CLASS C",
+      "UPPER_DESC": "TI",
+      "UPPER_VAL": 4300,
+      "UPPER_UOM": "FT",
+      "UPPER_CODE": "MSL",
+      "LOWER_DESC": null,
+      "LOWER_VAL": 2100,
+      "LOWER_UOM": "FT",
+      "LOWER_CODE": "MSL",
+      "TYPE_CODE": "CLASS",
+      "LOCAL_TYPE": "CLASS_C",
+      "CLASS": "C",
+      "MIL_CODE": "CIV",
+      "COMM_NAME": null,
+      "LEVEL_": "L",
+      "SECTOR": null,
+      "ONSHORE": "1",
+      "EXCLUSION": "0",
+      "WKHR_CODE": "H24",
+      "WKHR_RMK": null,
+      "DST": null,
+      "GMTOFFSET": null,
+      "CONT_AGENT": "<Null>",
+      "CITY": "LITTLE ROCK",
+      "STATE": "AR",
+      "COUNTRY": "",
+      "ADHP_ID": "8FBCF8C3-B29D-470D-B4AF-93E8218EDFD5",
+      "US_HIGH": 0,
+      "AK_HIGH": 0,
+      "AK_LOW": 0,
+      "US_LOW": 1,
+      "US_AREA": 0,
+      "PACIFIC": 0,
+      "Shape__Area": 0.01770360370232993,
+      "Shape__Length": 0.594924323725022
+    }
+  ],
+  "metadata_dates": {
+    "city": {
+      "lastEditDate": "2026-02-25T21:51:57.309000+00:00",
+      "schemaLastEditDate": "2026-02-25T21:51:57.309000+00:00",
+      "dataLastEditDate": "2026-02-25T21:51:57.309000+00:00"
+    },
+    "uasfm": {
+      "lastEditDate": "2026-10-06T01:56:21.825000+00:00",
+      "schemaLastEditDate": "2026-10-06T01:56:21.825000+00:00",
+      "dataLastEditDate": "2026-10-06T01:56:21.825000+00:00"
+    },
+    "airspace": {
+      "lastEditDate": "2026-09-28T18:53:33.415000+00:00",
+      "schemaLastEditDate": "2026-09-28T18:53:33.415000+00:00",
+      "dataLastEditDate": "2026-09-28T13:50:57.440000+00:00"
+    }
+  }
+}

@@ -1,3 +1,10 @@
+## Unreleased - Sherwood DFR GIS update (October 6, 2026)
+
+- Added source-linked DFR airspace and planning analysis, PNG/PDF maps, airport/ceiling table, GIS overlay and produced FAA waiver.
+- Linked the analysis from Home, Publications, Sherwood and Evidence Repository; added sitemap entry.
+- Separates surface airspace, UASFM processing grids, proposed response planning and conditional Part 91 authority.
+- Active deployment assets remain public/; legacy src/public/ is not changed.
+
 
 ## 3.9.2 homepage hotfix — 2026-08-19
 - Corrected live-homepage deployment issue that displayed the August 19 feature multiple times.
