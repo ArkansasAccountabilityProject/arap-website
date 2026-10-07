@@ -1,97 +1,42 @@
 [
   {
+    "path": "public/publications/jacksonville-alpr-repeated-searches/index.html",
+    "base_sha256": null,
+    "new_sha256": "403351f2b0fa51263c53e93774c1bad1e4bbe951836bffa563e06b88520fbb6b"
+  },
+  {
+    "path": "public/downloads/jacksonville/analysis/repeated-search-clusters-redacted.json",
+    "base_sha256": null,
+    "new_sha256": "015715cfc95dab89b0b7bf2f553557eeb46b5ee3777508252168dd30046910e2"
+  },
+  {
+    "path": "public/downloads/jacksonville/analysis/source-manifest.json",
+    "base_sha256": null,
+    "new_sha256": "59682504560d54000f4da9d25a28a8dc8a13c5df338e82ac27bbf02f77ed75c5"
+  },
+  {
+    "path": "public/jurisdictions/jacksonville/index.html",
+    "base_sha256": "533a7a7287accf4a6f43a0dd5bc111815958a7c81b2763ae354353b870d85a54",
+    "new_sha256": "01bfea85f9d18e52bc80738783c17570828c072b3be7ddc2c72d8ce760e62008"
+  },
+  {
     "path": "public/index.html",
-    "base_sha256": "22ba8cf96a26bc51803d23a510d89b12fe0a10060ef53e9b029ff7e8db08877d",
-    "new_sha256": "d6140199c498502f3e1892f70150d4d72a2f77adb8632adc5ada89cbcc0e7668"
-  },
-  {
-    "path": "public/jurisdictions/sherwood/index.html",
-    "base_sha256": "f9ef3dc9d36184e037c7c671c6f27fe6401d1c8e5ca07f3e8b4ac6fec70e1e6f",
-    "new_sha256": "90f268989a5c35acd09d99f2f12c0dcd2e8e8cfe3f41da6d57c87e2563ce09cd"
-  },
-  {
-    "path": "public/evidence-repository/index.html",
-    "base_sha256": "97bb6e60242cb96171d69992fd17a733a4da3a79a92dcf824a31022aa2a80aeb",
-    "new_sha256": "2fa77e77664c6243d7f1f3b43b2c7a019fa1ff1d1cd5a5dfd3a545bff1783609"
+    "base_sha256": "d6140199c498502f3e1892f70150d4d72a2f77adb8632adc5ada89cbcc0e7668",
+    "new_sha256": "51d03a2c9c288ce0f3d1db35e4f658140f312f01cf45dec395af9ca906717dc9"
   },
   {
     "path": "public/publications/index.html",
-    "base_sha256": "77f271f64a1d6b6055e4589c8662a99ebb42bff1c985637506029498da5208a8",
-    "new_sha256": "0e7df631e5e26fc6af5a001fa9a343432c59e51e4d0d109b505bad8d0f943653"
+    "base_sha256": "0e7df631e5e26fc6af5a001fa9a343432c59e51e4d0d109b505bad8d0f943653",
+    "new_sha256": "d933970b5526b1f8bfa9857ccc59c399e5c8920188febb57e200a10fbd018a5f"
   },
   {
     "path": "public/sitemap.xml",
-    "base_sha256": "13d9257b57e012be1ce04cdc431d96a451b9f071d20959bf948d27b393691cf6",
-    "new_sha256": "be19bc21a48014b1f093c25876888be2b5664c0bd1f606b4fd88345a1e4958ef"
+    "base_sha256": "be19bc21a48014b1f093c25876888be2b5664c0bd1f606b4fd88345a1e4958ef",
+    "new_sha256": "32ccc1d338bf478596aad97c49d6035490aec5516fd3ab3b0245306ac48d2d40"
   },
   {
     "path": "CHANGELOG.md",
-    "base_sha256": "7a92bcbb5476a32957390955e5364bf7c1823921eee2019c522cb75b26cd67b4",
-    "new_sha256": "1a4eebd8133ae7de8ed89ae33b4fb802480ccfc4691d2502c640d970f3a8d586"
-  },
-  {
-    "path": "public/assets/evidence/sherwood-dfr-airspace/installation-page2.png",
-    "base_sha256": null,
-    "new_sha256": "6a4d2018a2b5c1e44d2c67c8594f37651de0856033d04e13441d287d99928190"
-  },
-  {
-    "path": "public/assets/evidence/sherwood-dfr-airspace/installation-page7.png",
-    "base_sha256": null,
-    "new_sha256": "74c299e670682e20c8c58f7c821f6c9090ad1bdea833a047f8e91ad70a304041"
-  },
-  {
-    "path": "public/assets/evidence/sherwood-dfr-airspace/site-survey-page3.png",
-    "base_sha256": null,
-    "new_sha256": "925144978a3bb7d921d0f011c069606adb90d898424b295ee2ea666db3df5aad"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/analysis_results.json",
-    "base_sha256": null,
-    "new_sha256": "7acf83d790e780376e54d37abcc4155e87d5b754e4b490de6239083b5d0737af"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/area_summary.csv",
-    "base_sha256": null,
-    "new_sha256": "22b342e92cc7ab4fec82195ff89e7e117a1d4bda0783d0ce0e8238f9819d5655"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/BRINC_Talking_Paper.docx",
-    "base_sha256": null,
-    "new_sha256": "95df984f100b7772153651cd35c8d5008e177a6dccbfa34ff4f5bf9c8584bc5b"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/FAA_Part91_Waiver_91.113-2026-00585_REDACTED.pdf",
-    "base_sha256": null,
-    "new_sha256": "58e3fddc982d3cb8bb5b21d20f4b0df95f6cb74bf175d9cf17da6925b578018d"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/sherwood_dfr_analysis.pdf",
-    "base_sha256": null,
-    "new_sha256": "48a684d3802f815ee12800cedf48562fd458065364840fdfd5afc00b7082b05e"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/sherwood_dfr_map.png",
-    "base_sha256": null,
-    "new_sha256": "ccdcf3f80c23820c8eb5fea945069ff812ba924837d2af4c5dd9eaeefbe714a2"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/sherwood_overlay.geojson",
-    "base_sha256": null,
-    "new_sha256": "0bd96c3f1d2ccae8d3e7b89e1b9e413d0919b4b5f75184091ad1a883cbd0e027"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/source_note.md",
-    "base_sha256": null,
-    "new_sha256": "b508cac52c9c93407b9a5d1d6c20dd5ac33cde28b145177db7f51a9166897462"
-  },
-  {
-    "path": "public/publications/sherwood-dfr-airspace/index.html",
-    "base_sha256": null,
-    "new_sha256": "9b250fcaf355f3cde1505d812165f38c4aa260303d2b95e2bd90efa3fe02bddc"
-  },
-  {
-    "path": "public/downloads/sherwood/dfr-airspace/gis_reproducibility.zip",
-    "base_sha256": null,
-    "new_sha256": "ce419643b53750d310fc2d820999f565d40724e1400c9083af6cce54cdce618c"
+    "base_sha256": "1a4eebd8133ae7de8ed89ae33b4fb802480ccfc4691d2502c640d970f3a8d586",
+    "new_sha256": "8babf14d0f8082e2cebb182e09adf152964edda56d0b384e9eb91298a8b3a870"
   }
 ]

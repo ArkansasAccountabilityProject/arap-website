@@ -14,7 +14,7 @@ foreach ($entry in $manifest) {
         if ((Get-FileHash -LiteralPath $targetPath -Algorithm SHA256).Hash.ToLowerInvariant() -ne $entry.base_sha256) { throw "Repository file changed since review: $($entry.path). Reconcile before applying." }
     } elseif (Test-Path -LiteralPath $targetPath) { throw "New target already exists: $($entry.path). Reconcile before applying." }
 }
-$backupRoot = Join-Path $repositoryRoot ('.arap-update-backups\sherwood-dfr-' + (Get-Date -Format 'yyyyMMdd-HHmmss'))
+$backupRoot = Join-Path $repositoryRoot ('.arap-update-backups\jacksonville-alpr-' + (Get-Date -Format 'yyyyMMdd-HHmmss'))
 foreach ($entry in $manifest) {
     $targetPath = Join-Path $repositoryRoot $entry.path
     if ($null -ne $entry.base_sha256) {

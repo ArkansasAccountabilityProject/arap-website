@@ -1,3 +1,11 @@
+## Jacksonville repeated-search update — October 7, 2026
+
+- Added a redacted analysis and all 86 repeated explicit-plate groups.
+- Clarified Policy 10-28 and mobile-only coverage after December.
+- Added ARAP’s reported request for comment.
+- Cross-linked home, Jacksonville and Publications pages.
+- Raw records, account identifiers, plate strings, case mappings and search IDs are excluded from this package.
+
 ## Unreleased - Sherwood DFR GIS update (October 6, 2026)
 
 - Added source-linked DFR airspace and planning analysis, PNG/PDF maps, airport/ceiling table, GIS overlay and produced FAA waiver.

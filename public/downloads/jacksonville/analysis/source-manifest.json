@@ -1,0 +1,64 @@
+[
+  {
+    "file": "12_1_2025-12_31_2025-Jacksonville AR PD-Audit.csv",
+    "rows": 405,
+    "sha256": "c35e0cc4232a993aa20c2dff3eb3bb3bc003471318810fafc7fe7bebd7d2c681"
+  },
+  {
+    "file": "1_1_2026-1_31_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 48,
+    "sha256": "36d6ef880b99deb1156cc09db80315604c1840b3853a98e832153db25117eec8"
+  },
+  {
+    "file": "2_1_2026-2_28_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 39,
+    "sha256": "c0931a41bd2edbf4368bcb1adc7defd3218e2abcd300cfba371f0c156f7f0ebf"
+  },
+  {
+    "file": "3_1_2026-3_31_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 60,
+    "sha256": "0de5987d6df50bb7732115170d1581fddbf3c0fb88d49a83de65225345827b24"
+  },
+  {
+    "file": "4_1_2026-4_30_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 44,
+    "sha256": "413dab3986583c4bf5832dad012588ff525301ec614b25d6f8f7ad9f3062c8fb"
+  },
+  {
+    "file": "5_1_2026-5_31_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 6,
+    "sha256": "fe75688ed458d9c0e0378a56df40ba38718ba861d89259072e835fea0855b267"
+  },
+  {
+    "file": "6_1_2026-6_30_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 10,
+    "sha256": "30d225a34ac1804ec726f3d2f5891f583d51255a34525d90419f4850d2232fa5"
+  },
+  {
+    "file": "7_1_2026-7_31_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 15,
+    "sha256": "1530549064fd0ae91f06a448d5730a6742463edcdd6dc1aef711a8f210714380"
+  },
+  {
+    "file": "8_1_2026-8_31_2026-Jacksonville AR PD-Audit.csv",
+    "rows": 4,
+    "sha256": "1a421ebb4d07c1211237619417f51f576a46fabf30071ab48112a396e27db3f1"
+  },
+  {
+    "file": "Users_2026_09_22.csv",
+    "rows": 102,
+    "sha256": "3db90c1db7c2342572da9e46327a71535ba104716eb8078b02ec50322472e9f0"
+  },
+  {
+    "file": "Response.docx",
+    "sha256": "b87ccee50ddea161480cd63011eeefd36fe404bb50d0c7cbb752bef940b01349"
+  },
+  {
+    "file": "6_14_2026-7_14_2026-Jacksonville AR PD-Audit.pdf",
+    "sha256": "1b219020070418a3d54a47ad7187a1626503bb45b22ca1b789e79f516a2b0ccd"
+  },
+  {
+    "file": "JPD Policy 10-28 License Plate Readers.pdf",
+    "sha256": "58875ff1216c6b5dc841cd7cb4db5333caa353b99d08e25015065c9faf0a18fc"
+  }
+]

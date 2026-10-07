@@ -1,0 +1,1888 @@
+{
+  "method": "Same displayed account label and explicit plate string; aliases and filter-only targets excluded; labels replace identifying strings. Dates are Central time.",
+  "groups": [
+    {
+      "account": "Account 08",
+      "plate": "Plate A",
+      "count": 24,
+      "first_local": "Dec 10, 2025 08:50:24 CST",
+      "last_local": "Dec 20, 2025 07:33:03 CST",
+      "elapsed_days": 9.9463,
+      "max_in_240_hours": 24,
+      "reasons": {
+        "stolen": 14,
+        "Stolen": 5,
+        "STOLEN": 5
+      },
+      "case_references": {
+        "Blank": 24
+      },
+      "search_types": {
+        "lookup": 24
+      },
+      "network_counts": {
+        "2": 16,
+        "269": 5,
+        "121": 1,
+        "5657": 2
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate B",
+      "count": 23,
+      "first_local": "Apr 04, 2026 23:15:03 CDT",
+      "last_local": "Apr 04, 2026 23:37:48 CDT",
+      "elapsed_days": 0.0158,
+      "max_in_240_hours": 23,
+      "reasons": {
+        "Assault/Battery Offenses": 23
+      },
+      "case_references": {
+        "Blank": 23
+      },
+      "search_types": {
+        "lookup - Mobile": 23
+      },
+      "network_counts": {
+        "159": 23
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate C",
+      "count": 15,
+      "first_local": "Apr 05, 2026 20:43:42 CDT",
+      "last_local": "Apr 06, 2026 04:53:35 CDT",
+      "elapsed_days": 0.3402,
+      "max_in_240_hours": 15,
+      "reasons": {
+        "Larceny/Theft Offenses": 15
+      },
+      "case_references": {
+        "Blank": 15
+      },
+      "search_types": {
+        "lookup - Mobile": 15
+      },
+      "network_counts": {
+        "3": 4,
+        "159": 11
+      }
+    },
+    {
+      "account": "Account 05",
+      "plate": "Plate A",
+      "count": 13,
+      "first_local": "Dec 10, 2025 09:45:30 CST",
+      "last_local": "Dec 10, 2025 18:26:56 CST",
+      "elapsed_days": 0.3621,
+      "max_in_240_hours": 13,
+      "reasons": {
+        "theft": 13
+      },
+      "case_references": {
+        "Blank": 13
+      },
+      "search_types": {
+        "lookup": 13
+      },
+      "network_counts": {
+        "268": 1,
+        "5809": 2,
+        "5797": 2,
+        "2": 2,
+        "267": 1,
+        "5777": 1,
+        "177": 2,
+        "5744": 2
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate A",
+      "count": 12,
+      "first_local": "Dec 11, 2025 10:17:37 CST",
+      "last_local": "Dec 19, 2025 08:21:29 CST",
+      "elapsed_days": 7.9194,
+      "max_in_240_hours": 12,
+      "reasons": {
+        "Vehicle Theft": 12
+      },
+      "case_references": {
+        "Reference 10": 12
+      },
+      "search_types": {
+        "lookup": 12
+      },
+      "network_counts": {
+        "2": 2,
+        "23": 10
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate D",
+      "count": 12,
+      "first_local": "Dec 03, 2025 14:22:12 CST",
+      "last_local": "Dec 03, 2025 15:01:48 CST",
+      "elapsed_days": 0.0275,
+      "max_in_240_hours": 12,
+      "reasons": {
+        "Stolen": 12
+      },
+      "case_references": {
+        "Blank": 12
+      },
+      "search_types": {
+        "lookup - Mobile": 12
+      },
+      "network_counts": {
+        "168": 12
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate E",
+      "count": 12,
+      "first_local": "Mar 26, 2026 19:38:20 CDT",
+      "last_local": "Mar 27, 2026 03:04:00 CDT",
+      "elapsed_days": 0.3095,
+      "max_in_240_hours": 12,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen": 12
+      },
+      "case_references": {
+        "Blank": 12
+      },
+      "search_types": {
+        "lookup - Mobile": 12
+      },
+      "network_counts": {
+        "3": 6,
+        "161": 6
+      }
+    },
+    {
+      "account": "Account 10",
+      "plate": "Plate F",
+      "count": 11,
+      "first_local": "Dec 26, 2025 10:07:45 CST",
+      "last_local": "Dec 26, 2025 10:23:07 CST",
+      "elapsed_days": 0.0107,
+      "max_in_240_hours": 11,
+      "reasons": {
+        "stolen": 11
+      },
+      "case_references": {
+        "Reference 06": 8,
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 11
+      },
+      "network_counts": {
+        "173": 10,
+        "2": 1
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate G",
+      "count": 10,
+      "first_local": "Jan 10, 2026 16:17:31 CST",
+      "last_local": "Jan 10, 2026 16:28:11 CST",
+      "elapsed_days": 0.0074,
+      "max_in_240_hours": 10,
+      "reasons": {
+        "Robbery": 10
+      },
+      "case_references": {
+        "Blank": 10
+      },
+      "search_types": {
+        "lookup - Mobile": 10
+      },
+      "network_counts": {
+        "3": 6,
+        "166": 4
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate H",
+      "count": 9,
+      "first_local": "Jan 10, 2026 10:40:58 CST",
+      "last_local": "Jan 20, 2026 10:41:12 CST",
+      "elapsed_days": 10.0002,
+      "max_in_240_hours": 8,
+      "reasons": {
+        "Traffic Infraction": 9
+      },
+      "case_references": {
+        "Blank": 9
+      },
+      "search_types": {
+        "lookup - Mobile": 9
+      },
+      "network_counts": {
+        "166": 7,
+        "3": 1,
+        "165": 1
+      }
+    },
+    {
+      "account": "Account 05",
+      "plate": "Plate I",
+      "count": 7,
+      "first_local": "Dec 24, 2025 12:08:46 CST",
+      "last_local": "Dec 24, 2025 12:11:08 CST",
+      "elapsed_days": 0.0016,
+      "max_in_240_hours": 7,
+      "reasons": {
+        "search": 7
+      },
+      "case_references": {
+        "Blank": 7
+      },
+      "search_types": {
+        "lookup": 7
+      },
+      "network_counts": {
+        "2": 7
+      }
+    },
+    {
+      "account": "Account 05",
+      "plate": "Plate J",
+      "count": 7,
+      "first_local": "Dec 10, 2025 10:43:18 CST",
+      "last_local": "Dec 10, 2025 13:58:07 CST",
+      "elapsed_days": 0.1353,
+      "max_in_240_hours": 7,
+      "reasons": {
+        "theft": 7
+      },
+      "case_references": {
+        "Blank": 7
+      },
+      "search_types": {
+        "lookup": 7
+      },
+      "network_counts": {
+        "177": 3,
+        "5797": 3,
+        "5768": 1
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate K",
+      "count": 7,
+      "first_local": "Mar 18, 2026 02:49:44 CDT",
+      "last_local": "Mar 19, 2026 00:44:34 CDT",
+      "elapsed_days": 0.9131,
+      "max_in_240_hours": 7,
+      "reasons": {
+        "Stolen Property Offenses": 7
+      },
+      "case_references": {
+        "Blank": 7
+      },
+      "search_types": {
+        "lookup - Mobile": 7
+      },
+      "network_counts": {
+        "161": 7
+      }
+    },
+    {
+      "account": "Account 01",
+      "plate": "Plate L",
+      "count": 6,
+      "first_local": "Dec 22, 2025 08:42:33 CST",
+      "last_local": "Dec 30, 2025 15:07:18 CST",
+      "elapsed_days": 8.2672,
+      "max_in_240_hours": 6,
+      "reasons": {
+        "Theft": 1,
+        "Larceny/Theft Offenses - shoplifting": 5
+      },
+      "case_references": {
+        "Reference 16": 6
+      },
+      "search_types": {
+        "lookup": 6
+      },
+      "network_counts": {
+        "2": 2,
+        "173": 4
+      }
+    },
+    {
+      "account": "Account 15",
+      "plate": "Plate M",
+      "count": 6,
+      "first_local": "Dec 18, 2025 20:46:49 CST",
+      "last_local": "Dec 18, 2025 20:49:19 CST",
+      "elapsed_days": 0.0017,
+      "max_in_240_hours": 6,
+      "reasons": {
+        "Drugs": 6
+      },
+      "case_references": {
+        "Reference 01": 6
+      },
+      "search_types": {
+        "lookup - Mobile": 6
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 3,
+        "171": 1,
+        "5657": 1
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate N",
+      "count": 6,
+      "first_local": "Dec 13, 2025 11:25:45 CST",
+      "last_local": "Dec 13, 2025 12:28:30 CST",
+      "elapsed_days": 0.0436,
+      "max_in_240_hours": 6,
+      "reasons": {
+        "stolen": 3,
+        "Stolen": 3
+      },
+      "case_references": {
+        "Blank": 6
+      },
+      "search_types": {
+        "lookup": 6
+      },
+      "network_counts": {
+        "2": 1,
+        "22": 2,
+        "23": 3
+      }
+    },
+    {
+      "account": "Account 01",
+      "plate": "Plate O",
+      "count": 6,
+      "first_local": "Dec 12, 2025 05:03:43 CST",
+      "last_local": "Dec 12, 2025 07:01:50 CST",
+      "elapsed_days": 0.082,
+      "max_in_240_hours": 6,
+      "reasons": {
+        "Shooting": 1,
+        "shooting": 1,
+        "SHOT": 1,
+        "Shot": 3
+      },
+      "case_references": {
+        "Reference 12": 6
+      },
+      "search_types": {
+        "lookup": 6
+      },
+      "network_counts": {
+        "2": 2,
+        "177": 2,
+        "173": 2
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate P",
+      "count": 6,
+      "first_local": "Dec 05, 2025 19:47:27 CST",
+      "last_local": "Dec 05, 2025 19:59:37 CST",
+      "elapsed_days": 0.0084,
+      "max_in_240_hours": 6,
+      "reasons": {
+        "Stolen": 6
+      },
+      "case_references": {
+        "Blank": 6
+      },
+      "search_types": {
+        "lookup - Mobile": 6
+      },
+      "network_counts": {
+        "168": 6
+      }
+    },
+    {
+      "account": "Account 03",
+      "plate": "Plate Q",
+      "count": 5,
+      "first_local": "Dec 25, 2025 23:25:42 CST",
+      "last_local": "Dec 25, 2025 23:28:14 CST",
+      "elapsed_days": 0.0018,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "missung person": 5
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "177": 3,
+        "2": 2
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate R",
+      "count": 5,
+      "first_local": "Dec 16, 2025 09:35:13 CST",
+      "last_local": "Dec 16, 2025 09:38:05 CST",
+      "elapsed_days": 0.002,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "theft": 5
+      },
+      "case_references": {
+        "Reference 15": 5
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "23": 2,
+        "2": 3
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate O",
+      "count": 5,
+      "first_local": "Dec 12, 2025 05:06:39 CST",
+      "last_local": "Dec 12, 2025 06:11:11 CST",
+      "elapsed_days": 0.0448,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "shooting": 4,
+        "Shooting": 1
+      },
+      "case_references": {
+        "Blank": 4,
+        "Reference 12": 1
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "23": 5
+      }
+    },
+    {
+      "account": "Account 08",
+      "plate": "Plate S",
+      "count": 5,
+      "first_local": "Dec 10, 2025 14:53:21 CST",
+      "last_local": "Dec 10, 2025 14:54:11 CST",
+      "elapsed_days": 0.0006,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "stolen": 2,
+        "Stolen": 3
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "2": 3,
+        "267": 2
+      }
+    },
+    {
+      "account": "Account 01",
+      "plate": "Plate T",
+      "count": 5,
+      "first_local": "Dec 09, 2025 11:35:24 CST",
+      "last_local": "Dec 09, 2025 11:35:39 CST",
+      "elapsed_days": 0.0002,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "Fraud": 5
+      },
+      "case_references": {
+        "Reference 08": 5
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "2": 5
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate U",
+      "count": 5,
+      "first_local": "Dec 02, 2025 00:46:15 CST",
+      "last_local": "Dec 02, 2025 00:47:33 CST",
+      "elapsed_days": 0.0009,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "welf. checks PCSO ASSIST FOR 4X82": 5
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup": 5
+      },
+      "network_counts": {
+        "2": 5
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate V",
+      "count": 5,
+      "first_local": "Jan 14, 2026 09:46:36 CST",
+      "last_local": "Jan 15, 2026 13:46:03 CST",
+      "elapsed_days": 1.1663,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen": 5
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup - Mobile": 5
+      },
+      "network_counts": {
+        "166": 1,
+        "3": 1,
+        "165": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate W",
+      "count": 5,
+      "first_local": "Feb 27, 2026 04:39:16 CST",
+      "last_local": "Feb 27, 2026 05:09:44 CST",
+      "elapsed_days": 0.0212,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "Wanted Person (Arrest Warrant/Fugitive)": 5
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup - Mobile": 5
+      },
+      "network_counts": {
+        "164": 5
+      }
+    },
+    {
+      "account": "Account 17",
+      "plate": "Plate X",
+      "count": 5,
+      "first_local": "Mar 03, 2026 20:26:49 CST",
+      "last_local": "Mar 03, 2026 20:27:59 CST",
+      "elapsed_days": 0.0008,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "Drugs/Narcotics - DEA": 5
+      },
+      "case_references": {
+        "Reference 01": 5
+      },
+      "search_types": {
+        "lookup - Mobile": 5
+      },
+      "network_counts": {
+        "2": 1,
+        "20": 2,
+        "22": 2
+      }
+    },
+    {
+      "account": "Account 22",
+      "plate": "Plate Y",
+      "count": 5,
+      "first_local": "May 19, 2026 17:39:12 CDT",
+      "last_local": "May 19, 2026 17:40:09 CDT",
+      "elapsed_days": 0.0007,
+      "max_in_240_hours": 5,
+      "reasons": {
+        "Wanted Person (Arrest Warrant/Fugitive)": 5
+      },
+      "case_references": {
+        "Blank": 5
+      },
+      "search_types": {
+        "lookup - Mobile": 5
+      },
+      "network_counts": {
+        "2": 5
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate Z",
+      "count": 4,
+      "first_local": "Dec 26, 2025 14:42:06 CST",
+      "last_local": "Dec 26, 2025 15:15:11 CST",
+      "elapsed_days": 0.023,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "fictitous tags": 2,
+        "Fictitous tags": 2
+      },
+      "case_references": {
+        "Blank": 4
+      },
+      "search_types": {
+        "lookup": 4
+      },
+      "network_counts": {
+        "2": 2,
+        "23": 2
+      }
+    },
+    {
+      "account": "Account 10",
+      "plate": "Plate A",
+      "count": 4,
+      "first_local": "Dec 19, 2025 08:39:58 CST",
+      "last_local": "Dec 19, 2025 08:40:44 CST",
+      "elapsed_days": 0.0005,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "stolen": 4
+      },
+      "case_references": {
+        "Reference 05": 4
+      },
+      "search_types": {
+        "lookup": 4
+      },
+      "network_counts": {
+        "2": 2,
+        "173": 2
+      }
+    },
+    {
+      "account": "Account 10",
+      "plate": "Plate AA",
+      "count": 4,
+      "first_local": "Dec 15, 2025 10:33:38 CST",
+      "last_local": "Dec 15, 2025 10:34:39 CST",
+      "elapsed_days": 0.0007,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "stolen car": 4
+      },
+      "case_references": {
+        "Reference 14": 4
+      },
+      "search_types": {
+        "lookup": 4
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 3
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate AB",
+      "count": 4,
+      "first_local": "Dec 14, 2025 13:15:25 CST",
+      "last_local": "Dec 14, 2025 13:15:50 CST",
+      "elapsed_days": 0.0003,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "Stolen": 4
+      },
+      "case_references": {
+        "Blank": 4
+      },
+      "search_types": {
+        "lookup": 4
+      },
+      "network_counts": {
+        "2": 4
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate N",
+      "count": 4,
+      "first_local": "Dec 13, 2025 10:31:30 CST",
+      "last_local": "Dec 13, 2025 12:08:54 CST",
+      "elapsed_days": 0.0676,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "Stolen": 4
+      },
+      "case_references": {
+        "Blank": 4
+      },
+      "search_types": {
+        "lookup - Mobile": 4
+      },
+      "network_counts": {
+        "166": 4
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AC",
+      "count": 4,
+      "first_local": "Mar 07, 2026 19:23:21 CST",
+      "last_local": "Mar 07, 2026 19:24:19 CST",
+      "elapsed_days": 0.0007,
+      "max_in_240_hours": 4,
+      "reasons": {
+        "Wanted Person (Arrest Warrant/Fugitive)": 4
+      },
+      "case_references": {
+        "Blank": 4
+      },
+      "search_types": {
+        "lookup - Mobile": 4
+      },
+      "network_counts": {
+        "161": 4
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AD",
+      "count": 3,
+      "first_local": "Dec 31, 2025 07:52:10 CST",
+      "last_local": "Dec 31, 2025 07:52:38 CST",
+      "elapsed_days": 0.0003,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Missing/Endangered Person/Runaway - Missing": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "166": 3
+      }
+    },
+    {
+      "account": "Account 10",
+      "plate": "Plate L",
+      "count": 3,
+      "first_local": "Dec 26, 2025 10:23:46 CST",
+      "last_local": "Dec 30, 2025 15:10:50 CST",
+      "elapsed_days": 4.1994,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "stolen": 2,
+        "Larceny/Theft Offenses - suspect": 1
+      },
+      "case_references": {
+        "Blank": 2,
+        "Reference 16": 1
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "173": 3
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate AE",
+      "count": 3,
+      "first_local": "Dec 30, 2025 11:38:14 CST",
+      "last_local": "Dec 30, 2025 11:49:15 CST",
+      "elapsed_days": 0.0077,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Larceny/Theft Offenses": 3
+      },
+      "case_references": {
+        "Reference 19": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "23": 3
+      }
+    },
+    {
+      "account": "Account 19",
+      "plate": "Plate AF",
+      "count": 3,
+      "first_local": "Dec 29, 2025 10:21:48 CST",
+      "last_local": "Dec 29, 2025 12:13:38 CST",
+      "elapsed_days": 0.0777,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "25-05942": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "177": 1
+      }
+    },
+    {
+      "account": "Account 21",
+      "plate": "Plate AG",
+      "count": 3,
+      "first_local": "Dec 24, 2025 18:29:58 CST",
+      "last_local": "Dec 24, 2025 18:30:34 CST",
+      "elapsed_days": 0.0004,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "investigation": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 3
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate AH",
+      "count": 3,
+      "first_local": "Dec 24, 2025 02:43:41 CST",
+      "last_local": "Dec 24, 2025 02:43:44 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Drugs": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "173": 1
+      }
+    },
+    {
+      "account": "Account 01",
+      "plate": "Plate AI",
+      "count": 3,
+      "first_local": "Dec 22, 2025 15:09:56 CST",
+      "last_local": "Dec 22, 2025 15:10:45 CST",
+      "elapsed_days": 0.0006,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "fraud": 3
+      },
+      "case_references": {
+        "Reference 08": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "173": 3
+      }
+    },
+    {
+      "account": "Account 14",
+      "plate": "Plate AJ",
+      "count": 3,
+      "first_local": "Dec 15, 2025 19:27:00 CST",
+      "last_local": "Dec 15, 2025 19:27:45 CST",
+      "elapsed_days": 0.0005,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "warrants": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate A",
+      "count": 3,
+      "first_local": "Dec 13, 2025 14:44:41 CST",
+      "last_local": "Dec 13, 2025 15:54:11 CST",
+      "elapsed_days": 0.0483,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Stolen": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "166": 3
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate AK",
+      "count": 3,
+      "first_local": "Dec 13, 2025 14:21:54 CST",
+      "last_local": "Dec 13, 2025 14:43:28 CST",
+      "elapsed_days": 0.015,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "stolen": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "23": 3
+      }
+    },
+    {
+      "account": "Account 01",
+      "plate": "Plate AL",
+      "count": 3,
+      "first_local": "Dec 11, 2025 14:56:23 CST",
+      "last_local": "Dec 11, 2025 14:57:30 CST",
+      "elapsed_days": 0.0008,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "fraud": 3
+      },
+      "case_references": {
+        "Reference 09": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 1,
+        "177": 1
+      }
+    },
+    {
+      "account": "Account 05",
+      "plate": "Plate AM",
+      "count": 3,
+      "first_local": "Dec 10, 2025 12:56:58 CST",
+      "last_local": "Dec 10, 2025 12:57:14 CST",
+      "elapsed_days": 0.0002,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "theft": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "267": 1
+      }
+    },
+    {
+      "account": "Account 04",
+      "plate": "Plate A",
+      "count": 3,
+      "first_local": "Dec 10, 2025 11:42:31 CST",
+      "last_local": "Dec 10, 2025 11:42:59 CST",
+      "elapsed_days": 0.0003,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "theft": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "267": 1
+      }
+    },
+    {
+      "account": "Account 04",
+      "plate": "Plate AN",
+      "count": 3,
+      "first_local": "Dec 05, 2025 23:10:49 CST",
+      "last_local": "Dec 05, 2025 23:12:07 CST",
+      "elapsed_days": 0.0009,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "stolen": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "179": 1,
+        "2": 1,
+        "271": 1
+      }
+    },
+    {
+      "account": "Account 12",
+      "plate": "Plate AO",
+      "count": 3,
+      "first_local": "Dec 05, 2025 13:58:47 CST",
+      "last_local": "Dec 05, 2025 13:59:58 CST",
+      "elapsed_days": 0.0008,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Investigation": 3
+      },
+      "case_references": {
+        "Reference 04": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "179": 1
+      }
+    },
+    {
+      "account": "Account 08",
+      "plate": "Plate AP",
+      "count": 3,
+      "first_local": "Dec 05, 2025 07:11:35 CST",
+      "last_local": "Dec 05, 2025 10:58:07 CST",
+      "elapsed_days": 0.1573,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "stolen license plate": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 3
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate F",
+      "count": 3,
+      "first_local": "Dec 01, 2025 12:19:50 CST",
+      "last_local": "Dec 04, 2025 14:39:40 CST",
+      "elapsed_days": 3.0971,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Vehicle search": 2,
+        "Theft": 1
+      },
+      "case_references": {
+        "Reference 06": 3
+      },
+      "search_types": {
+        "lookup": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "6317": 1
+      }
+    },
+    {
+      "account": "Account 07",
+      "plate": "Plate AQ",
+      "count": 3,
+      "first_local": "Jan 28, 2026 16:09:05 CST",
+      "last_local": "Jan 28, 2026 16:15:45 CST",
+      "elapsed_days": 0.0046,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "22": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AR",
+      "count": 3,
+      "first_local": "Jan 14, 2026 14:05:47 CST",
+      "last_local": "Jan 14, 2026 14:05:50 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen, Assault/Battery Offenses (Domestic), Assault/Battery Offenses": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "165": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AS",
+      "count": 3,
+      "first_local": "Jan 10, 2026 09:38:04 CST",
+      "last_local": "Jan 10, 2026 09:38:13 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen - Stolen": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "166": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AT",
+      "count": 3,
+      "first_local": "Jan 06, 2026 17:37:10 CST",
+      "last_local": "Jan 06, 2026 17:37:26 CST",
+      "elapsed_days": 0.0002,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Disorderly Conduct/Disturbance": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "166": 3
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate AU",
+      "count": 3,
+      "first_local": "Mar 07, 2026 19:21:13 CST",
+      "last_local": "Mar 07, 2026 19:21:21 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Wanted Person (Arrest Warrant/Fugitive)": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "161": 3
+      }
+    },
+    {
+      "account": "Account 07",
+      "plate": "Plate AV",
+      "count": 3,
+      "first_local": "Jun 22, 2026 12:27:52 CDT",
+      "last_local": "Jun 22, 2026 12:28:25 CDT",
+      "elapsed_days": 0.0004,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Larceny/Theft Offenses - Investigation": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "21": 3
+      }
+    },
+    {
+      "account": "Account 07",
+      "plate": "Plate AW",
+      "count": 3,
+      "first_local": "Jul 07, 2026 09:59:36 CDT",
+      "last_local": "Jul 07, 2026 10:00:17 CDT",
+      "elapsed_days": 0.0005,
+      "max_in_240_hours": 3,
+      "reasons": {
+        "Burglary/Breaking & Entering - Investigation": 3
+      },
+      "case_references": {
+        "Blank": 3
+      },
+      "search_types": {
+        "lookup - Mobile": 3
+      },
+      "network_counts": {
+        "2": 2,
+        "21": 1
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate AX",
+      "count": 2,
+      "first_local": "Dec 31, 2025 01:36:55 CST",
+      "last_local": "Dec 31, 2025 01:37:36 CST",
+      "elapsed_days": 0.0005,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen - stolen veh": 2
+      },
+      "case_references": {
+        "Reference 20": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "5711": 2
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate AD",
+      "count": 2,
+      "first_local": "Dec 31, 2025 01:29:00 CST",
+      "last_local": "Dec 31, 2025 01:29:33 CST",
+      "elapsed_days": 0.0004,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Welfare Check - missing person": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "121": 1,
+        "5711": 1
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate AY",
+      "count": 2,
+      "first_local": "Dec 27, 2025 11:43:14 CST",
+      "last_local": "Dec 27, 2025 11:47:30 CST",
+      "elapsed_days": 0.003,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "drugs": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "23": 1
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate AZ",
+      "count": 2,
+      "first_local": "Dec 24, 2025 00:59:31 CST",
+      "last_local": "Dec 24, 2025 00:59:33 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Drugs": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 1
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BA",
+      "count": 2,
+      "first_local": "Dec 24, 2025 00:24:18 CST",
+      "last_local": "Dec 24, 2025 00:24:24 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Drugs": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 1
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BB",
+      "count": 2,
+      "first_local": "Dec 23, 2025 23:43:04 CST",
+      "last_local": "Dec 23, 2025 23:43:06 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 1
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate BC",
+      "count": 2,
+      "first_local": "Dec 23, 2025 16:21:50 CST",
+      "last_local": "Dec 23, 2025 16:22:01 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "drugs": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "23": 2
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BD",
+      "count": 2,
+      "first_local": "Dec 23, 2025 00:32:22 CST",
+      "last_local": "Dec 23, 2025 00:32:25 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "173": 1
+      }
+    },
+    {
+      "account": "Account 14",
+      "plate": "Plate A",
+      "count": 2,
+      "first_local": "Dec 19, 2025 19:38:23 CST",
+      "last_local": "Dec 19, 2025 19:38:49 CST",
+      "elapsed_days": 0.0003,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 2
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BE",
+      "count": 2,
+      "first_local": "Dec 18, 2025 20:01:52 CST",
+      "last_local": "Dec 18, 2025 20:02:05 CST",
+      "elapsed_days": 0.0002,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "drugs": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "173": 1,
+        "2": 1
+      }
+    },
+    {
+      "account": "Account 11",
+      "plate": "Plate BF",
+      "count": 2,
+      "first_local": "Dec 15, 2025 14:05:01 CST",
+      "last_local": "Dec 15, 2025 14:05:07 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "theft": 2
+      },
+      "case_references": {
+        "Reference 11": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "5657": 1
+      }
+    },
+    {
+      "account": "Account 09",
+      "plate": "Plate BG",
+      "count": 2,
+      "first_local": "Dec 13, 2025 19:45:25 CST",
+      "last_local": "Dec 13, 2025 19:46:30 CST",
+      "elapsed_days": 0.0008,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "suspicious": 1,
+        "Suspicious": 1
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "116": 1
+      }
+    },
+    {
+      "account": "Account 18",
+      "plate": "Plate BH",
+      "count": 2,
+      "first_local": "Dec 12, 2025 13:40:22 CST",
+      "last_local": "Dec 12, 2025 13:41:31 CST",
+      "elapsed_days": 0.0008,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Case": 2
+      },
+      "case_references": {
+        "Reference 03": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "22": 2
+      }
+    },
+    {
+      "account": "Account 08",
+      "plate": "Plate BI",
+      "count": 2,
+      "first_local": "Dec 10, 2025 08:29:31 CST",
+      "last_local": "Dec 10, 2025 08:29:40 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 2
+      }
+    },
+    {
+      "account": "Account 14",
+      "plate": "Plate BJ",
+      "count": 2,
+      "first_local": "Dec 07, 2025 03:44:10 CST",
+      "last_local": "Dec 07, 2025 03:45:03 CST",
+      "elapsed_days": 0.0006,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "LCSO Bolo": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 2
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BK",
+      "count": 2,
+      "first_local": "Dec 07, 2025 02:10:05 CST",
+      "last_local": "Dec 07, 2025 02:10:08 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Suspect": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "175": 2
+      }
+    },
+    {
+      "account": "Account 12",
+      "plate": "Plate F",
+      "count": 2,
+      "first_local": "Dec 05, 2025 12:41:51 CST",
+      "last_local": "Dec 05, 2025 12:46:16 CST",
+      "elapsed_days": 0.0031,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "investigation": 2
+      },
+      "case_references": {
+        "Reference 06": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "179": 1
+      }
+    },
+    {
+      "account": "Account 13",
+      "plate": "Plate D",
+      "count": 2,
+      "first_local": "Dec 03, 2025 14:35:33 CST",
+      "last_local": "Dec 03, 2025 14:35:44 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "23": 1
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate BL",
+      "count": 2,
+      "first_local": "Dec 02, 2025 00:43:57 CST",
+      "last_local": "Dec 02, 2025 00:44:06 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "welf. checks": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup": 2
+      },
+      "network_counts": {
+        "2": 2
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate H",
+      "count": 2,
+      "first_local": "Jan 23, 2026 16:17:27 CST",
+      "last_local": "Jan 23, 2026 16:20:28 CST",
+      "elapsed_days": 0.0021,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Financial Crime (Embezzlement/Fraud) - False evidence of registration (fake plate)": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "172": 2
+      }
+    },
+    {
+      "account": "Account 07",
+      "plate": "Plate A",
+      "count": 2,
+      "first_local": "Jan 03, 2026 14:19:47 CST",
+      "last_local": "Jan 03, 2026 14:59:42 CST",
+      "elapsed_days": 0.0277,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen - Stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "22": 2
+      }
+    },
+    {
+      "account": "Account 16",
+      "plate": "Plate BM",
+      "count": 2,
+      "first_local": "Jan 02, 2026 00:02:15 CST",
+      "last_local": "Jan 02, 2026 00:02:18 CST",
+      "elapsed_days": 0.0,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Stolen Property Offenses - Stolen vehicle": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "173": 2
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate BN",
+      "count": 2,
+      "first_local": "Feb 26, 2026 19:36:11 CST",
+      "last_local": "Feb 26, 2026 19:36:23 CST",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Missing/Endangered Person/Runaway": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "164": 2
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate BO",
+      "count": 2,
+      "first_local": "Mar 21, 2026 21:28:25 CDT",
+      "last_local": "Mar 21, 2026 21:28:30 CDT",
+      "elapsed_days": 0.0001,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Traffic Infraction": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "3": 1,
+        "161": 1
+      }
+    },
+    {
+      "account": "Account 22",
+      "plate": "Plate BP",
+      "count": 2,
+      "first_local": "Mar 21, 2026 13:27:19 CDT",
+      "last_local": "Mar 21, 2026 13:28:18 CDT",
+      "elapsed_days": 0.0007,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Stolen Property Offenses": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "2": 1,
+        "172": 1
+      }
+    },
+    {
+      "account": "Account 06",
+      "plate": "Plate BQ",
+      "count": 2,
+      "first_local": "Mar 07, 2026 19:27:26 CST",
+      "last_local": "Mar 07, 2026 19:28:06 CST",
+      "elapsed_days": 0.0005,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Wanted Person (Arrest Warrant/Fugitive)": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "161": 2
+      }
+    },
+    {
+      "account": "Account 02",
+      "plate": "Plate BR",
+      "count": 2,
+      "first_local": "Jul 15, 2026 03:29:05 CDT",
+      "last_local": "Jul 15, 2026 03:57:51 CDT",
+      "elapsed_days": 0.02,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Motor Vehicle Theft/Stolen": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "156": 2
+      }
+    },
+    {
+      "account": "Account 07",
+      "plate": "Plate BS",
+      "count": 2,
+      "first_local": "Jul 12, 2026 09:12:17 CDT",
+      "last_local": "Jul 12, 2026 10:20:51 CDT",
+      "elapsed_days": 0.0476,
+      "max_in_240_hours": 2,
+      "reasons": {
+        "Larceny/Theft Offenses - Investigation": 2
+      },
+      "case_references": {
+        "Blank": 2
+      },
+      "search_types": {
+        "lookup - Mobile": 2
+      },
+      "network_counts": {
+        "21": 2
+      }
+    }
+  ]
+}

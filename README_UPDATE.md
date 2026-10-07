@@ -1,11 +1,11 @@
-# Sherwood DFR website update — review package
+# Jacksonville website update
 
-Prepared October 6, 2026 for D:\ARAP\arap-website. This package has not been applied or deployed. The Facebook post should be published only after the new URL is available.
+This package updates the existing ARAP website. It has not been applied, committed, pushed or deployed.
 
-The active public/ directory in wrangler.jsonc is used. Legacy src/public/ copies are not changed. Existing files are supplied as reviewable updated copies; update_manifest.json records SHA-256 hashes of the original and new files. The source repository was read only. No commit, push or deployment is included.
+Extract the ZIP to its own folder. Run Apply-WebsiteUpdate.ps1 from the extracted folder to apply it to D:\ARAP\arap-website. The script verifies every original and replacement hash before changing files, and backs up replaced files. If a repository file changed, it stops for reconciliation.
 
-Review website_preview.html in the parent outputs folder and sherwood_dfr_analysis.pdf. The page uses existing ARAP styling. Six existing files change (home, Publications, Sherwood, repository index, sitemap, changelog); the new publication and supporting assets are added. No site-wide version bump is assumed.
+Only the top-level public/ deployment directory is updated. The older nested src/public/ copy is left alone because wrangler.jsonc deploys ./public.
 
-To apply: run Apply-WebsiteUpdate.ps1 from PowerShell. It verifies original file hashes, requires absent new targets, backs up replaced files under the repository’s .arap-update-backups directory, then copies the listed files. It neither commits nor deploys. Review the resulting repository diff before publication. The script is a user-run application helper, not an action already performed by Codex.
+The package includes a new publication, all 86 redacted cluster summaries, source hashes, homepage/Jacksonville/Publications links, sitemap and changelog. It does not bundle raw records or the private label mapping. The existing repository may contain other sensitive records; this package does not audit or remove those earlier files.
 
-Publication records: the already-redacted six-page FAA certificate is unchanged; the Talking Paper DOCX is unchanged; only reviewed pages of the site survey and installation summary are included as images. No bulk email production, contact list or infrastructure credentials are included.
+Review the page and outreach statement before normal deployment. The Little Rock comparison is explicitly identified as reported and not independently verified. Existing audience and deployment settings are preserved.
