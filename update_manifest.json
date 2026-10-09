@@ -1,42 +1,52 @@
 [
   {
-    "path": "public/publications/jacksonville-alpr-repeated-searches/index.html",
+    "path": "public/jurisdictions/little-rock/evidence-library/chronology.html",
     "base_sha256": null,
-    "new_sha256": "403351f2b0fa51263c53e93774c1bad1e4bbe951836bffa563e06b88520fbb6b"
+    "new_sha256": "53e70c21e7da68c97f1c06cb2ab9cc63c8618288e831cb40d276eab90ed2cb0a"
   },
   {
-    "path": "public/downloads/jacksonville/analysis/repeated-search-clusters-redacted.json",
+    "path": "public/jurisdictions/little-rock/evidence-library/index.html",
     "base_sha256": null,
-    "new_sha256": "015715cfc95dab89b0b7bf2f553557eeb46b5ee3777508252168dd30046910e2"
+    "new_sha256": "7c4f38a964790eafef03d36cbbd137b356e82b5371de45d2e772d43bf40addf9"
   },
   {
-    "path": "public/downloads/jacksonville/analysis/source-manifest.json",
+    "path": "public/jurisdictions/little-rock/evidence-library/style.css",
     "base_sha256": null,
-    "new_sha256": "59682504560d54000f4da9d25a28a8dc8a13c5df338e82ac27bbf02f77ed75c5"
+    "new_sha256": "d60546136fb4b83c821f8a92604397cf183fd6c0e6472a30e6acd02fae4b3688"
   },
   {
-    "path": "public/jurisdictions/jacksonville/index.html",
-    "base_sha256": "533a7a7287accf4a6f43a0dd5bc111815958a7c81b2763ae354353b870d85a54",
-    "new_sha256": "01bfea85f9d18e52bc80738783c17570828c072b3be7ddc2c72d8ce760e62008"
+    "path": "public/jurisdictions/little-rock/evidence-library/analysis/index.html",
+    "base_sha256": null,
+    "new_sha256": "017c99d81fb62a9105fd790255f63ac1a1b119711c1424038c1f0d9cf3e507a3"
+  },
+  {
+    "path": "public/jurisdictions/little-rock/evidence-library/data/source-index.json",
+    "base_sha256": null,
+    "new_sha256": "be590cb8e9641b8d3c4911cbaa0c943fed8f982d753aec37337125bd5bc986ea"
+  },
+  {
+    "path": "public/jurisdictions/little-rock/evidence-library/records/index.html",
+    "base_sha256": null,
+    "new_sha256": "68b75eb53e16437aec45ead5f489fa78613bd6c9433708e8baa74020646825b5"
+  },
+  {
+    "path": "public/jurisdictions/little-rock/evidence-library/third-party/index.html",
+    "base_sha256": null,
+    "new_sha256": "a996941d13e8f46ca074a8f8641bed3a0bcb5902ffffde7de6a9b4ca4ce25a93"
   },
   {
     "path": "public/index.html",
-    "base_sha256": "d6140199c498502f3e1892f70150d4d72a2f77adb8632adc5ada89cbcc0e7668",
-    "new_sha256": "51d03a2c9c288ce0f3d1db35e4f658140f312f01cf45dec395af9ca906717dc9"
+    "base_sha256": "51d03a2c9c288ce0f3d1db35e4f658140f312f01cf45dec395af9ca906717dc9",
+    "new_sha256": "4a7fa02cd4be0b211dbfd0ef0ecbc227e8e7c008bd1a6d0ed419cd2b2af8947a"
   },
   {
-    "path": "public/publications/index.html",
-    "base_sha256": "0e7df631e5e26fc6af5a001fa9a343432c59e51e4d0d109b505bad8d0f943653",
-    "new_sha256": "d933970b5526b1f8bfa9857ccc59c399e5c8920188febb57e200a10fbd018a5f"
+    "path": "public/jurisdictions/little-rock/index.html",
+    "base_sha256": "fbeac52d9859e3902e1d0e0d45eec16911dac756364111a4f09ab04d0f6738a4",
+    "new_sha256": "143e62a48acd41bb5639114859b11758d88bb8897c24c4eae53d157100b50630"
   },
   {
     "path": "public/sitemap.xml",
-    "base_sha256": "be19bc21a48014b1f093c25876888be2b5664c0bd1f606b4fd88345a1e4958ef",
-    "new_sha256": "32ccc1d338bf478596aad97c49d6035490aec5516fd3ab3b0245306ac48d2d40"
-  },
-  {
-    "path": "CHANGELOG.md",
-    "base_sha256": "1a4eebd8133ae7de8ed89ae33b4fb802480ccfc4691d2502c640d970f3a8d586",
-    "new_sha256": "8babf14d0f8082e2cebb182e09adf152964edda56d0b384e9eb91298a8b3a870"
+    "base_sha256": "32ccc1d338bf478596aad97c49d6035490aec5516fd3ab3b0245306ac48d2d40",
+    "new_sha256": "272256833c0f1e845e5c763a74718f5d8ac574bae104863bb32d5519e0cc3eb8"
   }
 ]
