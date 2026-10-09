@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "LR-001",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "City of Little Rock Records Requests - Request Details7-13-2026.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\City of Little Rock Records Requests - Request Details7-13-2026.pdf",
+    "bytes": 376971,
+    "sha256": "aa23a487359e49f0d1df3618ace3232d07fca087d33e2f61634ef9cd071be89a",
+    "filesystem_created": "2026-07-13T19:53:38.372898+00:00",
+    "filesystem_modified": "2026-07-13T19:53:38.314438+00:00",
+    "received_date": null,
+    "pages": 8,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 152.0.5",
+      "/CreationDate": "D:20260713145333-05'00"
+    },
+    "title": "City of Little Rock Records Requests - Request Details7-13-2026.pdf",
+    "summary": "Saved JustFOIA portal record for PDFOI-2026-2594. Shows submission July 9, completed status and 10 attachments; only the first 5 attachment rows are visible. Export footer July 13, 2026, 2:53 PM. Establishes portal availability of the visible records by capture, not delivery notification or exact receipt.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-001.pdf"
+  },
+  {
+    "id": "LR-002",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "FOIA Follow up.docx",
+    "source_path": "D:\\Flock stuff\\Little Rock\\FOIA Follow up.docx",
+    "bytes": 14470,
+    "sha256": "c7209a45ded2918b1b68ecdb81fc932711f8d6f8f89250e61dc1d52111c41332",
+    "filesystem_created": "2026-07-13T19:52:46.523354+00:00",
+    "filesystem_modified": "2026-07-13T19:52:46.555065+00:00",
+    "received_date": null,
+    "title": "FOIA Follow up.docx",
+    "summary": "Undated requester follow-up draft about the July 9 request. No sent-message headers or agency response; sending cannot be established.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "requester draft",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-002.docx"
+  },
+  {
+    "id": "LR-003",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\3. March RTCC MONTHLY REPORTING 2026_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\3. March RTCC MONTHLY REPORTING 2026_Redacted.pdf",
+    "bytes": 337889,
+    "sha256": "0e41082c6ef686e570516bad9788cf1de5c4fe8fbe91d13fb46b88959a843a4a",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.965317+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {},
+    "title": "3. March RTCC MONTHLY REPORTING 2026_Redacted.pdf",
+    "summary": "March RTCC report dated April 6. Operational table, department-wide LPR dashboard, ShotSpotter and camera-program metrics, staffing and selected incident narratives. LPR dashboard: 11 successes, 11 cases cleared, 7 stolen vehicles recovered (p.2). These are dashboard labels, not independently verified prosecutions.",
+    "document_date": "2026-04-06",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "3. March RTCC MONTHLY REPORTING 2026_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-003.pdf"
+  },
+  {
+    "id": "LR-004",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\4. April RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\4. April RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "bytes": 252142,
+    "sha256": "b3814026b6a385816cca8fe5f39c1d2c136a926ea0ac1c78f86320824afeda89",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.942656+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {
+      "/Title": " ",
+      "/Author": "adminclr",
+      "/Creator": "Microsoft\u00ae Word for Microsoft 365",
+      "/CreationDate": "D:20260713083746-05'00'",
+      "/ModDate": "D:20260713083746-05'00'",
+      "/Producer": "Microsoft\u00ae Word for Microsoft 365"
+    },
+    "title": "4. April RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "summary": "April RTCC report dated May 4; less-redacted version. RTCC operational total 618; LPR dashboard 11 successes, 10 cases cleared, 6 stolen vehicles recovered (p.2). Contains staffing/leave details also withheld in LR-005.",
+    "document_date": "2026-05-04",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "4. April RTCC MONTHLY REPORTING 2026-NRN.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-004.pdf"
+  },
+  {
+    "id": "LR-005",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\4. April RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\4. April RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "bytes": 425344,
+    "sha256": "9ff47d9963de4b361ac5a4727d46d73058624edecc64f4b6415841c483238ae8",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.974367+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {},
+    "title": "4. April RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "summary": "Agency-redacted April RTCC report; paired with LR-004. Operational and LPR summary metrics appear consistent; staffing information is redacted. Incident narratives remain.",
+    "document_date": "2026-05-04",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "4. April RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-005.pdf"
+  },
+  {
+    "id": "LR-006",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\5. May RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\5. May RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "bytes": 252091,
+    "sha256": "c0bb17cbeba304d666abdc288d33c38f84cc215b7093e0fe12af6390734b6c66",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.958559+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {
+      "/Title": " ",
+      "/Author": "adminclr",
+      "/Creator": "Microsoft\u00ae Word for Microsoft 365",
+      "/CreationDate": "D:20260713083824-05'00'",
+      "/ModDate": "D:20260713083824-05'00'",
+      "/Producer": "Microsoft\u00ae Word for Microsoft 365"
+    },
+    "title": "5. May RTCC MONTHLY REPORTING 2026-NRN.pdf",
+    "summary": "May RTCC report dated June 3; less-redacted version. RTCC operational total 701; LPR dashboard 19 successes, 19 cases cleared, 13 stolen vehicles recovered (p.2). Contains staffing/leave details also withheld in LR-007.",
+    "document_date": "2026-06-03",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "5. May RTCC MONTHLY REPORTING 2026-NRN.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-006.pdf"
+  },
+  {
+    "id": "LR-007",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\5. May RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\5. May RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "bytes": 417324,
+    "sha256": "9581c30feeba1841576ed160ab62f520c08ea71233db4dffc079b6a43f3338a5",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:39.006385+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {},
+    "title": "5. May RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+    "summary": "Agency-redacted May RTCC report; paired with LR-006. Operational and LPR summary metrics appear consistent; staffing information is redacted. Incident narratives remain.",
+    "document_date": "2026-06-03",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "5. May RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-007.pdf"
+  },
+  {
+    "id": "LR-008",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\6 Month Report Jan-June 2026 (2)-NRN.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\6 Month Report Jan-June 2026 (2)-NRN.pdf",
+    "bytes": 253791,
+    "sha256": "48a3e2048721d492632510244ca1af61f4b2b562f727c3bc25d6a0a6e969d71b",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.990447+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {
+      "/Author": "Phillips, James",
+      "/Creator": "Microsoft\u00ae Word for Microsoft 365",
+      "/CreationDate": "D:20260703122752-05'00'",
+      "/ModDate": "D:20260703122752-05'00'",
+      "/Producer": "Microsoft\u00ae Word for Microsoft 365"
+    },
+    "title": "6 Month Report Jan-June 2026 (2)-NRN.pdf",
+    "summary": "January-June 2026 ALPR report. Page 1 reports 103,375,512 scans and 350,211 confirmed matches (alerts). Page 2 dashboard separates official and custom hotlist alerts; page 3 reports 91 successes and 86 cases cleared. Byte-identical to LR-023.",
+    "document_date": null,
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "6 Month Report Jan-June 2026 (2)-NRN.pdf"
+      },
+      {
+        "archive_id": "LR-028",
+        "member_name": "6 Month Report Jan-June 2026 (3).pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified.",
+      "Second production: LR-022 p.1 records ARAP reviewing reports already provided by August 20, 2026, 2:20 PM (displayed time; timezone not stated). LR-028 member hash ties this copy to saved bundle. Exact delivery and first-production date for 2025 reports unverified."
+    ],
+    "duplicates": [
+      "LR-023"
+    ],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-008.pdf"
+  },
+  {
+    "id": "LR-009",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 1.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 1.png",
+    "bytes": 115309,
+    "sha256": "5ab652e809a6c516f631bbdc99003ac18c1fd7c4ed14b1242ee118cf92aa4a37",
+    "filesystem_created": "2026-09-22T12:51:25.375127+00:00",
+    "filesystem_modified": "2026-09-22T12:51:25.917855+00:00",
+    "received_date": null,
+    "title": "audit 1.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-009.png"
+  },
+  {
+    "id": "LR-010",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 2.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 2.png",
+    "bytes": 108610,
+    "sha256": "3d3ecbac94ceaa830de70bffd4677cccde77c4edf093920f5d8559e798e3b6e8",
+    "filesystem_created": "2026-09-22T12:51:57.560900+00:00",
+    "filesystem_modified": "2026-09-22T12:51:58.103932+00:00",
+    "received_date": null,
+    "title": "audit 2.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-010.png"
+  },
+  {
+    "id": "LR-011",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 3.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 3.png",
+    "bytes": 122368,
+    "sha256": "54f90e5b82995268207826784a24901cbdba3425d884a6cb2e9b76b12f50ad98",
+    "filesystem_created": "2026-09-22T12:52:32.463845+00:00",
+    "filesystem_modified": "2026-09-22T12:52:33.007624+00:00",
+    "received_date": null,
+    "title": "audit 3.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-011.png"
+  },
+  {
+    "id": "LR-012",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 4.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 4.png",
+    "bytes": 87561,
+    "sha256": "67c267d558674d35603795ec121b722b07636caa7f3e701e1bc5fb0434d59794",
+    "filesystem_created": "2026-09-22T13:04:41.998540+00:00",
+    "filesystem_modified": "2026-09-22T13:04:42.035758+00:00",
+    "received_date": null,
+    "title": "audit 4.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-012.png"
+  },
+  {
+    "id": "LR-013",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 5.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 5.png",
+    "bytes": 99119,
+    "sha256": "3e6348aa49656701279dab96e7cc85bf20519422813b29d7c05b9d292b902062",
+    "filesystem_created": "2026-09-22T13:05:15.311486+00:00",
+    "filesystem_modified": "2026-09-22T13:05:15.852017+00:00",
+    "received_date": null,
+    "title": "audit 5.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-013.png"
+  },
+  {
+    "id": "LR-014",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 6.png",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\audit 6.png",
+    "bytes": 100697,
+    "sha256": "bfacc4cfbbe1e610c1c511b1544357a5b01f2c2f7fe26fb9d290eb9b7be73cf0",
+    "filesystem_created": "2026-09-22T13:06:00.822081+00:00",
+    "filesystem_modified": "2026-09-22T13:06:00.855372+00:00",
+    "received_date": null,
+    "title": "audit 6.png",
+    "summary": "Local report-page screenshot/derivative. Visually resembles part of the six-month reports, but is absent from the original production ZIP. Creator, capture time and transformation history are unverified. Do not treat as a separate government production.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "local derivative",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-014.png"
+  },
+  {
+    "id": "LR-015",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\LPR 2026 Q2 Audit Report_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\LPR 2026 Q2 Audit Report_Redacted.pdf",
+    "bytes": 63406,
+    "sha256": "d8e09db57e86cc19e7b94d5a93b67b9c9f22a0429767101f6e8d0f52972ba595",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.990447+00:00",
+    "received_date": null,
+    "pages": 1,
+    "pdf_metadata": {},
+    "title": "LPR 2026 Q2 Audit Report_Redacted.pdf",
+    "summary": "One-page Q2 audit memorandum dated July 3 from Sergeant James Phillips to Lieutenant Courtney Bewley. Says review focused on whether documented reasons for searches in the previous three months were consistent with policy, and reports full compliance concerning documentation of search reasons. A paragraph is withheld under a general 25-19-105 label. No underlying logs, sample size or methodology is supplied.",
+    "document_date": "2026-07-03",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "LPR 2026 Q2 Audit Report_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-015.pdf"
+  },
+  {
+    "id": "LR-016",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\LRPD General Order 325.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\LRPD General Order 325.pdf",
+    "bytes": 132551,
+    "sha256": "8a5fb2d28929181bf6b68c16b69e2c09ba41c9d8068f14c9970493a70d05c854",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.990447+00:00",
+    "received_date": null,
+    "pages": 4,
+    "pdf_metadata": {
+      "/CreationDate": "D:20260708194049+00'00'",
+      "/Creator": "Microsoft\u00ae Word 2021",
+      "/ModDate": "D:20260708194049+00'00'",
+      "/Producer": "Microsoft\u00ae Word 2021"
+    },
+    "title": "LRPD General Order 325.pdf",
+    "summary": "General Order 325 dated July 8, 2026, replacing July 14, 2025. Explicit custom-hotlist permission in IV.A.4; naming format, one-list guidance, written approval for additional lists and monthly naming audits. IV.B.4.c requires removal of manually added data once relevant investigative or legitimate law-enforcement interest ends. IV.D addresses access, retention, reasons, quarterly audits and biannual reports. Read revision marks visually: monthly is struck out and biannual added in IV.D.6.",
+    "document_date": "2026-07-08",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "LRPD General Order 325.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-016.pdf"
+  },
+  {
+    "id": "LR-017",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\RTCC Semi-Annual June Report_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\RTCC Semi-Annual June Report_Redacted.pdf",
+    "bytes": 1488273,
+    "sha256": "ecaa7967a80a5a8c584e13916103a98920fa96036b0197369b87204ffd008a11",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:38.977926+00:00",
+    "received_date": null,
+    "pages": 4,
+    "pdf_metadata": {},
+    "title": "RTCC Semi-Annual June Report_Redacted.pdf",
+    "summary": "RTCC semiannual operational report dated July 3 (separate July 10 internal routing stamp). Reports 172 arrests, 79 stolen-vehicle recovery assists and 29 recovered firearms (pp.1-2). The separate department-wide LPR dashboard shows 90 successes, 86 cleared cases and 53 recovered vehicles (p.2). Includes ShotSpotter, cameras and selected incident narratives. RTCC totals cannot be treated as ALPR-only outcomes.",
+    "document_date": "2026-07-03",
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "RTCC Semi-Annual June Report_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-017.pdf"
+  },
+  {
+    "id": "LR-018",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\RTCC Units Monthly Reports -  June Monthly and Quarterly_Redacted.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56\\RTCC Units Monthly Reports -  June Monthly and Quarterly_Redacted.pdf",
+    "bytes": 3410207,
+    "sha256": "31b73ba5121985659bcc4541da54f8d6f1a88d149440fc0c24023e1f319f3496",
+    "filesystem_created": "2026-07-13T20:53:56+00:00",
+    "filesystem_modified": "2026-07-13T19:54:39.032909+00:00",
+    "received_date": null,
+    "pages": 7,
+    "pdf_metadata": {},
+    "title": "RTCC Units Monthly Reports -  June Monthly and Quarterly_Redacted.pdf",
+    "summary": "Seven-page combined packet: sUAS June memo dated July 2 (p.1), RTCC Q2 memo dated July 3 (pp.2-4), and June memo dated July 3 (pp.5-7), with July 7 internal routing stamps. Q2 LPR dashboard: 47 successes, 45 cleared cases, 28 recovered vehicles (p.3); June: 16 successes, 15 cleared cases, 10 recovered vehicles (p.6). Contains non-ALPR operational material.",
+    "document_date": null,
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "RTCC Units Monthly Reports -  June Monthly and Quarterly_Redacted.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-018.pdf"
+  },
+  {
+    "id": "LR-019",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56.zip",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56.zip",
+    "bytes": 7034704,
+    "sha256": "76e769543bdca6c2a26a072d34e32263fda7500fc2449c807f6c064afd62ef4a",
+    "filesystem_created": "2026-07-13T19:54:00.637582+00:00",
+    "filesystem_modified": "2026-07-13T19:54:08.619195+00:00",
+    "received_date": null,
+    "members": [
+      {
+        "name": "4. April RTCC MONTHLY REPORTING 2026-NRN.pdf",
+        "bytes": 252142,
+        "sha256": "b3814026b6a385816cca8fe5f39c1d2c136a926ea0ac1c78f86320824afeda89",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "acd78262"
+      },
+      {
+        "name": "5. May RTCC MONTHLY REPORTING 2026-NRN.pdf",
+        "bytes": 252091,
+        "sha256": "c0bb17cbeba304d666abdc288d33c38f84cc215b7093e0fe12af6390734b6c66",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "da5c141e"
+      },
+      {
+        "name": "3. March RTCC MONTHLY REPORTING 2026_Redacted.pdf",
+        "bytes": 337889,
+        "sha256": "0e41082c6ef686e570516bad9788cf1de5c4fe8fbe91d13fb46b88959a843a4a",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "b7809ee5"
+      },
+      {
+        "name": "4. April RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+        "bytes": 425344,
+        "sha256": "9ff47d9963de4b361ac5a4727d46d73058624edecc64f4b6415841c483238ae8",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "6153272c"
+      },
+      {
+        "name": "RTCC Semi-Annual June Report_Redacted.pdf",
+        "bytes": 1488273,
+        "sha256": "ecaa7967a80a5a8c584e13916103a98920fa96036b0197369b87204ffd008a11",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "850ca487"
+      },
+      {
+        "name": "LPR 2026 Q2 Audit Report_Redacted.pdf",
+        "bytes": 63406,
+        "sha256": "d8e09db57e86cc19e7b94d5a93b67b9c9f22a0429767101f6e8d0f52972ba595",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "5ce91c5c"
+      },
+      {
+        "name": "LRPD General Order 325.pdf",
+        "bytes": 132551,
+        "sha256": "8a5fb2d28929181bf6b68c16b69e2c09ba41c9d8068f14c9970493a70d05c854",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "73ee2c65"
+      },
+      {
+        "name": "6 Month Report Jan-June 2026 (2)-NRN.pdf",
+        "bytes": 253791,
+        "sha256": "48a3e2048721d492632510244ca1af61f4b2b562f727c3bc25d6a0a6e969d71b",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "2c0c6112"
+      },
+      {
+        "name": "5. May RTCC MONTHLY REPORTING 2026-NRN_Redacted.pdf",
+        "bytes": 417324,
+        "sha256": "9581c30feeba1841576ed160ab62f520c08ea71233db4dffc079b6a43f3338a5",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "02a26d59"
+      },
+      {
+        "name": "RTCC Units Monthly Reports -  June Monthly and Quarterly_Redacted.pdf",
+        "bytes": 3410207,
+        "sha256": "31b73ba5121985659bcc4541da54f8d6f1a88d149440fc0c24023e1f319f3496",
+        "zip_member_datetime": [
+          2026,
+          7,
+          13,
+          15,
+          53,
+          56
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "29baedd5"
+      }
+    ],
+    "title": "Records_Request_Download_PDFOI-2026-2594_2026-07-13--15-53-56.zip",
+    "summary": "Saved download ZIP bearing PDFOI-2026-2594 and July 13 filename timestamp. Contains exactly 10 PDFs. All extracted agency PDFs in this collection match their ZIP members byte-for-byte. Does not contain audit 1-6.png. Filename and archive metadata do not independently establish receipt time.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "acquisition container",
+    "request_id": "PDFOI-2026-2594",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-019.zip"
+  },
+  {
+    "id": "LR-020",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "City of Little Rock Records Requests - Request Details.pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\City of Little Rock Records Requests - Request Details.pdf",
+    "bytes": 216601,
+    "sha256": "dc02f5068cff5e6f115f2f7636727d637cb2bd8fb990992880317d723024dc3f",
+    "filesystem_created": "2026-08-18T18:19:06.177950+00:00",
+    "filesystem_modified": "2026-08-18T18:19:06.161448+00:00",
+    "received_date": null,
+    "pages": 4,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 153.0.4",
+      "/CreationDate": "D:20260818131903-05'00"
+    },
+    "title": "City of Little Rock Records Requests - Request Details.pdf",
+    "summary": "Saved portal request CLR-2026-1355, submitted August 18. Capture footer August 18 at 1:19 PM; status Submitted and no uploaded documents at that capture. Request text resembles PDFOI-2026-3250, but transfer or cross-reference is not established.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "CLR-2026-1355",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-020.pdf"
+  },
+  {
+    "id": "LR-021",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "bytes": 103013,
+    "sha256": "69a28162c5f1a909fee9bcc75b15d007c84f3bf53da636bc8467d89e5c0524ee",
+    "filesystem_created": "2026-08-18T18:55:41.633435+00:00",
+    "filesystem_modified": "2026-08-18T18:55:41.624849+00:00",
+    "received_date": null,
+    "pages": 2,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 153.0.4",
+      "/CreationDate": "D:20260818135540-05'00"
+    },
+    "title": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "summary": "Saved Gmail print of JustFOIA confirmation for PDFOI-2026-3250. Displayed message August 18 at 1:25 PM; saved print footer August 18 at 1:55 PM. Confirms request submission, not delivery of responsive records. Contains security key and requester contact details.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-021.pdf"
+  },
+  {
+    "id": "LR-022",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Gmail - Clarification Regarding ALPR Six-Month Statistical Reports FOIA Request PDFOI-2026-3250.pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Gmail - Clarification Regarding ALPR Six-Month Statistical Reports FOIA Request PDFOI-2026-3250.pdf",
+    "bytes": 115028,
+    "sha256": "198a4c12c9454cb3df13d0f4937ad24b0f54524c5397c5c2f064a134622087b9",
+    "filesystem_created": "2026-08-20T19:20:32.387559+00:00",
+    "filesystem_modified": "2026-08-20T19:20:32.383543+00:00",
+    "received_date": null,
+    "pages": 2,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 153.0.4",
+      "/CreationDate": "D:20260820142031-05'00"
+    },
+    "title": "Gmail - Clarification Regarding ALPR Six-Month Statistical Reports FOIA Request PDFOI-2026-3250.pdf",
+    "summary": "Saved Gmail print of ARAP clarification email, displayed sent August 20 at 2:20 PM. Thanks LRPD for reports already provided and asks about duplicate scan totals, period mismatch, December 31 coverage and outcome categories. Corroborates possession/review by that time; does not establish exact delivery or identify attachment hashes. No answer is in these folders.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-022.pdf"
+  },
+  {
+    "id": "LR-023",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\6 Month Report Jan-June 2026 (3).pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\6 Month Report Jan-June 2026 (3).pdf",
+    "bytes": 253791,
+    "sha256": "48a3e2048721d492632510244ca1af61f4b2b562f727c3bc25d6a0a6e969d71b",
+    "filesystem_created": "2026-08-20T20:09:32+00:00",
+    "filesystem_modified": "2026-09-22T12:44:58.876359+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {
+      "/Author": "Phillips, James",
+      "/Creator": "Microsoft\u00ae Word for Microsoft 365",
+      "/CreationDate": "D:20260703122752-05'00'",
+      "/ModDate": "D:20260703122752-05'00'",
+      "/Producer": "Microsoft\u00ae Word for Microsoft 365"
+    },
+    "title": "6 Month Report Jan-June 2026 (3).pdf",
+    "summary": "January-June 2026 ALPR report in second production ZIP. Byte-identical to LR-008; preserve both acquisition paths but count once as a distinct document.",
+    "document_date": null,
+    "archive_membership": [
+      {
+        "archive_id": "LR-019",
+        "member_name": "6 Month Report Jan-June 2026 (2)-NRN.pdf"
+      },
+      {
+        "archive_id": "LR-028",
+        "member_name": "6 Month Report Jan-June 2026 (3).pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "First production: LR-001 pp.4,8 captures completed status and first 5 of 10 attachments on July 13; LR-019 archive membership ties local file to saved production. Complete bundle receipt date remains inferred, not independently verified.",
+      "Second production: LR-022 p.1 records ARAP reviewing reports already provided by August 20, 2026, 2:20 PM (displayed time; timezone not stated). LR-028 member hash ties this copy to saved bundle. Exact delivery and first-production date for 2025 reports unverified."
+    ],
+    "duplicates": [
+      "LR-008"
+    ],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-023.pdf"
+  },
+  {
+    "id": "LR-024",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\audit graphic 1",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\audit graphic 1",
+    "bytes": 1713618,
+    "sha256": "a5f486b63a2f09e5a5e442de39bfb78d6420dc35261e9b94d6e0214675cc3c22",
+    "filesystem_created": "2026-09-22T12:56:53.672088+00:00",
+    "filesystem_modified": "2026-09-22T12:56:53.672088+00:00",
+    "received_date": null,
+    "title": "audit graphic 1",
+    "summary": "ARAP-branded interpretive graphic; byte-identical to LR-025. Not a member of either agency ZIP. Treat as ARAP analysis, with creator and creation date unverified; filename is not authentication.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "ARAP analysis",
+    "request_id": null,
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [
+      "LR-025"
+    ],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-024"
+  },
+  {
+    "id": "LR-025",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\ChatGPT Image Sep 22, 2026, 07_50_20 AM.png",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\ChatGPT Image Sep 22, 2026, 07_50_20 AM.png",
+    "bytes": 1713618,
+    "sha256": "a5f486b63a2f09e5a5e442de39bfb78d6420dc35261e9b94d6e0214675cc3c22",
+    "filesystem_created": "2026-09-22T12:50:27.042381+00:00",
+    "filesystem_modified": "2026-09-22T12:50:27.042381+00:00",
+    "received_date": null,
+    "title": "ChatGPT Image Sep 22, 2026, 07_50_20 AM.png",
+    "summary": "ARAP-branded graphic with a ChatGPT image filename dated September 22. Uses rounded headline and report metrics to raise reporting questions. Not agency evidence, and not an independent measurement of scans or outcomes. Byte-identical to LR-024.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "ARAP analysis",
+    "request_id": null,
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [
+      "LR-024"
+    ],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-025.png"
+  },
+  {
+    "id": "LR-026",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\January 01-June 30 2025.pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\January 01-June 30 2025.pdf",
+    "bytes": 347639,
+    "sha256": "dcc8e808ce25520a7bee85a6b7f7803f97211e0aa57ce40c1ed719da754f7b6c",
+    "filesystem_created": "2026-08-20T20:09:32+00:00",
+    "filesystem_modified": "2026-09-22T12:44:58.892105+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {},
+    "title": "January 01-June 30 2025.pdf",
+    "summary": "First-half 2025 ALPR report. Page 1 says January 01-June 31, 2025 (invalid calendar date), with 111,481,824 scans and 318,215 alerts. Page 3 outcome graph displays January-December 2025. Broad custom/official alert categories do not identify each individual list.",
+    "document_date": null,
+    "archive_membership": [
+      {
+        "archive_id": "LR-028",
+        "member_name": "January 01-June 30 2025.pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "Second production: LR-022 p.1 records ARAP reviewing reports already provided by August 20, 2026, 2:20 PM (displayed time; timezone not stated). LR-028 member hash ties this copy to saved bundle. Exact delivery and first-production date for 2025 reports unverified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-026.pdf"
+  },
+  {
+    "id": "LR-027",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\July 01-Dec 30 2025 report (2).pdf",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32\\July 01-Dec 30 2025 report (2).pdf",
+    "bytes": 221142,
+    "sha256": "0fc128e066ecdee59179313fe20dad34034ebaa0ff532a826cff4d18308cd6fc",
+    "filesystem_created": "2026-08-20T20:09:32+00:00",
+    "filesystem_modified": "2026-09-22T12:44:58.876359+00:00",
+    "received_date": null,
+    "pages": 3,
+    "pdf_metadata": {
+      "/Author": "Phillips, James",
+      "/Creator": "Microsoft\u00ae Word for Microsoft 365",
+      "/CreationDate": "D:20260105103927-06'00'",
+      "/ModDate": "D:20260105103927-06'00'",
+      "/Producer": "Microsoft\u00ae Word for Microsoft 365"
+    },
+    "title": "July 01-Dec 30 2025 report (2).pdf",
+    "summary": "Second-half 2025 ALPR report. Page 1 says July 01-December 30, 2025; 111,481,824 scans and 487,949 alerts. Page 3 has July-December outcome bars. Whether December 31 was included is unresolved.",
+    "document_date": null,
+    "archive_membership": [
+      {
+        "archive_id": "LR-028",
+        "member_name": "July 01-Dec 30 2025 report (2).pdf"
+      }
+    ],
+    "source_class": "agency record",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [
+      "Second production: LR-022 p.1 records ARAP reviewing reports already provided by August 20, 2026, 2:20 PM (displayed time; timezone not stated). LR-028 member hash ties this copy to saved bundle. Exact delivery and first-production date for 2025 reports unverified."
+    ],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-027.pdf"
+  },
+  {
+    "id": "LR-028",
+    "collection": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock",
+    "relative_path": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32.zip",
+    "source_path": "D:\\Flock stuff\\State Statute Audit Records\\Little Rock\\Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32.zip",
+    "bytes": 823016,
+    "sha256": "2547a262cbc27b1a11b38cb2731e7c0c5d0ffbed7429c685fb72adc15b08a7b5",
+    "filesystem_created": "2026-08-20T19:09:38.187360+00:00",
+    "filesystem_modified": "2026-08-20T19:09:47.009728+00:00",
+    "received_date": null,
+    "members": [
+      {
+        "name": "July 01-Dec 30 2025 report (2).pdf",
+        "bytes": 221142,
+        "sha256": "0fc128e066ecdee59179313fe20dad34034ebaa0ff532a826cff4d18308cd6fc",
+        "zip_member_datetime": [
+          2026,
+          8,
+          20,
+          15,
+          9,
+          32
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "234a4b57"
+      },
+      {
+        "name": "6 Month Report Jan-June 2026 (3).pdf",
+        "bytes": 253791,
+        "sha256": "48a3e2048721d492632510244ca1af61f4b2b562f727c3bc25d6a0a6e969d71b",
+        "zip_member_datetime": [
+          2026,
+          8,
+          20,
+          15,
+          9,
+          32
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "2c0c6112"
+      },
+      {
+        "name": "January 01-June 30 2025.pdf",
+        "bytes": 347639,
+        "sha256": "dcc8e808ce25520a7bee85a6b7f7803f97211e0aa57ce40c1ed719da754f7b6c",
+        "zip_member_datetime": [
+          2026,
+          8,
+          20,
+          15,
+          9,
+          32
+        ],
+        "zip_time_zone": "unspecified",
+        "crc32": "16a0cffb"
+      }
+    ],
+    "title": "Records_Request_Download_PDFOI-2026-3250_2026-08-20--15-09-32.zip",
+    "summary": "Saved PDFOI-2026-3250 download ZIP bearing August 20 filename timestamp. Exactly three PDFs; all three extracted copies match archive member hashes. January-June 2026 member also matches the first production. ARAP graphic is not a ZIP member.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "acquisition container",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-028.zip"
+  },
+  {
+    "id": "LR-029",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "bytes": 103111,
+    "sha256": "bab609008c803192e5516c32da0436b02425c39309286ec71a32bc563f87a291",
+    "filesystem_created": "2026-10-09T16:29:32.875114+00:00",
+    "filesystem_modified": "2026-10-09T16:29:32.875114+00:00",
+    "received_date": null,
+    "pages": 2,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 157.0.1",
+      "/CreationDate": "D:20261009112931-05'00"
+    },
+    "title": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3250_ Confirmation.pdf",
+    "summary": "Second print/export of the same August 18 PDFOI-2026-3250 confirmation as LR-021. Footer October 9 at 11:29 AM. Different file hash reflects a different export, not a second request or new agency receipt.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "PDFOI-2026-3250",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-029.pdf"
+  },
+  {
+    "id": "LR-030",
+    "collection": "D:\\Flock stuff\\Little Rock",
+    "relative_path": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3952_ Confirmation.pdf",
+    "source_path": "D:\\Flock stuff\\Little Rock\\Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3952_ Confirmation.pdf",
+    "bytes": 104990,
+    "sha256": "231065034102cc285724e82a8230ddb198211fce252c568462c3a8d79143c4e6",
+    "filesystem_created": "2026-10-09T16:28:31.364125+00:00",
+    "filesystem_modified": "2026-10-09T16:28:31.363101+00:00",
+    "received_date": null,
+    "pages": 2,
+    "pdf_metadata": {
+      "/Producer": "cairo 1.18.4 (https://cairographics.org)",
+      "/Creator": "Mozilla Firefox 157.0.1",
+      "/CreationDate": "D:20261009112830-05'00"
+    },
+    "title": "Gmail - City of Little Rock Police Department - Little Rock Police FOIA Requests PDFOI-2026-3952_ Confirmation.pdf",
+    "summary": "Saved Gmail print of JustFOIA confirmation for PDFOI-2026-3952. Displayed message October 7 at 10:15 AM; print footer October 9 at 11:28 AM. Requests misuse findings, underlying logs, disciplinary/finality records, fuller July 3 audit, prior policy and public statements. Its 28-search description identifies requested records and expressly avoids assuming accuracy. Confirmation is not proof of misconduct or disciplinary outcome.",
+    "document_date": null,
+    "archive_membership": [],
+    "source_class": "correspondence export",
+    "request_id": "PDFOI-2026-3952",
+    "receipt_status": "exact receipt unverified",
+    "receipt_evidence": [],
+    "duplicates": [],
+    "publication_approved": false,
+    "redaction_status": "pending publication review",
+    "package_copy": "private/records/LR-030.pdf"
+  }
+]

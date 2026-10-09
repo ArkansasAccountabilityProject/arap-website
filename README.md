@@ -1,55 +1,22 @@
-# ARAP Website Version 3.8
+# Arkansas Accountability Project LRPD ALPR evidence library
 
-Official website source for the Arkansas Accountability Project.
+Prepared October 9, 2026 from the two user-confirmed local Little Rock collections. This package contains a source index, original-byte preservation copies, provenance and hash information, chronology, summaries, discrepancies, redaction review and local website pages. Nothing was published or changed on the live website.
 
-## Architecture
+## Open first
 
-- Static website files: `public/`
-- Worker entry point: `src/index.js`
-- Cloudflare deployment: `wrangler.jsonc`
-- Public downloads bundled under `public/downloads/`
+- `website-ready/index.html`: offline review pages with primary-record catalogue, receipt chronology, ARAP analysis and reporting boundaries.
+- `private/source-index.csv` and `private/source-index.json`: complete internal inventory with original absolute paths, file metadata, archive membership and SHA-256 hashes.
+- `private/records/`: byte-for-byte preservation copies. This directory contains sensitive details and is not a deployment directory.
+- `receipt-date-verification.md`, `chronology.csv`, `discrepancy-log.csv`, `redaction-review.md`: qualifications and release review.
 
-## Version 3.8
+## Scope and provenance
 
-Version 3.8 publishes two source-linked features. “The Haystack Problem” compares the August 5, 2026 Southern District of Mississippi tower-dump ruling with networked ALPR oversight questions while keeping the legal and technological differences explicit. The page includes unchanged public copies of Documents 6, 37, and 41 from Case No. 3:25-cr-00038-CWR-ASH and publication checksums.
+30 included files: 10 first-production PDFs and their ZIP; 3 second-production PDFs and their ZIP; 7 correspondence/draft files; 6 local screenshot derivatives; 2 copies of an ARAP analysis graphic. Two byte-identical pairs reduce the included files to 28 distinct byte streams. LR-021 and LR-029 are different exports of the same confirmation email and should not be counted as separate requests. Six newly supplied Snarky Media contextual screenshots are excluded from this package by user instruction. No source was edited, renamed or deleted.
 
-“Sherwood’s Written Privacy Policy vs. Two Documented Data Releases” compares Policy 11.08.00 with CITY-2026-112 and CITY-2026-140. Six reviewed public-source images are included. All plate values remain redacted, and the original outcome CSV and vehicle-image production are excluded.
+Hashes establish byte identity at inventory; they do not establish authenticity, authorship, original creation date or first possession. Original ZIP member hashes tie the supplied PDFs to their saved download containers. Added local images and the ARAP graphic are not ZIP members and are labeled separately. The saved PDF correspondence is evidence of displayed content; raw EML/MBOX messages and full delivery headers were not supplied. A connected-mailbox search of request identifiers returned no results and cannot prove that messages do not exist in another mailbox.
 
-Version 3.8 also cross-links the new publications from the home page, Publications index, Sherwood jurisdiction page, Evidence Repository, and redacted Sherwood travel-pattern explorer. The sitemap, changelog, release notes, version metadata, and deployment checklist are updated.
+## Publication state
 
-## Version 3.7
+The website-ready directory contains five static HTML pages, shared styling and a public-safe source index. It has no original records, private paths, security keys, context screenshots, analytics, forms or deployment scripts. It is a reviewable content package, not an applied patch to the existing site. Primary downloads are marked pending review. Every record has `publication_approved: false` in the internal index. Do not upload the private directory or the entire evidence ZIP.
 
-Version 3.7 adds two Sherwood source records concerning statutory reporting and documentation responsibilities. H-084 contains the March 13 internal email, attached Arkansas ALPR statutes, and draft Policy 11.08.00. H-085 contains the August 13 CITY-2026-140 response acknowledging unavailable historical statistics and deficiencies in reporting and recordkeeping procedures; requester contact details are permanently redacted in the public copy.
-
-The Sherwood page places the two records in chronological order, identifies the reporting assignment in the draft, asks at what level of city government responsibility should rest, and preserves limits against inferring review, intent, individual fault, legal liability, or successful corrective action from the records alone.
-
-## Version 3.6
-
-Version 3.6 adds a redacted Sherwood ALPR travel-pattern explorer based on an 80-row June 2026 export. The public page provides an interactive date and pattern map, reproducible methodology, explicit inference limits, a redacted analysis workbook, and a downloadable standalone map. The plate is removed and the underlying source CSV is not republished.
-
-The release also updates the home page, Publications index, Sherwood jurisdiction page, sitemap, release notes, and deployment checklist.
-
-## Version 3.5
-
-Version 3.5 publishes ALPR audit evaluations for Sherwood, Cabot, Jacksonville, Little Rock, and Pulaski County; regional audit and policy comparisons; an evidence manifest; a machine-readable repository index; and SHA-256 publication checksums. Jurisdiction pages and repository status labels now link directly to the public evaluations.
-
-Raw search and network audit records containing names, email addresses, plates, query details, or operational identifiers are not republished in this release. The evidence manifest records their filenames, hashes, and public-handling status.
-
-## Version 3.4
-
-Version 3.4 expands the Sherwood repository with the July 11–August 9, 2026 public search audit, a reproducible analysis workbook, FOIA-custody correspondence, a corrected supplemental legislative review, contract records, installation and retention correspondence, contemporaneous web screenshots, and a downloadable evidence register with SHA-256 hashes and limitations.
-
-Evidence IDs were reconciled so H-064 remains the March 11 Sherwood public statement and H-065 remains the public search audit. CITY-2026-130 records now use H-066/H-067, while the supplemental review remains H-078. H-067 is indexed but not distributed because the produced copy still requires additional requester/contact-information redaction.
-
-## Earlier releases
-
-- Version 3.3 published the complete ARAP-PUB-2026-003 Sherwood Council Briefing Book Version 2.1 and archived Version 2.0.
-- Version 3.2 added the Sherwood Council Briefing Book and Resident Information Packet.
-- Version 3.1 added the public-reference legislative review landing page and packet.
-- Version 3.0 established the standardized statewide evidence-repository framework.
-
-## Deployment
-
-Commit the contents of this package to the existing `arap-website` Git repository. Cloudflare Workers Builds should deploy the `main` branch automatically.
-
-Preserve the repository's existing `.git` directory. This release package intentionally does not contain `.git`.
+Remaining evidence gaps are documented rather than silently filled: exact incoming production timestamps, original 2025 policy, answer to the August clarification, underlying audit/search records, and authoritative Dishman/CLEST disposition. No legal noncompliance or first-to-publish finding is made.

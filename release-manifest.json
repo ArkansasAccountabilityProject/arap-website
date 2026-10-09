@@ -1,0 +1,14 @@
+{
+  "status": "NOT APPROVED FOR PUBLICATION",
+  "live_site_changed": false,
+  "website_directory": "website-ready",
+  "private_directory": "private",
+  "record_downloads_in_website": false,
+  "excluded_context_screenshots": true,
+  "requirements": [
+    "Explicit approval for exact content and target website",
+    "Completed redaction review for any future record downloads",
+    "Verified receipt wording retained",
+    "Third-party attribution retained"
+  ]
+}
