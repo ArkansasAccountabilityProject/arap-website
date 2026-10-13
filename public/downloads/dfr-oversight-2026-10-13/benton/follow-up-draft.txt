@@ -1,0 +1,68 @@
+# Benton DFR records follow-up
+
+Pursuant to the Arkansas Freedom of Information Act, I request electronic copies of the following existing records concerning the City of Benton / Benton Police Department BRINC–Motorola Drone as First Responder program. This supplements my October 1, 2026 request.
+
+For contracts, approvals, and procurement, please include December 1, 2025 through the date this request is processed. For installation, training, operations, access, and integrations, please include January 1, 2026 through the processing date. This request seeks existing records, not the creation of a new analysis.
+
+## 1. Executed agreements, trial dates, and approvals
+
+- The fully executed Products Agreement and proposal/quote 3294794, including all incorporated Motorola Customer Agreement terms, Takeoff Program addenda, amendments, and referenced proposal revisions.
+- The fully executed Trial Service Agreement signed on the City side September 28, 2026, including Motorola's returned signature, related September 30 and subsequent correspondence, and any alternative or superseding version.
+- Existing records identifying the trial commencement date, expiration date, cancellation-notice provisions, acceptance date, and any proposed continuation or post-trial price.
+- Records submitted to or considered by the September 15, 2026 Finance Committee and September 28, 2026 City Council concerning the contract and drone program, including presentations, staff reports, minutes, resolutions, approvals, and legal review records subject to applicable disclosure requirements.
+
+## 2. Costs and payments
+
+- Purchase orders, invoices, payment vouchers, ledger entries, checks or electronic-payment records, credits, reimbursements, and cost-allocation records for the program.
+- Payment/disposition records for Brad Glover Electric invoice 8079; Ultimate Communications invoice 15809; Bill Wright Construction's September 3, 2026 pad/fencing invoice; and Southern Software invoice 26344 / PO 20262069.
+- Records of crane and tower-climber charges, utility/public-works infrastructure labor and materials, networking and recurring connectivity costs, and the source of funds used.
+- Existing records of vendor-provided, donated, discounted, or sponsored equipment and services, including any Guardian aircraft or related infrastructure.
+
+## 3. Native flight and mission records
+
+- Benton flight-summary and mission exports, including installation, validation, training, demonstration, and operational flights. Please provide readily available fields for flight ID, aircraft/device ID, aircraft model, pilot/crew roles, start/end time, timezone, duration, launch/recovery site, mission classification, incident/case/CAD identifier, purpose, and recording status.
+- Existing route/track, altitude, telemetry, lost-link, return-to-home, and flight-validation records, including the August installation tests and August 18 MOU-related testing.
+- Monthly total flight-time records, UAS Flight Forms / UAS Mission Reports, supervisory review records, and retained flight logs for DJI or other aircraft used under the same agency program or FAA authority.
+
+If full identifiers or operational details are withheld, please provide the nonexempt portions. Where an existing stable pseudonymous identifier is available, preserving it consistently across records would allow the records to be reconciled.
+
+## 4. Authority, personnel, training, and safety
+
+- The complete CONOPS and supporting documents referenced in the March 9, 2026 FAA Form 7711-2 application; FAA correspondence; current waiver/authorization records; subsequent applications, approvals, denials, or revisions concerning multiple aircraft per remote pilot or “many-to-one” operations.
+- Current and historical aircraft registration/inventory lists and pilot rosters, agency pilot-certification/qualification records, relevant Part 107 qualification records, and documentation of crew roles for vendor test flights.
+- September 8–10 course attendance, syllabi, actual instructional hours, signed flight-skills checklists, completion records, and recurrent-training/currency records documenting the five-flights-per-60-days requirement.
+- Existing night-training, hazard-checklist, ADS-B receiver/testing/availability, parachute, incident, loss-of-control, and close-approach records and associated reports.
+- Records identifying and resolving the two faulty batteries noted in the August installation sign-off, including replacement, return, removal-from-service, and subsequent test records.
+- BRINC's installation/validation acceptance records and records identifying agency representatives present during vendor test/validation flights.
+
+## 5. Governing policy, privacy, and retention
+
+- The adopted/current Policy 1014 and DFR SOP 1014-1, each revision and adoption/approval date, employee acknowledgments, and records identifying which version governed when the DFR program launched.
+- Policy 1101 and other existing policies addressing drone evidence, non-evidentiary recordings, retention/deletion, access auditing, disclosure/sharing, warrants, consent, and documented warrant exceptions.
+- Existing deployment-authorization and supervisory-audit records, and records of retention, deletion, recording, and upload settings and their changes.
+
+## 6. Access and sharing audit records
+
+- LiveOps account inventories, account invitations and approvals, role/permission assignments and changes, and account suspension/deletion history, including fire personnel and vendor/support accounts.
+- Native authentication events, session records, flight/mission-page access, video playback, downloads/exports, and administrative audit logs with timestamps and timezone definitions.
+- ShareLink creation, expiration, revocation, recipient/distribution records already held, and link-access/view/download records, together with applicable sharing policies and approvals.
+- Customer-admin authorizations for BRINC support access and records of the resulting access.
+
+Please redact passwords, tokens, private keys, and other exempt authentication secrets while providing nonexempt audit and permission information.
+
+## 7. CAD integration and enabled capabilities
+
+- Existing configuration, field mappings, call-type/agency filters, export schemas, and validation records for police identifier BNPD and fire identifier BTNFD; records implementing and validating the September 2026 fire-call expansion.
+- The actual outgoing-data specifications and a readily available sanitized production example, including whether caller, person, vehicle/license-plate, narrative, unit-status, or unit-location fields are exported.
+- SFTP/server-folder implementation and change records, with credentials and other exempt secrets redacted.
+- Existing records identifying enabled or proposed integrations with Flock/ALPR, hotlists, Motorola platforms, Live911, Axon Evidence.com, Polaris, or other systems, and any automated alert-to-launch or dispatch workflow.
+- Current Responder-specific data-flow and retention documentation supplied to the agency, resolving any differences between the generic FAQ prose and diagrams.
+
+## 8. Sites, coverage, geofence, and transparency
+
+- Final/as-built installation and site-selection records for the Event Center, Police Department, and Fire Station 5; site-use agreements, permits, structural/roof approvals, safe-landing-zone records, and completed coverage/range tests.
+- Existing planning-map versions, source CFS date ranges, input data definitions, geocoding/deduplication rules, analysis scripts, ranking criteria, and coverage calculations underlying the February 2026 city-only map.
+- Current and historical geofence settings/boundaries and records explaining the County geofence, reduced-airspace-warning, limited-flight-data-access, recording, and log-offload settings in the installation sign-off.
+- Records identifying Benton's public transparency dashboard status, URL, configuration, approval, and any decision to enable, disable, or defer it.
+
+Please provide readily available native electronic formats, including email attachments. If portions are withheld or redacted, please identify the specific statutory basis and provide the remainder. For categories from my October 1 request that remain unprovided, please identify whether responsive records were located, withheld, or not located. Please provide a fee estimate before incurring charges.

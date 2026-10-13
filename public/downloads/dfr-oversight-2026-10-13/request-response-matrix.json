@@ -1,0 +1,172 @@
+{
+  "review_date": "2026-10-13",
+  "status_definitions": {
+    "documented": "Matching records identified; not a certification of complete production.",
+    "partial": "Matching records exist but do not resolve the full requested scope.",
+    "not-identified": "No matching standalone record identified in the reviewed set; not proof of nonexistence or unlawful withholding."
+  },
+  "benton": [
+    [
+      "Contracts, agreements and trial documents",
+      "All trial agreements, contracts, proposals, amendments and related documents, including the Finance Committee contract item.",
+      "Original three-site quote/Products Agreement; city-signed Trial Service Agreement; September 30 signature-request correspondence.",
+      "partial",
+      "Motorola countersignature, incorporated terms, the operative agreement, and trial start/end dates remain unverified.",
+      "Quote pp. 2-3; amendment p. 1; Sept. 30 emails."
+    ],
+    [
+      "Cost and financial records",
+      "Equipment, subscriptions, installation, infrastructure, networking, maintenance, training and future obligations; no-charge or discounted consideration.",
+      "Four local infrastructure/CAD invoices totaling $21,840.43; original six-year quote totaling $1,476,615.78 with estimated tax; crane-payment correspondence.",
+      "partial",
+      "Invoices are not payment proof. Full program cost, fund allocation, reimbursements and future pricing require confirmation.",
+      "Four invoices; quote p. 3; crane email pp. 2-3."
+    ],
+    [
+      "Communications and presentations",
+      "City/vendor communications and attachments, plus materials prepared for public officials concerning the program.",
+      "Planning, CAD, installation, training, waiver and amendment email chains; technical guides and customization material.",
+      "partial",
+      "The reviewed folder does not establish all responsive mailboxes, attachments, briefings or presentations were produced.",
+      "Received-file inventory; correspondence PDFs."
+    ],
+    [
+      "Policies and operating procedures",
+      "Current/proposed rules for launches, authorization, viewing, retention, access/audits, private property, automated launches and supervisory review.",
+      "Two Policy 1014 versions, one labeled Proposed; DFR qualifications SOP; training materials and installation settings.",
+      "partial",
+      "No adoption instrument identifies the version governing at launch. Specific retention, sharing and access-review rules remain unresolved.",
+      "Policy 1014; Proposed Policy 1014; SOP 1014-1."
+    ],
+    [
+      "System integrations",
+      "Current/proposed CAD/911, Flock/ALPR, vehicle alerts, Motorola, RTCC, automated launch and other system integrations.",
+      "Integration questionnaire, XML examples and vendor documentation; police CAD implementation in May and fire-CAD configuration in September.",
+      "partial",
+      "Production field scope and filters need confirmation. Generic capability references do not prove activated Flock/ALPR, Axon or autonomous-launch integrations.",
+      "CAD email pp. 1-3, 6; questionnaire; XML examples."
+    ],
+    [
+      "Equipment and deployment",
+      "Number/model of drones, docks, sites, cameras/sensors and software supplied or proposed.",
+      "Three-site quote; candidate-site survey; installation sign-off; equipment markings and related correspondence.",
+      "documented",
+      "PD, Event Center and Fire Station 5 are installed sites in the records. Earlier school/utility candidates do not establish deployment there.",
+      "Site survey; installation sign-off pp. 1-8."
+    ],
+    [
+      "FAA authorization",
+      "Waivers, authorizations, applications and correspondence concerning BVLOS and related operations.",
+      "Part 91 waiver 91.113-2026-00277, application, signed checklist, declaration letter, test MOU and correspondence.",
+      "documented",
+      "Authority is conditional. The many-to-one discussion is a request, not a Benton approval in this set.",
+      "Waiver pp. 1-6; MOU; Aug. 18 email."
+    ],
+    [
+      "September 15 / September 28 proceedings",
+      "Materials provided to or created for the Finance Committee contract discussion and City Council Drone Program Report.",
+      "Related contract and program records were provided.",
+      "not-identified",
+      "No separately identified agenda packet, minutes, presentation or council-approval instrument was found in the 54-file folder. This is a review finding, not proof no record exists.",
+      "Oct. 1 request pp. 1-2; received-file inventory."
+    ],
+    [
+      "Electronic/native format and withholding explanations",
+      "Readily available native formats, email attachments, segregable portions and statutory bases for redactions; identification when a category has no located records.",
+      "50 PDFs, one XLSX, two XML files and one HTML map were reviewed.",
+      "partial",
+      "Some PDFs are scanned or printed copies. The set does not independently establish export completeness, searches performed or every withholding explanation.",
+      "Oct. 1 request pp. 2-3; received-file inventory."
+    ]
+  ],
+  "sherwood": [
+    [
+      "Flight and mission logs",
+      "Every launch/attempt; times, duration, event/case, dock, destination, pilot/user, deployment reason and outcome.",
+      "218 flight-summary rows with dates/times, duration, User, launch address and call classifications; two zero-duration rows.",
+      "partial",
+      "IDs, Location and Case ID are redacted; six call types are blank. Destinations, initiation and outcomes cannot be reconciled from these fields.",
+      "Flight Summary Log pp. 1-6."
+    ],
+    [
+      "Launch / system lifecycle activity",
+      "Launches, deployments, missions, attempted/aborted launches, cancellations, returns and completed flights.",
+      "Flight summary and page-access activity are available.",
+      "partial",
+      "The \u201cFlight Log\u201d measures page visits. No separate launch/abort/cancellation lifecycle export was identified.",
+      "Flight Summary; Flight Log pp. 1-10."
+    ],
+    [
+      "CAD and initiation method",
+      "Associated calls/incidents and whether deployment was automatic, dispatcher-, officer-, pilot- or otherwise initiated.",
+      "No associated CAD/dispatch export identified in the four-file production.",
+      "not-identified",
+      "Initiation method, authorizations and call-to-flight links require underlying records.",
+      "Request pp. 1-2; portal attachment list."
+    ],
+    [
+      "Initiation, authorization and crew roles",
+      "Who initiated, approved, piloted, supervised or remotely assisted each flight where recorded.",
+      "Summary User names and logged account identifiers.",
+      "partial",
+      "A User field does not independently establish pilot-in-command or identify the approving/supervising person.",
+      "Flight Summary User column; Auth/Flight Log."
+    ],
+    [
+      "Telemetry and flight history",
+      "Flight paths, altitude, distance, duration, launch/landing coordinates and comparable flight-history exports.",
+      "Flight durations and visible launch addresses.",
+      "partial",
+      "No route/altitude/distance/coordinate telemetry export was identified. Launch address is not the surveillance footprint.",
+      "Flight Summary pp. 1-3."
+    ],
+    [
+      "Recording metadata",
+      "Capture, retention/deletion, upload/evidence transfer, incident linkage and livestream availability; not underlying video.",
+      "Video-related page-access events and ShareLink-creation records.",
+      "partial",
+      "These do not establish what was recorded, deleted, retained, transferred or actually watched. No complete recording-metadata export was identified.",
+      "Flight Log; ShareLink workbook."
+    ],
+    [
+      "Access and activity audit logs",
+      "Users, timestamps, actions and access to missions, live/recorded video, flight histories and mission records.",
+      "Authentication log, 562 page-access events, and 12 ShareLinks with creation/expiration/status fields.",
+      "partial",
+      "28 page visits lack exit/duration values. ShareLink recipients, viewers and downloads are not shown. Redacted identifiers prevent reliable flight-to-link matching.",
+      "Auth Log; Flight Log; ShareLink workbook."
+    ],
+    [
+      "Safety exceptions",
+      "Failed launches, emergency landings, communication/GPS/navigation failures, geofence/airspace/Remote ID events and collisions/near collisions.",
+      "No dedicated safety-exception or incident export identified.",
+      "not-identified",
+      "Zero-duration entries alone do not prove an aborted launch or safety failure. Ask for existing exception records or a no-records explanation.",
+      "Request p. 2; Flight Summary zero rows."
+    ],
+    [
+      "FAA / weather / airspace restrictions",
+      "Flights delayed, cancelled, rerouted or prevented by authorization, controlled airspace, BVLOS, weather, airports/TFRs or other restrictions.",
+      "No associated restriction-event export identified in this production.",
+      "not-identified",
+      "This update does not determine altitude/airspace compliance or whether any restriction event occurred.",
+      "Request p. 2; four-file inventory."
+    ],
+    [
+      "Activity and outcome reports",
+      "Existing periodic/system reports of launches, hours, response times, calls, cancellations, searches, arrests and other attributed outcomes.",
+      "Flight-summary detail allows ARAP to calculate approximate airtime and entry counts.",
+      "partial",
+      "ARAP calculations are not agency outcome reports. No response-time, arrest/apprehension or mission-outcome report was identified.",
+      "Request p. 2; Flight Summary."
+    ],
+    [
+      "Native format / preservation / rolling production",
+      "Readily available native exports; preservation of rolling records; retention periods/earliest available date; incremental release and withholding explanations.",
+      "One XLSX and three PDFs; portal shows Completed and four uploads dated Oct. 9.",
+      "partial",
+      "Portal descriptions refer to underlying XLSX Flight/Auth logs, but public attachments are PDFs. Native copies, completeness/retention and category-specific explanations remain follow-up questions.",
+      "Request pp. 2-3; portal pp. 3-4."
+    ]
+  ]
+}

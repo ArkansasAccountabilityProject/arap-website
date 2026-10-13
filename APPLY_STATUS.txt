@@ -1,0 +1,18 @@
+Prepared: October 13, 2026
+Target: D:\ARAP\arap-website
+
+NOT APPLIED / NOT DEPLOYED
+
+The session could read the website files but filesystem permissions blocked backup-directory creation before any payload files were copied.
+
+Verified: all six existing target-file baseline hashes remain unchanged; none of the proposed new target files exist in the target repository.
+
+Completed: five new pages, nine Benton request comparison areas, eleven Sherwood comparison areas, both public request transcripts, source-linked graphics/downloads, six focused entry-point/sitemap updates, and an offline review copy.
+
+Checks passed: 128 local links; HTML/transcript equivalence; public-copy privacy-string scan; image alt text/duplicate IDs; sitemap parsing; JavaScript syntax; functional filtering/live counts; package SHA-256 hashes.
+
+Apply helper tested in a workspace copy: 33 files copied and verified, six baseline backups verified, and a repeated apply made no changes.
+
+Browser layout unverified: local socket access and offline-file browser navigation were blocked by session policies.
+
+Next local step: extract the update ZIP, review offline-review\Open-DFR-Review.html, and double-click Apply-Local-Update.cmd to apply to the named local repository. Then use the site's existing deployment workflow.

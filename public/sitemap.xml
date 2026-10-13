@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-08-19</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-08-19</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/evidence-repository/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/publications/</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-audit-vs-accountability/</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-camera-geometry-multi-image-data/</loc><lastmod>2026-08-19</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/publications/alpr-audit-vs-accountability/</loc><lastmod>2026-08-19</lastmod></url>
@@ -20,7 +20,7 @@
   <url><loc>https://arkansasaccountabilityproject.org/about/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/contact/</loc></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/jacksonville/</loc><lastmod>2026-08-12</lastmod></url>
-  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-08-19</lastmod></url>
+  <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/cabot/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/</loc><lastmod>2026-08-12</lastmod></url>
   <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/pulaski-county/</loc><lastmod>2026-08-12</lastmod></url>
@@ -53,4 +53,4 @@
 <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/evidence-library/chronology.html</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/evidence-library/analysis/</loc><lastmod>2026-10-09</lastmod></url>
 <url><loc>https://arkansasaccountabilityproject.org/jurisdictions/little-rock/evidence-library/third-party/</loc><lastmod>2026-10-09</lastmod></url>
-</urlset>
+<url><loc>https://arkansasaccountabilityproject.org/publications/dfr-proactive-oversight/</loc><lastmod>2026-10-13</lastmod></url><url><loc>https://arkansasaccountabilityproject.org/jurisdictions/benton/dfr/</loc><lastmod>2026-10-13</lastmod></url><url><loc>https://arkansasaccountabilityproject.org/jurisdictions/sherwood/dfr/</loc><lastmod>2026-10-13</lastmod></url><url><loc>https://arkansasaccountabilityproject.org/publications/dfr-proactive-oversight/requests/benton/</loc><lastmod>2026-10-13</lastmod></url><url><loc>https://arkansasaccountabilityproject.org/publications/dfr-proactive-oversight/requests/sherwood/</loc><lastmod>2026-10-13</lastmod></url></urlset>

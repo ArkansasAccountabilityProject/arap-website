@@ -1,22 +1,43 @@
-# Arkansas Accountability Project LRPD ALPR evidence library
+# ARAP Benton + Sherwood DFR website update
 
-Prepared October 9, 2026 from the two user-confirmed local Little Rock collections. This package contains a source index, original-byte preservation copies, provenance and hash information, chronology, summaries, discrepancies, redaction review and local website pages. Nothing was published or changed on the live website.
+Prepared October 13, 2026 against `D:\ARAP\arap-website`. This package adds the combined preventive-oversight publication, two city investigation pages, both submitted FOIA request transcripts, category-by-category request/production comparisons, source-linked graphics, and selected downloads.
 
-## Open first
+**Application status:** This session's filesystem permissions blocked creation of the required backup directory in `D:\ARAP\arap-website`. The six existing website files were verified unchanged and none of the proposed new target files were present. The local repository and live website have not been updated by this session. The same helper was successfully tested in a workspace copy: all 33 copied-file hashes and six original backup hashes matched; repeating the apply made no changes.
 
-- `website-ready/index.html`: offline review pages with primary-record catalogue, receipt chronology, ARAP analysis and reporting boundaries.
-- `private/source-index.csv` and `private/source-index.json`: complete internal inventory with original absolute paths, file metadata, archive membership and SHA-256 hashes.
-- `private/records/`: byte-for-byte preservation copies. This directory contains sensitive details and is not a deployment directory.
-- `receipt-date-verification.md`, `chronology.csv`, `discrepancy-log.csv`, `redaction-review.md`: qualifications and release review.
+## Review first
 
-## Scope and provenance
+Open `offline-review/Open-DFR-Review.html` in a browser. Its local navigation leads to both city pages and the request transcripts. Older website routes not included in the offline copy point to the existing ARAP domain. The offline copy is a review aid, not the deployment payload.
 
-30 included files: 10 first-production PDFs and their ZIP; 3 second-production PDFs and their ZIP; 7 correspondence/draft files; 6 local screenshot derivatives; 2 copies of an ARAP analysis graphic. Two byte-identical pairs reduce the included files to 28 distinct byte streams. LR-021 and LR-029 are different exports of the same confirmation email and should not be counted as separate requests. Six newly supplied Snarky Media contextual screenshots are excluded from this package by user instruction. No source was edited, renamed or deleted.
+Live-server browser QA was blocked by this session's socket restrictions; the in-app browser timed out. Browser security policy also blocks `file:` previews in this tool. Static source/link/privacy checks and functional category-filter checks passed. The offline copy can be reviewed manually in your local browser; a desktop/mobile visual review remains appropriate before deployment.
 
-Hashes establish byte identity at inventory; they do not establish authenticity, authorship, original creation date or first possession. Original ZIP member hashes tie the supplied PDFs to their saved download containers. Added local images and the ARAP graphic are not ZIP members and are labeled separately. The saved PDF correspondence is evidence of displayed content; raw EML/MBOX messages and full delivery headers were not supplied. A connected-mailbox search of request identifiers returned no results and cannot prove that messages do not exist in another mailbox.
+## Apply locally
 
-## Publication state
+Extract the ZIP into its own folder. Double-click `Apply-Local-Update.cmd`, or run `Apply-DFRWebsiteUpdate.ps1` in PowerShell. The default destination is `D:\ARAP\arap-website`.
 
-The website-ready directory contains five static HTML pages, shared styling and a public-safe source index. It has no original records, private paths, security keys, context screenshots, analytics, forms or deployment scripts. It is a reviewable content package, not an applied patch to the existing site. Primary downloads are marked pending review. Every record has `publication_approved: false` in the internal index. Do not upload the private directory or the entire evidence ZIP.
+The apply script verifies every package hash and the baseline hash for each replaced website file before changing anything. It stops if the local website changed or a proposed new file exists with different content. It backs up replaced files under `.arap-update-backups`, copies only the 33 listed `public/` files, and verifies their hashes afterward. Reapplying an identical completed update makes no changes.
 
-Remaining evidence gaps are documented rather than silently filled: exact incoming production timestamps, original 2025 policy, answer to the August clarification, underlying audit/search records, and authoritative Dishman/CLEST disposition. No legal noncompliance or first-to-publish finding is made.
+This is a local file update only. The helper does not commit, push, deploy, change access, register a new Sites project, modify the Worker, or replace Cloudflare hosting configuration. After reviewing the applied pages, use the existing ARAP deployment workflow.
+
+## New routes
+
+- `/publications/dfr-proactive-oversight/`
+- `/jurisdictions/benton/dfr/`
+- `/jurisdictions/sherwood/dfr/`
+- `/publications/dfr-proactive-oversight/requests/benton/`
+- `/publications/dfr-proactive-oversight/requests/sherwood/`
+
+Homepage, publications index, evidence-repository index, Benton jurisdiction page, Sherwood jurisdiction page, and sitemap receive focused entry-point updates. Existing prior content is preserved.
+
+## Evidence and publication boundaries
+
+- Benton comparison: nine scope/production-format areas from the October 1 request, matched against the 54-file folder. Additional flight/access requests are clearly identified as separate proposed follow-up; the draft is not represented as submitted.
+- Sherwood comparison: eleven scope/production-format areas from CITY-2026-189, submitted October 7. The portal print shows Completed and four uploads dated October 9. Upload/status dates are not equated with first receipt or complete fulfillment.
+- The public request transcripts preserve substantive scope while removing requester home-address/birth-date/contact fields and account/portal navigation URLs. Paragraph breaks and extraction ligatures are normalized; the requests are not rewritten or expanded.
+- Four supplied Sherwood log files retain the agency's original redactions; webpage labels distinguish page visits from flights and configured link windows from actual viewing.
+- Benton raw originals and the complete raw folder are not added to the public payload. A filename/page-count/hash inventory and selected actual-document excerpt cards are provided instead.
+- Graphical captions are ARAP analysis. They are not agency findings or evidence of misconduct. “Not identified” means not identified in the reviewed record set.
+- Only `public/` is the live website payload. Do not deploy the offline-review directory, apply helpers, or private source folders.
+
+## Validation
+
+See `validation.json`: 128 local links checked; both HTML request bodies match the public transcript text; privacy-string exclusions, image alt text, duplicate IDs, sitemap parsing, and manifest hashes checked. The category filter/live count was verified for all options in both city matrices. Browser layout remains unverified in this session.

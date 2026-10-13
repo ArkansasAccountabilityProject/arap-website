@@ -1,52 +1,200 @@
 [
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/chronology.html",
+    "path": "public/assets/dfr-oversight-2026-10-13/benton/01-original-quote.png",
     "base_sha256": null,
-    "new_sha256": "53e70c21e7da68c97f1c06cb2ab9cc63c8618288e831cb40d276eab90ed2cb0a"
+    "new_sha256": "86b5706f843164831dbbdb3aba3807a3fd36045a56b09f90bf8aa49b52733f8f",
+    "bytes": 1039108
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/index.html",
+    "path": "public/assets/dfr-oversight-2026-10-13/benton/02-trial-agreement.png",
     "base_sha256": null,
-    "new_sha256": "7c4f38a964790eafef03d36cbbd137b356e82b5371de45d2e772d43bf40addf9"
+    "new_sha256": "fe4eaaaf564b55f28047a64a047300247b4e7c6642f1eb3b134170f7723ce8fa",
+    "bytes": 402711
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/style.css",
+    "path": "public/assets/dfr-oversight-2026-10-13/benton/03-electrical-invoice.png",
     "base_sha256": null,
-    "new_sha256": "d60546136fb4b83c821f8a92604397cf183fd6c0e6472a30e6acd02fae4b3688"
+    "new_sha256": "7e0d6f9ff4066625dc99225c26ca498240f4215f8e5706bd75f942c3e796339a",
+    "bytes": 195265
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/analysis/index.html",
+    "path": "public/assets/dfr-oversight-2026-10-13/benton/04-public-announcement.png",
     "base_sha256": null,
-    "new_sha256": "017c99d81fb62a9105fd790255f63ac1a1b119711c1424038c1f0d9cf3e507a3"
+    "new_sha256": "fe54f3db89438c355737e8cf4f5b85e27394d679826e364bcd682b7700852036",
+    "bytes": 558065
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/data/source-index.json",
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/01-flight-totals.png",
     "base_sha256": null,
-    "new_sha256": "be590cb8e9641b8d3c4911cbaa0c943fed8f982d753aec37337125bd5bc986ea"
+    "new_sha256": "9521bddf2b05f39a6e6ceacfb6f982248985a6fff1175ceac5fcff78942935c8",
+    "bytes": 123393
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/records/index.html",
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/02-mission-classifications.png",
     "base_sha256": null,
-    "new_sha256": "68b75eb53e16437aec45ead5f489fa78613bd6c9433708e8baa74020646825b5"
+    "new_sha256": "24fb8d3811e1cb28289876549f45fca298a36ee56f4fe0f52ec7bc1139ab6b76",
+    "bytes": 354154
   },
   {
-    "path": "public/jurisdictions/little-rock/evidence-library/third-party/index.html",
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/03-launch-locations.png",
     "base_sha256": null,
-    "new_sha256": "a996941d13e8f46ca074a8f8641bed3a0bcb5902ffffde7de6a9b4ca4ce25a93"
+    "new_sha256": "391b26b40209eb57ffd1a3944b029a5128492697b2de7937e754058b0aac031f",
+    "bytes": 435194
+  },
+  {
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/04-page-access.png",
+    "base_sha256": null,
+    "new_sha256": "0b53f5ac9842bdb040729ce963a40bdaaa2545a68660bc23470ea9fa723f5957",
+    "bytes": 536570
+  },
+  {
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/05-sharelinks.png",
+    "base_sha256": null,
+    "new_sha256": "865e34e71ff2ad6cbd5dd47b5f96a4baf7069683ea662b38fcef3013e4046dc2",
+    "bytes": 443673
+  },
+  {
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/06-authentication.png",
+    "base_sha256": null,
+    "new_sha256": "5dd8e801fcb38a26e1c7469ad980e876672f3453e09f5b37f2c4e3ea67fc15f1",
+    "bytes": 190582
+  },
+  {
+    "path": "public/assets/dfr-oversight-2026-10-13/sherwood/request-status.png",
+    "base_sha256": null,
+    "new_sha256": "81e7050caaf09ef44ca14efc4b303f80533d78e647b692425a04f93e35c899f4",
+    "bytes": 15249
+  },
+  {
+    "path": "public/assets/dfr-oversight.css",
+    "base_sha256": null,
+    "new_sha256": "0d91c16cde5b2815ae0ca7f5bb904de246c6c9f272b5a69141e7d0949f401a3d",
+    "bytes": 5135
+  },
+  {
+    "path": "public/assets/dfr-oversight.js",
+    "base_sha256": null,
+    "new_sha256": "3a84f62766c6844874733450f52c6fe3cf8785421323434e13e9616f195ca854",
+    "bytes": 578
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/benton/follow-up-draft.txt",
+    "base_sha256": null,
+    "new_sha256": "6b34d130e93742cf95ad64393856b02fc1ec9ab806d3d4c715bb954a128f9508",
+    "bytes": 8514
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/benton/received-file-inventory.json",
+    "base_sha256": null,
+    "new_sha256": "029bfd2dcd7bb8251191aa37e2736d6ec316a6c454c8d50804f7ae219fe95625",
+    "bytes": 12279
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/request-response-matrix.json",
+    "base_sha256": null,
+    "new_sha256": "ba4f2df70b7e1aea559932044f079cc28447fb4ad2ddde36728da4e6c18677c0",
+    "bytes": 10549
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/requests/BEN-DFR-REQUEST-20261001-PUBLIC-TEXT.txt",
+    "base_sha256": null,
+    "new_sha256": "e8bef5732708915d4d9b5087ece7d7b3187cd6760ec3ece505c341d5b07dca9b",
+    "bytes": 4533
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/requests/SHR-CITY-2026-189-REQUEST-20261007-PUBLIC-TEXT.txt",
+    "base_sha256": null,
+    "new_sha256": "807e6af5fc3934084b0c46256fa6c071800d994dba968e8eb390e16aa6ed0356",
+    "bytes": 6059
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/sherwood/SHR-DFR-AUTH-20261008-REDACTED.pdf",
+    "base_sha256": null,
+    "new_sha256": "735ec7787e6eb712bc00cb2f4b1650284dd6c9d23f8cf346300483827ee43bab",
+    "bytes": 163690
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/sherwood/SHR-DFR-FLIGHT-SUMMARY-20261007-REDACTED.pdf",
+    "base_sha256": null,
+    "new_sha256": "43369e928af1899584c3f203e8497ab5eeed7f42b1b92d3767e68014fa33d7a8",
+    "bytes": 1761893
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/sherwood/SHR-DFR-PAGE-ACCESS-20261008-REDACTED.pdf",
+    "base_sha256": null,
+    "new_sha256": "0c204febbadc329647b0473d0fb2c8642af86cb83c973a0b8f910c404c90441e",
+    "bytes": 82696
+  },
+  {
+    "path": "public/downloads/dfr-oversight-2026-10-13/sherwood/SHR-DFR-SHARELINK-20261008.xlsx",
+    "base_sha256": null,
+    "new_sha256": "a1a8eb6fee30437b071df14ba5054c44a08dffd16e4641f0a0932a3375b10c42",
+    "bytes": 10472
+  },
+  {
+    "path": "public/evidence-repository/index.html",
+    "base_sha256": "2fa77e77664c6243d7f1f3b43b2c7a019fa1ff1d1cd5a5dfd3a545bff1783609",
+    "new_sha256": "4a47bf67748acf0b1a883deefba76c3f62abfc4a8b7b40bfda8deae5b7e95823",
+    "bytes": 8827
   },
   {
     "path": "public/index.html",
-    "base_sha256": "51d03a2c9c288ce0f3d1db35e4f658140f312f01cf45dec395af9ca906717dc9",
-    "new_sha256": "4a7fa02cd4be0b211dbfd0ef0ecbc227e8e7c008bd1a6d0ed419cd2b2af8947a"
+    "base_sha256": "4a7fa02cd4be0b211dbfd0ef0ecbc227e8e7c008bd1a6d0ed419cd2b2af8947a",
+    "new_sha256": "42dcd340dee9432fd0892a9c41e93fa4e516af480dd11bdd43087547c4d7a5c0",
+    "bytes": 10259
   },
   {
-    "path": "public/jurisdictions/little-rock/index.html",
-    "base_sha256": "fbeac52d9859e3902e1d0e0d45eec16911dac756364111a4f09ab04d0f6738a4",
-    "new_sha256": "143e62a48acd41bb5639114859b11758d88bb8897c24c4eae53d157100b50630"
+    "path": "public/jurisdictions/benton/dfr/index.html",
+    "base_sha256": null,
+    "new_sha256": "c41674fcd5ae69865c912cf0f86eaeaba66b2d0463449f6fbad850a90ca68757",
+    "bytes": 18240
+  },
+  {
+    "path": "public/jurisdictions/benton/index.html",
+    "base_sha256": "a4a59788d8b8d4ff2e25cf79b975df23c64e2b557df82d320777c2b939497a59",
+    "new_sha256": "baa6b70dc2e061fbb73875546e60d04075fb2010cd25ba5e1597b72c5fd6fd8a",
+    "bytes": 6425
+  },
+  {
+    "path": "public/jurisdictions/sherwood/dfr/index.html",
+    "base_sha256": null,
+    "new_sha256": "f605f58eafdd05ec6c614a8b8af054654ccb957ee4aaacc00f0134b1edf73f40",
+    "bytes": 21092
+  },
+  {
+    "path": "public/jurisdictions/sherwood/index.html",
+    "base_sha256": "90f268989a5c35acd09d99f2f12c0dcd2e8e8cfe3f41da6d57c87e2563ce09cd",
+    "new_sha256": "39281c3394747c6bb2b6d5c3adb98717eb41b85c0c3f17c26d81f72700484db2",
+    "bytes": 28022
+  },
+  {
+    "path": "public/publications/dfr-proactive-oversight/index.html",
+    "base_sha256": null,
+    "new_sha256": "55887f9efe2d06dadf5c32ef1635d215a6a1848397a688c62da692484b9f07d1",
+    "bytes": 7874
+  },
+  {
+    "path": "public/publications/dfr-proactive-oversight/requests/benton/index.html",
+    "base_sha256": null,
+    "new_sha256": "066de2df61bed7e9af01c5946da4a20872ad34683c2b87b471ce2d1d4e031904",
+    "bytes": 7027
+  },
+  {
+    "path": "public/publications/dfr-proactive-oversight/requests/sherwood/index.html",
+    "base_sha256": null,
+    "new_sha256": "8479d0a520c66d4f315e2ec507049adb98bdd54bb703e90a8dea980a56f67f19",
+    "bytes": 8737
+  },
+  {
+    "path": "public/publications/index.html",
+    "base_sha256": "d933970b5526b1f8bfa9857ccc59c399e5c8920188febb57e200a10fbd018a5f",
+    "new_sha256": "fcb73b13762c807645bc421678aa20259443826a89baff08af58075f202f116e",
+    "bytes": 7846
   },
   {
     "path": "public/sitemap.xml",
-    "base_sha256": "32ccc1d338bf478596aad97c49d6035490aec5516fd3ab3b0245306ac48d2d40",
-    "new_sha256": "272256833c0f1e845e5c763a74718f5d8ac574bae104863bb32d5519e0cc3eb8"
+    "base_sha256": "272256833c0f1e845e5c763a74718f5d8ac574bae104863bb32d5519e0cc3eb8",
+    "new_sha256": "c85c502c46c1b7e68f2609741a4d3801a109097521f5979930b463ae5a4f7425",
+    "bytes": 8179
   }
 ]
