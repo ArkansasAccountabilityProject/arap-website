@@ -1,0 +1,70 @@
+{
+  "target": "D:\\ARAP\\arap-website",
+  "baseline": {
+    "public/jurisdictions/sherwood/index.html": "0c1b8a00116c524f39a5b3bb0e49a26446bb6f9311daaf3b0fe3bb508079948c",
+    "public/evidence-repository/index.html": "4a47bf67748acf0b1a883deefba76c3f62abfc4a8b7b40bfda8deae5b7e95823",
+    "public/sitemap.xml": "c85c502c46c1b7e68f2609741a4d3801a109097521f5979930b463ae5a4f7425"
+  },
+  "files": [
+    {
+      "path": "public/assets/sherwood-foia-reconciliation/register.css",
+      "sha256": "1b3b6762c10f752e29c2a64d7a087abcb54ddcf303e8f6115ea69846dfc5c824",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/assets/sherwood-foia-reconciliation/register.js",
+      "sha256": "7c0494fdf757a6b4d53b0fbdfd1f7ae2828e967e5519776265f348d01ef01155",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/category-register.csv",
+      "sha256": "412370d0b2127c9091b866ab15a5108a2ab670ad052630496b9ff2281bf3a9f0",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/FLOCK-SAFETY-SOLE-SOURCE-LETTER-2022.pdf",
+      "sha256": "c8b87cf490e82c024d525f216c3d313070cd343a1530bfb2c581c6ae234eb3cf",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/register.json",
+      "sha256": "01976b41353c69fb0108d5ac8f5e0d0f08ef23928ba343875358cc8e49aa3cb3",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/request-register.csv",
+      "sha256": "9fcf0a4d9f84a47ab91164c6ceecfa66671b637fc9340b24945ecdb9990f1a3b",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/review-notes.md",
+      "sha256": "41ffef89286ddf4963bc2f5cd1a220b778cd29e500397db5248deb86b764ca6b",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/foia-reconciliation/source-index.csv",
+      "sha256": "5422092d9fb53b18b83c986199f4ed2549bda15b02276331cfd65d09b65dfc27",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/evidence-repository/index.html",
+      "sha256": "48a484da01030066ee55c3d26257f532701d3a0eaa44fe93e12e69ef768de5e9",
+      "baseline_sha256": "9bbc8a7bb7090626ec627b5c2c13fded5b6909b1eb785c09488618d8539ca9da"
+    },
+    {
+      "path": "public/jurisdictions/sherwood/foia-reconciliation/index.html",
+      "sha256": "fd875a6bcd6de81230caeff5d238f7fc72f341ca9979eb82496a67c521d49138",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/jurisdictions/sherwood/index.html",
+      "sha256": "09435dd40bafaafaf0aec16b5b43426fa6b8eac87ba927e48c86c161035522a1",
+      "baseline_sha256": "81d98c0dbd449f67803432772649efcc4d27075dfa8c8d184740ae3c25efc31b"
+    },
+    {
+      "path": "public/sitemap.xml",
+      "sha256": "863b11b80dd8f59613d7a21720b0e5cb0f6ba79004ce06587988ab53115c5370",
+      "baseline_sha256": "f93c00d5600e353fc8ebbb7f8db4bbc7be60b0349787702b82f28dfb84426a16"
+    }
+  ]
+}
