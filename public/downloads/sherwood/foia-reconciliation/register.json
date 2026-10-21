@@ -1,0 +1,2762 @@
+{
+  "version": "1.0",
+  "reviewed": "2026-10-21",
+  "title": "Sherwood FOIA accuracy and completeness register",
+  "scope": "23 numbered requests located in the preserved archive, including CITY-104 located through CITY-113. Category labels are ARAP summaries, not verbatim request transcripts.",
+  "method": "Compare preserved request scope, response statements, dated productions, supplements and cross-request records. Not a live portal status check, legal compliance score or certification that every attachment has been reconciled.",
+  "requests": [
+    {
+      "id": "CITY-2026-28",
+      "number": 28,
+      "title": "Camera locations, costs, policy and statistics",
+      "submitted": "Not established; completion March 11, 2026",
+      "scope": "Camera count and locations, annual contract cost, ALPR policy and statistical data.",
+      "received": "March 11 completion email: $2,500 per reader annually; remaining cameras not yet operational; no policy documentation then, policy being developed.",
+      "assessment": "Historical response does not establish current policy absence. Later CITY-113 includes an ALPR Policy.pdf. Original file download not independently reconstructed.",
+      "history": "Completed email March 11",
+      "follow_up": "Historical response does not establish current policy absence. Later CITY-113 includes an ALPR Policy.pdf. Original file download not independently reconstructed.",
+      "sources": [
+        "Se5c18fc18c3c"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-28-01",
+          "category": "Camera count and locations",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Historical completion notice and later installation records.",
+          "unresolved_or_follow_up": "Reconstruct the actual March production and distinguish installed from operational cameras.",
+          "sources": [
+            "Se5c18fc18c3c"
+          ]
+        },
+        {
+          "id": "CITY-2026-28-02",
+          "category": "Annual contract cost",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "March notice states $2,500 per reader annually.",
+          "unresolved_or_follow_up": "Reconcile total cost, camera count and contract period; per-reader statement alone is not complete financial history.",
+          "sources": [
+            "Se5c18fc18c3c"
+          ]
+        },
+        {
+          "id": "CITY-2026-28-03",
+          "category": "Policy and statutory statistics",
+          "status": "City reports unavailable / no supporting documentation",
+          "records_identified": "March notice says no documented policy then and policy under development.",
+          "unresolved_or_follow_up": "Later March policy exists; identify historical six-month compilations separately.",
+          "sources": [
+            "Se5c18fc18c3c"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    },
+    {
+      "id": "CITY-2026-98",
+      "number": 98,
+      "title": "Past and current ALPR contracts",
+      "submitted": "2026-06-17",
+      "scope": "Current and past ALPR financial/operational contracts, January 2022 onward.",
+      "received": "June 23 download: 2 redacted Flock agreement PDFs. June 17 internal response says only two Flock contracts held.",
+      "assessment": "Confirm amendments, renewals and attachments are included; two files do not independently establish full contractual history.",
+      "history": "Production present; completeness not established",
+      "follow_up": "Confirm amendments, renewals and attachments are included; two files do not independently establish full contractual history.",
+      "sources": [
+        "S87cf090f18d8"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-98-01",
+          "category": "Contracts since January 2022",
+          "status": "Relevant records identified",
+          "records_identified": "Two agreement PDFs; Hicks confirms two contracts held.",
+          "unresolved_or_follow_up": "Relevant contracts identified; this does not certify every exhibit/amendment was preserved.",
+          "sources": [
+            "S87cf090f18d8"
+          ]
+        },
+        {
+          "id": "CITY-2026-98-02",
+          "category": "Incorporated terms and amendments",
+          "status": "Format / attachment verification",
+          "records_identified": "Earlier agreement and later order form.",
+          "unresolved_or_follow_up": "Identify dated terms incorporated by URL, all amendments and renewal records.",
+          "sources": [
+            "S87cf090f18d8"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-98",
+          "archive": "Records_Request_Download_CITY-2026-98_2026-06-23--07-56-32.zip",
+          "sha256": "9f6d14923244c6d4fcc83de7fe63eae912ae7a231f3b014ed61761449443366a",
+          "files": 2,
+          "formats": {
+            ".pdf": 2
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-103",
+      "number": 103,
+      "title": "ALPR vendor and acquisition emails",
+      "submitted": "2026-06-23",
+      "scope": "All email communication from any City employee with Flock or another ALPR company regarding purchase, use, installation, locations and contracts; June 23 confirmation verified through Gmail.",
+      "received": "35 entries in July 10 ZIP: permit/ROW records, seven Flock Emails PDFs, installation correspondence and one MSG. June 25 city email confirms omitted Permit Department emails were added after reopening.",
+      "assessment": "Production and supplementation documented; June 25 City message expressly acknowledges and corrects Permit Department attachment omission. Search completeness is a separate question.",
+      "history": "Completed June 23, reopened/supplemented and completed June 25",
+      "follow_up": "Reconcile native attachments and searched departments; acknowledge corrected Permit Department omission.",
+      "sources": [
+        "S68e6b81f5840",
+        "S6e521105bfac"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-103-01",
+          "category": "ALPR acquisition and installation communications",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "July 10 ZIP includes permit, ROW, installation and vendor-email compilations.",
+          "unresolved_or_follow_up": "Verify custodian coverage against original submitted request.",
+          "sources": [
+            "S68e6b81f5840",
+            "S6e521105bfac"
+          ]
+        },
+        {
+          "id": "CITY-2026-103-02",
+          "category": "Permit Department correspondence",
+          "status": "Relevant records identified",
+          "records_identified": "June 25 City completion says omitted Permit Department emails are now attached.",
+          "unresolved_or_follow_up": "Historical omission was corrected; do not describe it as still outstanding.",
+          "sources": [
+            "S68e6b81f5840",
+            "S6e521105bfac"
+          ]
+        },
+        {
+          "id": "CITY-2026-103-03",
+          "category": "Native messages and complete attachments",
+          "status": "Format / attachment verification",
+          "records_identified": "PDF compilations plus a MSG are present.",
+          "unresolved_or_follow_up": "Match attachment names and embedded files; a PDF file count is not an email count.",
+          "sources": [
+            "S68e6b81f5840",
+            "S6e521105bfac"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-103",
+          "archive": "Records_Request_Download_CITY-2026-103_2026-07-10--13-38-51.zip",
+          "sha256": "659472f380fb51c18b2453bef3a01fb5093f63974cf72f9463363096bfb5abb4",
+          "files": 35,
+          "formats": {
+            ".pdf": 34,
+            ".msg": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-104",
+      "number": 104,
+      "title": "Condor location, policy and access logs",
+      "submitted": "2026-06-23",
+      "scope": "Condor camera location, access/policy records and meanings of portal camera ID/network count.",
+      "received": "Internal emails preserved in CITY-113: Kiehl/Brockinton location, camera ID/network explanation; June 29 says live-view intersection camera, not plate-reading; no access log known to respondent.",
+      "assessment": "No access-log export identified in these responses. “Not aware of” is narrower than a verified finding that no log exists. Standalone download not located.",
+      "history": "Cross-request response evidence June 29",
+      "follow_up": "No access-log export identified in these responses. “Not aware of” is narrower than a verified finding that no log exists. Standalone download not located.",
+      "sources": [
+        "Sb51effddb242"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-104-01",
+          "category": "Condor location",
+          "status": "Relevant records identified",
+          "records_identified": "Hicks identifies East Kiehl Avenue/Brockinton Road.",
+          "unresolved_or_follow_up": "Location answered; distinguish Condor video from ALPR capture.",
+          "sources": [
+            "Sb51effddb242"
+          ]
+        },
+        {
+          "id": "CITY-2026-104-02",
+          "category": "Condor access logs and governing policy",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Hicks says no access log he is aware of.",
+          "unresolved_or_follow_up": "Obtain system-custodian search or express record disposition; lack of personal awareness is narrower than no records.",
+          "sources": [
+            "Sb51effddb242"
+          ]
+        },
+        {
+          "id": "CITY-2026-104-03",
+          "category": "Portal ID and networkCount meanings",
+          "status": "Relevant records identified",
+          "records_identified": "Hicks describes a search identifier and count of Flock networks searched.",
+          "unresolved_or_follow_up": "Network count does not identify agencies or establish results returned.",
+          "sources": [
+            "Sb51effddb242"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    },
+    {
+      "id": "CITY-2026-112",
+      "number": 112,
+      "title": "Vehicle-specific ALPR images and results",
+      "submitted": "2026-06-30",
+      "scope": "Images, timestamps and camera locations for a specified personal vehicle, June 1–July 1.",
+      "received": "Portal lists 85 uploaded files; local image/results collection includes vehicle images and CSV. July 14 clarification/preservation correspondence follows.",
+      "assessment": "Do not republish identifying vehicle information. Disclosure routing, approval and preservation evidence pursued separately in CITY-130/137.",
+      "history": "Completed in July 14 portal snapshot",
+      "follow_up": "Do not republish identifying vehicle information. Disclosure routing, approval and preservation evidence pursued separately in CITY-130/137.",
+      "sources": [
+        "S44ea1f4f7116"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-112-01",
+          "category": "Requested vehicle images, dates and locations",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Preserved portal listing and source image/results collection.",
+          "unresolved_or_follow_up": "Reconcile listed uploads with local files privately; identifying images, plates and travel details are excluded from public register.",
+          "sources": [
+            "S44ea1f4f7116"
+          ]
+        },
+        {
+          "id": "CITY-2026-112-02",
+          "category": "Release handling and preservation",
+          "status": "Related records in another request",
+          "records_identified": "Related inquiries and records occur in CITY-130 and 137.",
+          "unresolved_or_follow_up": "Track release approval/preservation under those later requests; do not expand original vehicle request retrospectively.",
+          "sources": [
+            "S44ea1f4f7116"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-112",
+          "archive": "Records_Request_Download_CITY-2026-112_2026-07-01--14-44-08.zip",
+          "sha256": "f47e6e3d2e7b6168072228449dd6a3571cc594ff0453a54cd72d52744294d51a",
+          "files": 85,
+          "formats": {
+            ".jpg": 84,
+            ".csv": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-113",
+      "number": 113,
+      "title": "ALPR acquisition, authority and communications",
+      "submitted": "2026-06-30",
+      "scope": "Flock acquisition, execution, approval, renewals, expansion, legal/budget review and communications from January 2021; multiple named custodians.",
+      "received": "July 28 ZIP has 90 entries: mixed PDF/MSG emails, policy, marketing, installation, payments and embedded earlier requests. Extracted folder contains additional copy duplicates; not 115 unique records.",
+      "assessment": "July 21 city completion message expressly says it is rerouting the request until complete. Need final search/attachment reconciliation and approval/legal records; later collections may overlap.",
+      "history": "July 21 completion/rerouting email; July 23 portal In Progress; July 28 download",
+      "follow_up": "July 21 city completion message expressly says it is rerouting the request until complete. Need final search/attachment reconciliation and approval/legal records; later collections may overlap.",
+      "sources": [
+        "Se2ec434e2782",
+        "Sfa8114664b70"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-113-01",
+          "category": "Named-custodian communications since January 2021",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Ninety ZIP entries with PDF/MSG material and earlier request chains.",
+          "unresolved_or_follow_up": "Verify custodian/date coverage and complete chains; duplicates are not additional independent records.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        },
+        {
+          "id": "CITY-2026-113-02",
+          "category": "Legal advice and execution authority",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Contract, policy and legal-related communications occur in production.",
+          "unresolved_or_follow_up": "Identify advice applicable to each execution date; do not substitute a general policy for a transaction approval.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        },
+        {
+          "id": "CITY-2026-113-03",
+          "category": "Procurement, negotiation, pricing and renewal",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Order forms, vendor and installation correspondence.",
+          "unresolved_or_follow_up": "Reconcile all referenced quotes and versions.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        },
+        {
+          "id": "CITY-2026-113-04",
+          "category": "Council consideration and agenda decisions",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Some internal/council communications.",
+          "unresolved_or_follow_up": "Identify actual agenda, resolution or no-record disposition for requested approval communications.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        },
+        {
+          "id": "CITY-2026-113-05",
+          "category": "Termination, removal, replacement and expansion",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Vendor correspondence discussing cost and possible changes.",
+          "unresolved_or_follow_up": "Separate proposals from executed changes and confirm attachments.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        },
+        {
+          "id": "CITY-2026-113-06",
+          "category": "Complete response and attachments",
+          "status": "Pending City clarification",
+          "records_identified": "July 21 notice reroutes request; July 28 download exists.",
+          "unresolved_or_follow_up": "Acknowledge later production; obtain final all-custodian/search disposition.",
+          "sources": [
+            "Se2ec434e2782",
+            "Sfa8114664b70"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-113",
+          "archive": "Records_Request_Download_CITY-2026-113_2026-07-28--07-20-50.zip",
+          "sha256": "7ed644b6f09bb162bbe079a5c3f6520d4facee24ca12b2c8ba4da8c7e3164b50",
+          "files": 90,
+          "formats": {
+            ".pdf": 43,
+            ".msg": 46,
+            ".txt": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-117",
+      "number": 117,
+      "title": "Internal and external ALPR search logs",
+      "submitted": "2026-07-06",
+      "scope": "Internal ALPR audit May 1–July 6: user, time, reason/case; external-agency searches including Sherwood cameras.",
+      "received": "July 13 initial 4 files; later same-day export 6: three redacted user-audit PDFs, July network XLSX, May/June network CSVs.",
+      "assessment": "Redacted identifiers and limited reason fields constrain case verification. Network inclusion does not itself prove a returned Sherwood capture or that a viewer saw it. Reconcile row/export coverage before assuming complete.",
+      "history": "Completed July 13 snapshot; supplemented July 13",
+      "follow_up": "Redacted identifiers and limited reason fields constrain case verification. Network inclusion does not itself prove a returned Sherwood capture or that a viewer saw it. Reconcile row/export coverage before assuming complete.",
+      "sources": [
+        "S2cc239a05ffe"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-117-01",
+          "category": "Internal searches May 1–July 6",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Three redacted user-audit PDFs across periods.",
+          "unresolved_or_follow_up": "Check complete dates, redaction bases, user/reason/case fields and export limits.",
+          "sources": [
+            "S2cc239a05ffe"
+          ]
+        },
+        {
+          "id": "CITY-2026-117-02",
+          "category": "External/interagency searches",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "May/June network CSVs and July network XLSX.",
+          "unresolved_or_follow_up": "Export row ceilings constrain completeness; inclusion of Sherwood network does not prove returned or viewed captures.",
+          "sources": [
+            "S2cc239a05ffe"
+          ]
+        },
+        {
+          "id": "CITY-2026-117-03",
+          "category": "Later files and export format",
+          "status": "Relevant records identified",
+          "records_identified": "Later July 13 listing contains six files.",
+          "unresolved_or_follow_up": "Retain both production versions; do not label initially absent May/June files as still absent.",
+          "sources": [
+            "S2cc239a05ffe"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-117",
+          "archive": "Records_Request_Download_CITY-2026-117_2026-07-13--07-08-10.zip",
+          "sha256": "f6fc27f115cefd5b8b432800b376b0f4d2ce323d504d3e3079b987164776148d",
+          "files": 4,
+          "formats": {
+            ".xlsx": 1,
+            ".pdf": 3
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-117",
+          "archive": "Records_Request_Download_CITY-2026-117_2026-07-13--14-09-42.zip",
+          "sha256": "23eef285bba88e600a7c53ef7b2f7912e70985b7e3bfea57337cd18a74c21fe9",
+          "files": 6,
+          "formats": {
+            ".xlsx": 1,
+            ".pdf": 3,
+            ".csv": 2
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-129",
+      "number": 129,
+      "title": "Camera pole engineering, permits and acceptance",
+      "submitted": "2026-07-29",
+      "scope": "Pole permits, plans, engineering/crashworthiness and clear-zone review, owner/ROW responsibility, inspections, acceptance and vendor obligations.",
+      "received": "August 4 folder: 54 PDFs, including request confirmation and 53 numbered/lettered documents.",
+      "assessment": "Record-by-record engineering coverage remains unverified. A permit file count cannot establish crashworthiness review, site-specific clear-zone analysis or final acceptance; request a location/category crosswalk.",
+      "history": "Production present; completeness not established",
+      "follow_up": "Record-by-record engineering coverage remains unverified. A permit file count cannot establish crashworthiness review, site-specific clear-zone analysis or final acceptance; request a location/category crosswalk.",
+      "sources": [
+        "Sa403c3df7df4"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-129-01",
+          "category": "Site permits and plans",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Fifty-three numbered/lettered documents plus request PDF.",
+          "unresolved_or_follow_up": "Map each document to location and requested category.",
+          "sources": [
+            "Sa403c3df7df4"
+          ]
+        },
+        {
+          "id": "CITY-2026-129-02",
+          "category": "Engineering/crashworthiness and clear-zone review",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Permit/design materials identified; no complete location-by-category engineering crosswalk established.",
+          "unresolved_or_follow_up": "Ask for specific engineering analyses or category-specific no-record response, without inferring all sites unsafe.",
+          "sources": [
+            "Sa403c3df7df4"
+          ]
+        },
+        {
+          "id": "CITY-2026-129-03",
+          "category": "ROW ownership and responsibilities",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Permit/ROW records.",
+          "unresolved_or_follow_up": "Reconcile each location, owner and vendor/city duties.",
+          "sources": [
+            "Sa403c3df7df4"
+          ]
+        },
+        {
+          "id": "CITY-2026-129-04",
+          "category": "Inspections, final acceptance and native plans",
+          "status": "Format / attachment verification",
+          "records_identified": "PDF production.",
+          "unresolved_or_follow_up": "Locate completed inspection/acceptance records and native drawings where maintained.",
+          "sources": [
+            "Sa403c3df7df4"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-129",
+          "archive": "Records_Request_Download_CITY-2026-129_2026-08-04--08-21-52.zip",
+          "sha256": "fb1e8cbba8e194d7a24108e547fe26e53e80fbb8ab020b827435dcc56b81a3ab",
+          "files": 53,
+          "formats": {
+            ".pdf": 53
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-130",
+      "number": 130,
+      "title": "Handling of ALPR disclosure and preservation notice",
+      "submitted": "2026-07-29",
+      "scope": "Internal communications, legal review, routing, approval, response and preservation concerning the CITY-112 release and subsequent notice.",
+      "received": "August 4: five PDFs—original request, two follow-ups, City Attorney Emails (6 pages), Documentation (9 pages). Only two are substantive production compilations.",
+      "assessment": "CITY-137 subsequently seeks the upload/release audit trail not shown in the initial production. Do not equate five PDFs with five independent responsive communications.",
+      "history": "Production present; completeness not established",
+      "follow_up": "CITY-137 subsequently seeks the upload/release audit trail not shown in the initial production. Do not equate five PDFs with five independent responsive communications.",
+      "sources": [
+        "S72f6ec99a74a"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-130-01",
+          "category": "Release/redaction and legal-review communications",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "City Attorney Emails and Documentation compilations.",
+          "unresolved_or_follow_up": "Distinguish advice from adopted change and identify any withheld categories.",
+          "sources": [
+            "S72f6ec99a74a"
+          ]
+        },
+        {
+          "id": "CITY-2026-130-02",
+          "category": "Routing, review, drafts and disposition",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Internal correspondence and requester follow-ups.",
+          "unresolved_or_follow_up": "Map who supplied, reviewed and released; source supplier is not necessarily external releaser.",
+          "sources": [
+            "S72f6ec99a74a"
+          ]
+        },
+        {
+          "id": "CITY-2026-130-03",
+          "category": "Vendor communications and corrective action",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Some correspondence discusses custody/routing.",
+          "unresolved_or_follow_up": "Locate implementation records or exact no-record response.",
+          "sources": [
+            "S72f6ec99a74a"
+          ]
+        },
+        {
+          "id": "CITY-2026-130-04",
+          "category": "Preservation and system release trail",
+          "status": "Related records in another request",
+          "records_identified": "CITY-137 specifically pursues these records.",
+          "unresolved_or_follow_up": "No system export located in initial collection; reconcile subsequent response.",
+          "sources": [
+            "S72f6ec99a74a"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-130",
+          "archive": "Records_Request_Download_CITY-2026-130_2026-08-04--08-21-24.zip",
+          "sha256": "ff875e8ce95178539f34316abab613c497d7787245141e221fcc78e959fe3813",
+          "files": 2,
+          "formats": {
+            ".pdf": 2
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-137",
+      "number": 137,
+      "title": "JustFOIA release history and preservation",
+      "submitted": "No portal submission date located; response August 10",
+      "scope": "Supplement to CITY-130: JustFOIA transaction/upload/release audit, outgoing delivery records, native source email, Flock search/export activity, preservation and release workflow.",
+      "received": "One four-page email PDF, August 10, reproduces the request. Hicks says he has nothing else; coordinator asks City Attorney to confirm whether he has more.",
+      "assessment": "No system-generated audit export in this production. Hicks’ statement does not establish that the City Attorney or portal custodian conducted a complete system search.",
+      "history": "Limited response August 10; final all-custodian confirmation unverified",
+      "follow_up": "No system-generated audit export in this production. Hicks’ statement does not establish that the City Attorney or portal custodian conducted a complete system search.",
+      "sources": [
+        "S80aac64f727a"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-137-01",
+          "category": "JustFOIA audit/workflow and account-event metadata",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Four-page email response, no system-generated export.",
+          "unresolved_or_follow_up": "Request portal-system custodian search and existing audit history.",
+          "sources": [
+            "S80aac64f727a"
+          ]
+        },
+        {
+          "id": "CITY-2026-137-02",
+          "category": "Upload/release identity and outgoing delivery records",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No completed release-history export identified.",
+          "unresolved_or_follow_up": "Ask for file/event/account metadata and delivery notices; do not infer individual responsibility.",
+          "sources": [
+            "S80aac64f727a"
+          ]
+        },
+        {
+          "id": "CITY-2026-137-03",
+          "category": "Native source email and Flock export activity",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Hicks says nothing else to provide; earlier compilations provide narrative context.",
+          "unresolved_or_follow_up": "Search originating systems and match requested native record/attachments.",
+          "sources": [
+            "S80aac64f727a"
+          ]
+        },
+        {
+          "id": "CITY-2026-137-04",
+          "category": "Preservation actions and release procedures",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Request text reproduced, but no implementation record identified.",
+          "unresolved_or_follow_up": "Seek hold instructions, audit retention and actual procedures.",
+          "sources": [
+            "S80aac64f727a"
+          ]
+        },
+        {
+          "id": "CITY-2026-137-05",
+          "category": "All-custodian disposition",
+          "status": "Pending City clarification",
+          "records_identified": "James asks City Attorney to check for more.",
+          "unresolved_or_follow_up": "Employee-specific reply does not settle all City systems/custodians.",
+          "sources": [
+            "S80aac64f727a"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-137",
+          "archive": "Records_Request_Download_CITY-2026-137_2026-08-10--16-27-31.zip",
+          "sha256": "395b863d5639addba21324c7423cf973bd57fff411dbaa9ea2cbacc0b111672e",
+          "files": 1,
+          "formats": {
+            ".pdf": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-140",
+      "number": 140,
+      "title": "Historical ALPR statistics and outcomes",
+      "submitted": "2026-08-10",
+      "scope": "18 months of ALPR statistics/reports February 10, 2025–August 10, 2026, alert outcomes, portal-total support and definitions; explicitly excludes identifying plate/vehicle information.",
+      "received": "August 14 export: response PDF, one XLSX and seven CSVs. August 13 response says pre-July 14 scan/alert statistics unavailable; says request identified reporting and recordkeeping deficiencies.",
+      "assessment": "18-month historical scan/alert series not supplied according to city’s own response. Need retained six-month reports, category-by-category disposition and evidence of subsequent procedural changes. This is a reported limitation, not an independent legal finding.",
+      "history": "August 13 city response; August 14 download",
+      "follow_up": "18-month historical scan/alert series not supplied according to city’s own response. Need retained six-month reports, category-by-category disposition and evidence of subsequent procedural changes. This is a reported limitation, not an independent legal finding.",
+      "sources": [
+        "Sd6a61329159e"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-140-01",
+          "category": "Historical plate-scan and alert counts",
+          "status": "City reports unavailable / no supporting documentation",
+          "records_identified": "Hicks says pre-July 14 statistics unavailable.",
+          "unresolved_or_follow_up": "Identify retained six-month compilations and older local archives, if maintained.",
+          "sources": [
+            "Sd6a61329159e"
+          ]
+        },
+        {
+          "id": "CITY-2026-140-02",
+          "category": "Required list/match/arrest/prosecution reporting",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Workbook with 25 dated event rows and several CSVs.",
+          "unresolved_or_follow_up": "Some statistics exist; reconcile every required field and reporting period.",
+          "sources": [
+            "Sd6a61329159e"
+          ]
+        },
+        {
+          "id": "CITY-2026-140-03",
+          "category": "Outcomes and portal totals",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Ten-entry outcome export and rolling-period data.",
+          "unresolved_or_follow_up": "Explain denominators, periods and attribution; outcomes are not automatically solved cases.",
+          "sources": [
+            "Sd6a61329159e"
+          ]
+        },
+        {
+          "id": "CITY-2026-140-04",
+          "category": "Corrective action",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "August acknowledgment says procedures under review/revision.",
+          "unresolved_or_follow_up": "Seek completed changes, implementation dates and evidence of successful preservation.",
+          "sources": [
+            "Sd6a61329159e"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-140",
+          "archive": "Records_Request_Download_CITY-2026-140_2026-08-14--07-47-20.zip",
+          "sha256": "7f3316b74afcdafd12aa05a4cf065da2f686fe2fc0127d9fd1f6f679d2c7030d",
+          "files": 9,
+          "formats": {
+            ".csv": 7,
+            ".xlsx": 1,
+            ".pdf": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-150",
+      "number": 150,
+      "title": "Drone acquisition, integration and policy",
+      "submitted": "2026-08-18",
+      "scope": "Nine drone acquisition/operation categories: proposals/contracts, SOPs, legal/operational addenda, installation, training/operators, CAD/integrations, FAA documents and related communications from January 2025.",
+      "received": "August 26 ZIP: 24 entries; October 5 folder: 56 top-level files, including executed March contract, proposals, addendum, talking paper, policies, FAA/installation/CAD records and emails.",
+      "assessment": "Resolve operative incorporated contract/addendum version, cancellation notice/start date, council authority and final policy status. Earlier local folder contains personal screenshot additions and must not be counted as agency production.",
+      "history": "Rolling production; latest preserved collection October 5",
+      "follow_up": "Resolve operative incorporated contract/addendum version, cancellation notice/start date, council authority and final policy status. Earlier local folder contains personal screenshot additions and must not be counted as agency production.",
+      "sources": [
+        "Sa1f8aa6600eb"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-150-01",
+          "category": "1. Purchasing, contracts, proposals and funding",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Signed March agreement, proposals and financial/infrastructure material across rolling releases.",
+          "unresolved_or_follow_up": "Resolve operative incorporated terms, total obligations and related approvals.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-02",
+          "category": "2. Manufacturer, model, price and delivery",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "BRINC/Motorola quotes and installation records.",
+          "unresolved_or_follow_up": "Match final configuration and start/acceptance dates.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-03",
+          "category": "3. Software/cloud/service agreements",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Subscription documents and vendor terms.",
+          "unresolved_or_follow_up": "Identify dated version incorporated at execution and data-custody terms.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-04",
+          "category": "4. Flock/CAD/surveillance connectivity",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Integration questions and CAD correspondence.",
+          "unresolved_or_follow_up": "Distinguish capability/planning from activated connection or automated launch.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-05",
+          "category": "5. Vendor and City communications",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Drone email compilations and MSGs.",
+          "unresolved_or_follow_up": "Verify full date/custodian scope and attachments.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-06",
+          "category": "6. Operational/privacy/retention policies",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "October 2025 policy and May 2026 working copy.",
+          "unresolved_or_follow_up": "Establish adoption/version history before applying working-copy duties.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-07",
+          "category": "7. Agencies/vendors allowed footage access",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Program and sharing-related documents.",
+          "unresolved_or_follow_up": "Obtain approved access roles/agreements; configured sharing is not proof of actual viewing.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-08",
+          "category": "8. FAA registrations/waivers/BVLOS authority",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "FAA and installation records in later production.",
+          "unresolved_or_follow_up": "Read conditions and effective dates; credentials are not a blanket authorization for every flight.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        },
+        {
+          "id": "CITY-2026-150-09",
+          "category": "9. Training and operator counts",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Credentials and training correspondence.",
+          "unresolved_or_follow_up": "Credentials/scheduled classes do not independently establish attendance or current proficiency.",
+          "sources": [
+            "Sa1f8aa6600eb"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-150",
+          "archive": "Records_Request_Download_CITY-2026-150_2026-08-26--10-41-25.zip",
+          "sha256": "beffe8a677dfee7449dccd40160127bcece6410c87486226906bd211493360f6",
+          "files": 24,
+          "formats": {
+            ".docx": 2,
+            ".pdf": 21,
+            ".txt": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-150",
+          "archive": "Records_Request_Download_CITY-2026-150_2026-10-05--11-45-40.zip",
+          "sha256": "cb6b2f04ea5b2218de04447417255b3310649d9250210e757727247a05899f2e",
+          "files": 58,
+          "formats": {
+            ".pdf": 50,
+            ".docx": 2,
+            ".msg": 5,
+            ".txt": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-160",
+      "number": 160,
+      "title": "ALPR email chains and attachments",
+      "submitted": "2026-08-24",
+      "scope": "ALPR-related emails July 25–August 24, named city custodians, native email chains and attachments.",
+      "received": "August 28 collection has six agency PDFs plus two user-added screenshots. September 9 collection contains seven Flock Emails PDFs. August 27 email says more may follow after Hicks returns September 3.",
+      "assessment": "Acknowledge later seventh PDF. Native email/attachment and all-custodian reconciliation still needed; old pending-status message is not proof of current nonresponse.",
+      "history": "Rolling August 27; supplemented by September 9",
+      "follow_up": "Acknowledge later seventh PDF. Native email/attachment and all-custodian reconciliation still needed; old pending-status message is not proof of current nonresponse.",
+      "sources": [
+        "Sb5adc844e81b",
+        "S82a5f31f2e0d"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-160-01",
+          "category": "Internal and external ALPR emails July 25–August 24",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "August collection and seven-PDF September supplement.",
+          "unresolved_or_follow_up": "Confirm all named custodians and dates; some older messages are incorporated in responsive chains.",
+          "sources": [
+            "Sb5adc844e81b",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-160-02",
+          "category": "Earlier messages incorporated in chains",
+          "status": "Relevant records identified",
+          "records_identified": "August chains reproduce earlier vendor/administrative exchanges.",
+          "unresolved_or_follow_up": "Earlier chain dates are not automatically out of scope.",
+          "sources": [
+            "Sb5adc844e81b",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-160-03",
+          "category": "Complete attachments/native formats",
+          "status": "Format / attachment verification",
+          "records_identified": "PDF compilations; attachment mapping unfinished.",
+          "unresolved_or_follow_up": "Verify each attachment and native availability.",
+          "sources": [
+            "Sb5adc844e81b",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-160-04",
+          "category": "Proclamation and auditor correspondence",
+          "status": "Related records in another request",
+          "records_identified": "Flock Emails 6, pp. 3–4, references filing/transmission.",
+          "unresolved_or_follow_up": "Cross-reference CITY-170 and 197; confirm identity of the attached proclamation rather than assume it is the vendor letter.",
+          "sources": [
+            "Sb5adc844e81b",
+            "S82a5f31f2e0d"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-160",
+          "archive": "Records_Request_Download_CITY-2026-160_2026-08-28--16-02-39.zip",
+          "sha256": "165ae922b4e589a059ebbdaae51abd7cedf12d739f92055e0e2914d763716261",
+          "files": 6,
+          "formats": {
+            ".pdf": 6
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-160",
+          "archive": "Records_Request_Download_CITY-2026-160_2026-09-09--17-10-08.zip",
+          "sha256": "f4e9e1e53643da7820aa5b58c0024a326e5625741878c3e59669fc1c8f49ecae",
+          "files": 7,
+          "formats": {
+            ".pdf": 7
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-164",
+      "number": 164,
+      "title": "DFR program email history",
+      "submitted": "2026-08-27",
+      "scope": "Drone program history, communications January 2025–August 27, contracts/authority, public trial statements, council consideration, integrations, calendars and native attachments.",
+      "received": "October 5 ZIP: nine files—one correspondence compilation plus eight FAA operator certification files. Related CITY-164 MSGs also occur in CITY-150.",
+      "assessment": "Nine PDFs document training/onboarding; named attachments and broader historical communications require reconciliation. Later September AML advice falls outside August 27 scope cutoff.",
+      "history": "October 5 nine-PDF download; ARAP clarification sent October 21 at 8:17 a.m.; no reply included in this review.",
+      "follow_up": "Reconcile earlier records in CITY-150; request omitted named attachments and custodian/search clarification. Do not treat September 17 advice as necessarily responsive to an August 27 cutoff.",
+      "sources": [
+        "Sed0ecc14fdae",
+        "Sb01919975626"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-164-01",
+          "category": "Initial contacts, demos and pre-quote history",
+          "status": "Related records in another request",
+          "records_identified": "Earlier proposals/communications occur in CITY-150.",
+          "unresolved_or_follow_up": "Identify which were incorporated or previously provided and verify full communication history.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-02",
+          "category": "Contract execution, authority and distribution",
+          "status": "Related records in another request",
+          "records_identified": "Signed agreement appears in CITY-150; October 5 CITY-164 ZIP lacks separate contract.",
+          "unresolved_or_follow_up": "Cross-request availability is not proof the communications scope is fully answered.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-03",
+          "category": "Trial/cancellation/program description",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Limited onboarding correspondence.",
+          "unresolved_or_follow_up": "Reconcile communications about introductory year versus cancellation terms.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-04",
+          "category": "Installation and infrastructure",
+          "status": "Related records in another request",
+          "records_identified": "Related emails and installation records in CITY-150.",
+          "unresolved_or_follow_up": "Map date-limited communications and attachments; avoid double counting.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-05",
+          "category": "Council briefings and knowledge",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No complete briefing/notification history established in nine-PDF collection.",
+          "unresolved_or_follow_up": "Seek calendars, invitations and written communications or explicit disposition.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-06",
+          "category": "Legal/policy/FAA communications",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Training chains and pilot credentials.",
+          "unresolved_or_follow_up": "September 17 AML advice is outside cutoff; seek earlier review records if they exist.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-07",
+          "category": "System integration communications",
+          "status": "Related records in another request",
+          "records_identified": "CAD/integration records appear in CITY-150.",
+          "unresolved_or_follow_up": "Identify exact earlier chain/version and outstanding attachments.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-08",
+          "category": "Named COA-BVLOS and class-instruction attachments",
+          "status": "Format / attachment verification",
+          "records_identified": "Email compilation explicitly refers to attachments not separate in nine-file ZIP.",
+          "unresolved_or_follow_up": "Check if exact attachments were reproduced or supplied elsewhere; seek accessible identification.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-09",
+          "category": "Complete chains, calendars and native messages",
+          "status": "Format / attachment verification",
+          "records_identified": "One 13-page email compilation plus eight credential files.",
+          "unresolved_or_follow_up": "Certificates do not substitute for all requested communications; native/calendar search unresolved.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        },
+        {
+          "id": "CITY-2026-164-10",
+          "category": "Clarification of search coverage",
+          "status": "Pending City clarification",
+          "records_identified": "ARAP October 21 email asks about mayor, legal, purchasing and finance searches.",
+          "unresolved_or_follow_up": "Await City clarification; do not infer which office was or was not searched.",
+          "sources": [
+            "Sed0ecc14fdae",
+            "Sb01919975626"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-164",
+          "archive": "Records_Request_Download_CITY-2026-164_2026-10-05--14-16-28.zip",
+          "sha256": "22dfcef6f03e1cedf763bbd712743fd612f569d183152b0fb90790ffc18e5bc8",
+          "files": 9,
+          "formats": {
+            ".pdf": 9
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-165",
+      "number": 165,
+      "title": "Police finance, budgets and technology spending",
+      "submitted": "2026-08-31",
+      "scope": "2021–current finance records: six named police accounts, GL/AP, budgets/amendments, vendors, purchases over $1,000, drone infrastructure, fund sources and future obligations; native exports.",
+      "received": "September 3 initial one 23-page internal-email PDF. September 5 folder has 37 PDFs: same compilation, 32 account reports and four vendor reports (Flock, Huff, Motorola, Axon). Three extra PNGs are user additions.",
+      "assessment": "Four vendor attachments initially missing were later supplied. Native budget workbook and cited Resolutions 20-2023/2-2025 not identified by filename in this finance collection; verify attachments/content before declaring still missing. Native ledger/AP exports remain format follow-up.",
+      "history": "Supplemented by September 5; final completeness unverified",
+      "follow_up": "Four vendor attachments initially missing were later supplied. Native budget workbook and cited Resolutions 20-2023/2-2025 not identified by filename in this finance collection; verify attachments/content before declaring still missing. Native ledger/AP exports remain format follow-up.",
+      "sources": [
+        "Sb5aa6405ed0c"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-165-01",
+          "category": "1. General ledger transactions",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Account reports in September supplement.",
+          "unresolved_or_follow_up": "Reconcile all expenditure accounts, date coverage and native export.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-02",
+          "category": "2. Accounts payable/vendor history",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Four named vendor reports.",
+          "unresolved_or_follow_up": "Verify all requested vendors, AP fields and native exports.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-03",
+          "category": "3. Adopted and amended budgets 2021–2026",
+          "status": "Format / attachment verification",
+          "records_identified": "Budget discussions in internal compilation.",
+          "unresolved_or_follow_up": "Locate native budget workbook and version history.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-04",
+          "category": "4. Budget amendments/transfers/journals",
+          "status": "Format / attachment verification",
+          "records_identified": "References in finance correspondence.",
+          "unresolved_or_follow_up": "Locate cited resolutions and supporting attachments before calling them absent.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-05",
+          "category": "5. Six specified expenditure accounts",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Thirty-two account reports across requested years.",
+          "unresolved_or_follow_up": "Map each account/year; counts alone do not establish every year/account covered.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-06",
+          "category": "6. Technology purchases of $1,000 or more",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Reports and some invoice/payment material.",
+          "unresolved_or_follow_up": "Reconcile underlying authorizations and invoices, not merely transaction totals.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-07",
+          "category": "7. Named technology vendor payments",
+          "status": "Relevant records identified",
+          "records_identified": "Flock, Huff, Motorola and Axon vendor reports later supplied.",
+          "unresolved_or_follow_up": "Earlier attachment omission was supplemented; other named vendors require disposition.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-08",
+          "category": "8. Funding/account attribution",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Account reports and correspondence.",
+          "unresolved_or_follow_up": "Link each technology/infrastructure cost to fund/account.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-09",
+          "category": "9. Drone roof/infrastructure expenses",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Finance and contractor material.",
+          "unresolved_or_follow_up": "Verify authorization, invoice, payment and account for claimed approximate cost.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-10",
+          "category": "10. Grants/restricted or non-General-Fund sources",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No complete source-by-transaction reconciliation established.",
+          "unresolved_or_follow_up": "Seek specific records or categorical no-record response.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        },
+        {
+          "id": "CITY-2026-165-11",
+          "category": "11. Unpaid balances/future obligations",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Multiyear agreements elsewhere; complete finance encumbrance reconciliation not established.",
+          "unresolved_or_follow_up": "Obtain maintained encumbrance/future-obligation records without asking City to calculate new report.",
+          "sources": [
+            "Sb5aa6405ed0c"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-165",
+          "archive": "Records_Request_Download_CITY-2026-165_2026-09-03--16-13-38.zip",
+          "sha256": "d7da14cee976a5aef8ec46274742fdbbec7fb612d5b56781d51b2d2a5965c053",
+          "files": 1,
+          "formats": {
+            ".pdf": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-165",
+          "archive": "Records_Request_Download_CITY-2026-165_2026-09-05--10-05-12.zip",
+          "sha256": "e0b273164a8f6e2c40ed6e33d2248b7794473aa48bb981797447c867a7a785f0",
+          "files": 37,
+          "formats": {
+            ".pdf": 37
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-166",
+      "number": 166,
+      "title": "Overlapping police-finance submission",
+      "submitted": "2026-08-31",
+      "scope": "Substantially overlapping finance request: same accounts, budgets, vendors, infrastructure, fund sources and obligations as CITY-165, with a different courtesy response period.",
+      "received": "Submission portal snapshot located; no separately labeled CITY-166 production found. Relevant CITY-165 finance material exists.",
+      "assessment": "Separate submitted number; CITY-165 contains related finance material. Merger/closure not established.",
+      "history": "Submitted in August 31 snapshot; disposition unverified",
+      "follow_up": "Ask whether merged, separately processed or duplicative; do not count as a wholly separate unanswered investigation.",
+      "sources": [
+        "S535e2bfce205"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-166-01",
+          "category": "1. General ledger transactions",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-02",
+          "category": "2. Accounts payable/vendor history",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-03",
+          "category": "3. Adopted and amended budgets 2021–2026",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-04",
+          "category": "4. Budget amendments/transfers/journals",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-05",
+          "category": "5. Six specified expenditure accounts",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-06",
+          "category": "6. Technology purchases of $1,000 or more",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-07",
+          "category": "7. Named technology vendor payments",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-08",
+          "category": "8. Funding/account attribution",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-09",
+          "category": "9. Drone roof/infrastructure expenses",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-10",
+          "category": "10. Grants/restricted or non-General-Fund sources",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        },
+        {
+          "id": "CITY-2026-166-11",
+          "category": "11. Unpaid balances/future obligations",
+          "status": "Disposition unverified",
+          "records_identified": "Related CITY-165 finance production; no separately labeled CITY-166 production located.",
+          "unresolved_or_follow_up": "Clarify disposition of this number and identify which CITY-165 records answer this category.",
+          "sources": [
+            "S535e2bfce205"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    },
+    {
+      "id": "CITY-2026-167",
+      "number": 167,
+      "title": "Electronic-record retention and preservation",
+      "submitted": "2026-08-31",
+      "scope": "Email/electronic retention, M365/Exchange settings, backups/recovery, holds, preservation, deletion training, departing personnel and changes since 2021; excludes credentials/security architecture.",
+      "received": "September 3 production: 42-page internal-email PDF and 12-page ITCSD Working Policy dated February 3, 2025. HR says it has no such records (email compilation p.1). Policy discusses indefinite retention for records documenting city functions and 14-day deleted-items purge.",
+      "assessment": "Working policy is not proof of enacted policy or configured settings. Need category-specific search disposition and non-sensitive records of actual retention/hold configuration and preservation implementation. HR statement applies to HR.",
+      "history": "Completed September 3 email; two-file production",
+      "follow_up": "Working policy is not proof of enacted policy or configured settings. Need category-specific search disposition and non-sensitive records of actual retention/hold configuration and preservation implementation. HR statement applies to HR.",
+      "sources": [
+        "S3e94425c4af3",
+        "S53dac446de0c",
+        "Se292a33125f8"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-167-01",
+          "category": "Retention policies and destruction schedules",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Working IT policy and older destruction affidavits.",
+          "unresolved_or_follow_up": "Obtain adopted schedules and category-specific applicability.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-02",
+          "category": "Microsoft 365/Exchange retention configuration",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Working policy describes intended rules.",
+          "unresolved_or_follow_up": "Seek nonsensitive existing configuration/export history; policy text is not actual settings.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-03",
+          "category": "Deleted/recoverable items and archives",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Working policy mentions default 14-day deleted-items purge.",
+          "unresolved_or_follow_up": "Confirm actual configuration and recoverability for relevant dates.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-04",
+          "category": "Backups and recovery",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Working policy discusses storage/backups.",
+          "unresolved_or_follow_up": "Locate actual applicable backup/recovery records without security secrets.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-05",
+          "category": "Preservation/legal holds and FOIA implementation",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No complete implementation record identified.",
+          "unresolved_or_follow_up": "Seek existing hold instructions and preservation records for requests at issue.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-06",
+          "category": "Deletion/destruction practices",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Affidavits concerning older support documents.",
+          "unresolved_or_follow_up": "Do not infer destruction of recent ALPR/drone evidence; map actual categories/dates.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-07",
+          "category": "Training/departures/changes since 2021",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "HR says it has no such records; department response limited.",
+          "unresolved_or_follow_up": "Other custodians/settings need independent reconciliation.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        },
+        {
+          "id": "CITY-2026-167-08",
+          "category": "Search coverage and category dispositions",
+          "status": "Pending City clarification",
+          "records_identified": "Internal referrals and City Attorney forwarding.",
+          "unresolved_or_follow_up": "Identify systems/custodians searched and withheld versus not-located records.",
+          "sources": [
+            "S3e94425c4af3",
+            "S53dac446de0c",
+            "Se292a33125f8"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-167",
+          "archive": "Records_Request_Download_CITY-2026-167_2026-09-03--16-12-46.zip",
+          "sha256": "e63bc0d068fb861105ce64d425e889293615cb909ab5c9ac8c5835d4bd627f92",
+          "files": 2,
+          "formats": {
+            ".pdf": 2
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-170",
+      "number": 170,
+      "title": "Sole-source proclamation and supporting history",
+      "submitted": "2026-09-01",
+      "scope": "Eleven categories, January 1, 2021 through receipt; City proclamation, supporting research, communications, legal/auditor records and procurement rules.",
+      "received": "October 21 ZIP: one two-page Flock vendor sole-source letter. September 4 notice said only one record/no additional records. Access issue corrected; further clarification promised.",
+      "assessment": "Access to the one letter is resolved. Category/search completeness remains under review; CITY-160 contains directly relevant proclamation/auditor emails.",
+      "history": "Latest reviewed City message: October 21, 1:17 p.m.; James reviewing remaining questions and promises update by EOB today. No later response represented.",
+      "follow_up": "Await promised update, then reconcile City-issued proclamation versus vendor letter and exact CITY-160 correspondence. No allegation of intentional withholding.",
+      "sources": [
+        "Saf6e81dcc5a4",
+        "Sd88e36a27838",
+        "Sc8b87cf490e8",
+        "S82a5f31f2e0d"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-170-01",
+          "category": "1. Proclamation, drafts and preparation",
+          "status": "Related records in another request",
+          "records_identified": "CITY-160 Flock Emails 6, pp. 3–4, contains proclamation/filing/auditor chain.",
+          "unresolved_or_follow_up": "James clarification pending. Ask how this chain and referenced attachment were reconciled with September one-record statement.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-02",
+          "category": "2. People, dates and approvals",
+          "status": "Related records in another request",
+          "records_identified": "CITY-160 Flock Emails 6, pp. 3–4, contains proclamation/filing/auditor chain.",
+          "unresolved_or_follow_up": "James clarification pending. Ask how this chain and referenced attachment were reconciled with September one-record statement.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-03",
+          "category": "3. Factual/legal basis",
+          "status": "Pending City clarification",
+          "records_identified": "Not separately addressed by the one vendor letter; further City update promised.",
+          "unresolved_or_follow_up": "Obtain category-specific disposition and search coverage; do not treat promised update as a final denial.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-04",
+          "category": "4. Alternative-vendor research",
+          "status": "Pending City clarification",
+          "records_identified": "Not separately addressed by the one vendor letter; further City update promised.",
+          "unresolved_or_follow_up": "Obtain category-specific disposition and search coverage; do not treat promised update as a final denial.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-05",
+          "category": "5. SkyCop/Flock selection history",
+          "status": "Pending City clarification",
+          "records_identified": "Not separately addressed by the one vendor letter; further City update promised.",
+          "unresolved_or_follow_up": "Obtain category-specific disposition and search coverage; do not treat promised update as a final denial.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-06",
+          "category": "6. Flock-provided justification",
+          "status": "Relevant records identified",
+          "records_identified": "Flock vendor letter supplied; two pages.",
+          "unresolved_or_follow_up": "Identify receipt date, use by City and whether other vendor justification exists.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-07",
+          "category": "7. Communications",
+          "status": "Related records in another request",
+          "records_identified": "CITY-160 Flock Emails 6, pp. 3–4, contains proclamation/filing/auditor chain.",
+          "unresolved_or_follow_up": "James clarification pending. Ask how this chain and referenced attachment were reconciled with September one-record statement.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-08",
+          "category": "8. Legal review",
+          "status": "Pending City clarification",
+          "records_identified": "Not separately addressed by the one vendor letter; further City update promised.",
+          "unresolved_or_follow_up": "Obtain category-specific disposition and search coverage; do not treat promised update as a final denial.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-09",
+          "category": "9. Auditor-related records",
+          "status": "Related records in another request",
+          "records_identified": "CITY-160 Flock Emails 6, pp. 3–4, contains proclamation/filing/auditor chain.",
+          "unresolved_or_follow_up": "James clarification pending. Ask how this chain and referenced attachment were reconciled with September one-record statement.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-10",
+          "category": "10. Transaction chronology",
+          "status": "Related records in another request",
+          "records_identified": "CITY-160 Flock Emails 6, pp. 3–4, contains proclamation/filing/auditor chain.",
+          "unresolved_or_follow_up": "James clarification pending. Ask how this chain and referenced attachment were reconciled with September one-record statement.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-170-11",
+          "category": "11. Procurement requirements",
+          "status": "Pending City clarification",
+          "records_identified": "Not separately addressed by the one vendor letter; further City update promised.",
+          "unresolved_or_follow_up": "Obtain category-specific disposition and search coverage; do not treat promised update as a final denial.",
+          "sources": [
+            "Saf6e81dcc5a4",
+            "Sd88e36a27838",
+            "Sc8b87cf490e8",
+            "S82a5f31f2e0d"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-170",
+          "archive": "Records_Request_Download_CITY-2026-170_2026-10-21--14-32-27.zip",
+          "sha256": "d6c02e9680c597ef086a165e36b7965883c8e978a467b1b36fb42143b868d73a",
+          "files": 1,
+          "formats": {
+            ".pdf": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-189",
+      "number": 189,
+      "title": "Drone activity, access, sharing and lifecycle",
+      "submitted": "2026-10-07",
+      "scope": "Drone flights/attempted launches from earliest installation through receipt, CAD initiation, authorization, telemetry, recording metadata, access/auth audits, sharing, safety/restrictions/outcomes, native exports and preservation.",
+      "received": "Four files uploaded October 9: summary 6 pages, flight-page access 10 pages, authentication 51 pages, ShareLink XLSX two sheets. 218 summary entries, about 33.9 airborne hours.",
+      "assessment": "Flight-page visits are not telemetry. Supplied files do not show full routes, CAD-linked authorizations, attempted launches/aborts, recording retention/disposition or ShareLink recipients/viewers. Need those records or explicit category-specific no-record/exemption responses.",
+      "history": "Portal Completed; four uploads October 9",
+      "follow_up": "Flight-page visits are not telemetry. Supplied files do not show full routes, CAD-linked authorizations, attempted launches/aborts, recording retention/disposition or ShareLink recipients/viewers. Need those records or explicit category-specific no-record/exemption responses.",
+      "sources": [
+        "Scfe13845c107"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-189-01",
+          "category": "Flight activity and attempted launches",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Flight summary PDF.",
+          "unresolved_or_follow_up": "Summary entries are not complete telemetry or proof all failed/aborted launches included.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-02",
+          "category": "CAD initiation and authorization",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No complete CAD-linked authorization record identified in four-file production.",
+          "unresolved_or_follow_up": "Request flight-ID linkage and maintained initiation/approval records.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-03",
+          "category": "Routes, telemetry and safety restrictions",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Summary fields, not full flight paths or telemetry.",
+          "unresolved_or_follow_up": "Identify existing telemetry/restriction/abort records or categorical disposition.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-04",
+          "category": "Recording metadata, retention and deletion",
+          "status": "Not identified in reviewed production",
+          "records_identified": "Four files do not establish lifecycle of each recording.",
+          "unresolved_or_follow_up": "Seek metadata, preservation and deletion logs, not private footage.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-05",
+          "category": "User access and authentication",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Flight-page access and authentication PDFs.",
+          "unresolved_or_follow_up": "Page visits/authentication events are not flights or proof footage was viewed.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-06",
+          "category": "Sharing and audiences",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "ShareLink workbook with configured events/windows.",
+          "unresolved_or_follow_up": "Recipients, actual views and downstream use are not established by link creation.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        },
+        {
+          "id": "CITY-2026-189-07",
+          "category": "Native exports and preservation",
+          "status": "Format / attachment verification",
+          "records_identified": "PDF logs plus XLSX.",
+          "unresolved_or_follow_up": "Clarify original export/schema, timezone and preservation scope.",
+          "sources": [
+            "Scfe13845c107"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-189",
+          "archive": "ARAP-Benton-Sherwood-DFR-Website-Update.zip",
+          "sha256": "4c3c597a1186df964cd62947723f42fd88517f1c21c7bec45dabe0994918b3bd",
+          "files": 75,
+          "formats": {
+            ".ps1": 1,
+            ".cmd": 1,
+            ".txt": 7,
+            ".md": 1,
+            ".json": 6,
+            ".html": 21,
+            ".xml": 2,
+            ".css": 3,
+            ".js": 3,
+            ".png": 22,
+            ".pdf": 6,
+            ".xlsx": 2
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-189",
+          "archive": "Records_Request_Download_CITY-2026-189_2026-10-13--06-42-45.zip",
+          "sha256": "d576a067f24c16fe596a7ac486b67447fe676a906a7429fe0a680736a6eee2f2",
+          "files": 4,
+          "formats": {
+            ".pdf": 3,
+            ".xlsx": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        },
+        {
+          "request": "CITY-2026-189",
+          "archive": "Sherwood-Facebook-graphic-set.zip",
+          "sha256": "a518debd4d1d5fa791b10b04a40bddee4671631d821328cbe5ac5663d6acc288",
+          "files": 8,
+          "formats": {
+            ".png": 7,
+            ".md": 1
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-193",
+      "number": 193,
+      "title": "ALPR audits, retention, corrections and 40%",
+      "submitted": "2026-10-14",
+      "scope": "Eight ALPR categories, January 1 through receipt plus earlier governing records; actual audits, settings, storage, search fields, corrective action and 40% calculation.",
+      "received": "Six PDFs/16 pages: ALPR policy, Hicks 40% response, discipline response, vendor sole-source letter and two drone-related records.",
+      "assessment": "Policy and limited responses provided. Completed audit findings, specific settings and completed corrective actions are not identified in this six-file production; drone records do not answer ALPR categories.",
+      "history": "October 21 download; category-specific disposition not established.",
+      "follow_up": "Request actual completed review records and statistical compilations, separate discipline from audits, and clarify cross-request placement.",
+      "sources": [
+        "Sf22c9a8f2930",
+        "S1307ec3ea432",
+        "S279496a7fdb2",
+        "S72f8f833798d",
+        "Sa33d56af2e56"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-193-01",
+          "category": "1. Audit procedures and assignments",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Policy 11.08.00 provides annual scope and documentation requirements.",
+          "unresolved_or_follow_up": "Identify monthly procedure, assignment, sampling and historical versions.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-02",
+          "category": "2. Completed audits and supervisory reviews",
+          "status": "Not identified in reviewed production",
+          "records_identified": "No clearly identified completed findings/workpapers in ZIP; discipline email is a different category.",
+          "unresolved_or_follow_up": "Seek actual findings/checklists/sign-offs; absence in ZIP does not prove no reviews.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-03",
+          "category": "3. Retention/deletion/preservation",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Policy ceiling; 30-day contract terms elsewhere.",
+          "unresolved_or_follow_up": "Seek tenant settings, changes, archive/export and exception records; 30 vs 150 alone is not contradiction.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-04",
+          "category": "4. Storage and custody",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Vendor letter describes cloud capability; related contracts elsewhere.",
+          "unresolved_or_follow_up": "Capability does not establish Sherwood configuration or separate City archive.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-05",
+          "category": "5. Login/search documentation",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Policy describes authorized use and outcome documentation.",
+          "unresolved_or_follow_up": "Distinguish login/search/outcome fields and actual tenant requirements.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-06",
+          "category": "6. Corrective actions and six-month reports",
+          "status": "Not identified in reviewed production",
+          "records_identified": "August acknowledgment elsewhere; no clearly identified completion record/report in ZIP.",
+          "unresolved_or_follow_up": "Seek implementation evidence and complete statistical compilations.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-07",
+          "category": "7. Records supporting 40%",
+          "status": "City reports unavailable / no supporting documentation",
+          "records_identified": "Hicks says no documentation substantiating the claim.",
+          "unresolved_or_follow_up": "No support produced does not prove number false; seek mayor/administration source calculation.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-193-08",
+          "category": "8. Supporting correspondence",
+          "status": "Partial / reconciliation needed",
+          "records_identified": "Limited ALPR replies and drone records.",
+          "unresolved_or_follow_up": "Clarify custodians/search and placement of CITY-199-related forwarding; do not count unrelated advice as an ALPR audit.",
+          "sources": [
+            "Sf22c9a8f2930",
+            "S1307ec3ea432",
+            "S279496a7fdb2",
+            "S72f8f833798d",
+            "Sa33d56af2e56"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": [
+        {
+          "request": "CITY-2026-193",
+          "archive": "Records_Request_Download_CITY-2026-193_2026-10-21--11-40-43.zip",
+          "sha256": "8d727e6950d0a139b351d6c19ed2cd2e7d6e8b342648dfe00537285e9c3e8302",
+          "files": 6,
+          "formats": {
+            ".pdf": 6
+          },
+          "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+        }
+      ]
+    },
+    {
+      "id": "CITY-2026-197",
+      "number": 197,
+      "title": "Follow-up sole-source procurement records",
+      "submitted": "2026-10-20",
+      "scope": "Six categories concerning Flock proclamation, exclusivity, vendor letter, authority, auditor filing and prior CITY-170 handling.",
+      "received": "Preserved submission snapshot; no separately labeled response assessed.",
+      "assessment": "New request. Related CITY-160/170 records identified, but no overdue or refusal conclusion.",
+      "history": "October 20 Submitted snapshot, not live portal status.",
+      "follow_up": "Track acknowledgement/response and relate to pending CITY-170 clarification without counting overlapping requests as separate misconduct.",
+      "sources": [
+        "S3412f1ae742e",
+        "S82a5f31f2e0d"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-197-01",
+          "category": "1. Executed proclamation and filing",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-197-02",
+          "category": "2. Sole-source supporting analysis",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-197-03",
+          "category": "3. Vendor letter provenance",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-197-04",
+          "category": "4. Purchasing authority and approvals",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-197-05",
+          "category": "5. Clerk/auditor correspondence",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        },
+        {
+          "id": "CITY-2026-197-06",
+          "category": "6. Prior CITY-170 response/search records",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission and related records in earlier requests.",
+          "unresolved_or_follow_up": "Await category-specific response; identify exact prior-record links where used.",
+          "sources": [
+            "S3412f1ae742e",
+            "S82a5f31f2e0d"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    },
+    {
+      "id": "CITY-2026-198",
+      "number": 198,
+      "title": "Drone procurement and financial authority",
+      "submitted": "2026-10-20",
+      "scope": "Seven categories concerning complete agreement, financial evaluation, purchasing route, approvals, trial/cancellation, additional costs and communications.",
+      "received": "Preserved submission snapshot; no separately labeled response assessed.",
+      "assessment": "New request. Existing CITY-150/193 documents are related evidence, not proof this request was answered.",
+      "history": "October 20 Submitted snapshot, not current live status.",
+      "follow_up": "Track response; reconcile documents across earlier releases and distinguish contract obligations from unverified public characterizations.",
+      "sources": [
+        "Sefb67d5bedee"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-198-01",
+          "category": "1. Agreement and obligations",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-02",
+          "category": "2. Value/financial evaluation",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-03",
+          "category": "3. Bidding/procurement authority",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-04",
+          "category": "4. Council/administrative approvals",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-05",
+          "category": "5. Trial and cancellation representations",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-06",
+          "category": "6. Installation/integration costs",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        },
+        {
+          "id": "CITY-2026-198-07",
+          "category": "7. Procurement communications",
+          "status": "New request / response not assessed",
+          "records_identified": "Submission; related earlier drone records.",
+          "unresolved_or_follow_up": "Await response and cross-reference exact earlier versions; no overdue inference.",
+          "sources": [
+            "Sefb67d5bedee"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    },
+    {
+      "id": "CITY-2026-199",
+      "number": 199,
+      "title": "AML legal review of drone agreement",
+      "submitted": "2026-10-20",
+      "scope": "Six categories concerning AML correspondence/advice, review dates, supplied materials, cooperative purchasing and execution authority.",
+      "received": "Separate response not verified. CITY-193 contains September AML memo and BRINC procurement forwarding expressly referencing CITY-199.",
+      "assessment": "New request with related cross-request material. Production placement and remaining attachments need clarification.",
+      "history": "October 20 submission; October 21 related forwarding in CITY-193.",
+      "follow_up": "Confirm whether CITY-193 records are intended as part of CITY-199 response; reconcile named missing attachment and other advice.",
+      "sources": [
+        "Sb61b43587ce1",
+        "Sa33d56af2e56"
+      ],
+      "categories": [
+        {
+          "id": "CITY-2026-199-01",
+          "category": "1. AML correspondence/attachments",
+          "status": "Related records in another request",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-199-02",
+          "category": "2. Written advice and review",
+          "status": "Related records in another request",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-199-03",
+          "category": "3. Dates requested/received",
+          "status": "Related records in another request",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-199-04",
+          "category": "4. Materials submitted for review",
+          "status": "Related records in another request",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-199-05",
+          "category": "5. TIPS/Sourcewell communications",
+          "status": "New request / response not assessed",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        },
+        {
+          "id": "CITY-2026-199-06",
+          "category": "6. Execution without prior Council approval",
+          "status": "New request / response not assessed",
+          "records_identified": "Related AML/BRINC records in CITY-193; separate final disposition unverified.",
+          "unresolved_or_follow_up": "Advice is conditional/after the fact; identify remaining responsive records and attachment versions.",
+          "sources": [
+            "Sb61b43587ce1",
+            "Sa33d56af2e56"
+          ]
+        }
+      ],
+      "as_of": "2026-10-21",
+      "review_basis": "Preserved local records; not a live portal search",
+      "production_inventories": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "Se5c18fc18c3c",
+      "filename": "Gmail - Fw_ City of Sherwood - Public Records Request CITY-2026-28_ Completed.pdf",
+      "sha256": "e5c18fc18c3c5e9f6d9a1471cb6b914ca45fe43fd3bcb2b1fd5a18df848d7f3d",
+      "locator": "pp. 1–2",
+      "note": "March 11 completion, original scope and historical policy statement.",
+      "url": null
+    },
+    {
+      "id": "S68e6b81f5840",
+      "filename": "city103-19ef469f6d2facf8.txt",
+      "sha256": "68e6b81f58409224c9251ba4167920d7a885e0519c38375cf14f69c1339a6d33",
+      "locator": "June 23 confirmation, request description",
+      "note": "Verified through connected Gmail. Fingerprint identifies the preserved extracted plain-text body, not original MIME.",
+      "url": null
+    },
+    {
+      "id": "S6e521105bfac",
+      "filename": "city103-19eff58aab7bc137.txt",
+      "sha256": "6e521105bfacc5332ce6a274e0464691f118e50cbf0f47ab63e0694cdaa0c47b",
+      "locator": "June 25 completion message",
+      "note": "Verified through connected Gmail; expressly acknowledges omitted Permit Department emails and says they are now attached. Fingerprint is preserved plain text, not original MIME.",
+      "url": null
+    },
+    {
+      "id": "S87cf090f18d8",
+      "filename": "[EXT]New JustFOIA Records Request CITY-2026-98-Redacted.pdf",
+      "sha256": "87cf090f18d8e6e3ac531bcca4470cd4d55ca24199c2d633bbf66838bb058447",
+      "locator": "pp. 1–2",
+      "note": "June 17 request and Hicks confirmation, preserved inside CITY-113.",
+      "url": null
+    },
+    {
+      "id": "Sb51effddb242",
+      "filename": "[EXT]New JustFOIA Records Request CITY-2026-104-Redacted (1).pdf",
+      "sha256": "b51effddb242ebc11bd1a2ed4184307920df643522bfe968f633bfe4f944df6f",
+      "locator": "pp. 1–3",
+      "note": "June 29 Hicks reply and underlying CITY-104 scope.",
+      "url": null
+    },
+    {
+      "id": "S44ea1f4f7116",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "44ea1f4f71166b8dbfb50bd75846693d99a39f333861c49d7656e3748b318569",
+      "locator": "pp. 1–2",
+      "note": "Request and preserved portal listing; identifying vehicle data excluded from this publication.",
+      "url": null
+    },
+    {
+      "id": "Se2ec434e2782",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "e2ec434e2782d505098bd854438d5e5c0a65fb33c9b62f484ee5d530ad93caae",
+      "locator": "pp. 1–2",
+      "note": "Original scope; July 23 snapshot shows In Progress, not current live status.",
+      "url": null
+    },
+    {
+      "id": "Sfa8114664b70",
+      "filename": "Yahoo Mail - City of Sherwood - Public Records Request CITY-2026-113_ Completed.pdf",
+      "sha256": "fa8114664b70bed8be86814580e650d75f4a531dbd80cd93429e7353fc111a4e",
+      "locator": "p. 1",
+      "note": "July 21 notice says request is being rerouted; do not treat completion label as final all-custodian assurance.",
+      "url": null
+    },
+    {
+      "id": "S2cc239a05ffe",
+      "filename": "Sherwood Police Department, AR Records Requests 7-13-26 response.pdf",
+      "sha256": "2cc239a05ffea9e3e1a86acd60452732de74c74e217aba071af552b43422c7a4",
+      "locator": "pp. 1–2",
+      "note": "Submitted July 6; preserved July 13 portal listing.",
+      "url": null
+    },
+    {
+      "id": "Sa403c3df7df4",
+      "filename": "FOIA - CITY-2026-129.pdf",
+      "sha256": "a403c3df7df43cb9428ec79ab8e283dde19e9d4dfa39f6612661e23dba8e05ba",
+      "locator": "pp. 1–3",
+      "note": "Original engineering/permit request.",
+      "url": null
+    },
+    {
+      "id": "S72f6ec99a74a",
+      "filename": "FOIA - CITY-2026-130.pdf",
+      "sha256": "72f6ec99a74adfc1bb488543cd72198b82ca9771d2a4eec49a74e2a29be19020",
+      "locator": "pp. 1–3",
+      "note": "Original disclosure-handling request.",
+      "url": null
+    },
+    {
+      "id": "S80aac64f727a",
+      "filename": "Fw_ FOIA City 2026-137 -.pdf",
+      "sha256": "80aac64f727a3f5a18ea4521917d49d6df3a49303890f83665c55584af1c6738",
+      "locator": "pp. 1–4",
+      "note": "August 10 reply and supplemental scope; response is employee-specific.",
+      "url": null
+    },
+    {
+      "id": "Sd6a61329159e",
+      "filename": "2026-140.pdf",
+      "sha256": "d6a61329159e2a8470076df22d909a954ed32f1256b04c592d38caeb1848921f",
+      "locator": "p. 1; pp. 3–5",
+      "note": "August 13 response and original statistical scope.",
+      "url": "/downloads/sherwood/evidence/ARAP-SHERWOOD-FOIA-CITY-2026-140-REPORTING-RECORDKEEPING-H085_REDACTED.pdf"
+    },
+    {
+      "id": "Sa1f8aa6600eb",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details(2).pdf",
+      "sha256": "a1f8aa6600eb14b7b830c122171092ff774893298163ae6ecee2c77eb3a3426e",
+      "locator": "pp. 1–2",
+      "note": "Nine original drone categories.",
+      "url": null
+    },
+    {
+      "id": "Sb5adc844e81b",
+      "filename": "Gmail - City of Sherwood - Public Records Request CITY-2026-160_ Confirmation.pdf",
+      "sha256": "b5adc844e81bc122c6456bcc6fab2d456bc86578c15f82571f4b60c48803fa85",
+      "locator": "pp. 1–2",
+      "note": "Email scope July 25–August 24, including incorporated earlier messages and attachments.",
+      "url": null
+    },
+    {
+      "id": "S82a5f31f2e0d",
+      "filename": "Flock Emails 6-Redacted.pdf",
+      "sha256": "82a5f31f2e0d63a6679510b627b025f0021ce5b94d4333431f37aa4452c2c658",
+      "locator": "pp. 3–4",
+      "note": "August 5 and 7 proclamation/filing/auditor correspondence.",
+      "url": null
+    },
+    {
+      "id": "Sed0ecc14fdae",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "ed0ecc14fdaec668a1ecdd67f334315235828affd3347cca3ca45fd8608afea0",
+      "locator": "pp. 1–6",
+      "note": "Broad DFR email scope ends August 27; distinguish later legal advice.",
+      "url": null
+    },
+    {
+      "id": "Sb01919975626",
+      "filename": "Gmail - CITY-2026-164 — Request for Clarification and Supplemental Production.pdf",
+      "sha256": "b019199756266e4b2fec915e8c8c1881c26e10f67a78f2d351008ec80ee1a91b",
+      "locator": "pp. 1–2",
+      "note": "ARAP clarification sent October 21, 8:17 a.m.; not a City response.",
+      "url": null
+    },
+    {
+      "id": "Sb5aa6405ed0c",
+      "filename": "Gmail - City of Sherwood - Public Records Request CITY-2026-165_ Confirmation.pdf",
+      "sha256": "b5aa6405ed0ca2463a79a15ead9f2906ab49f43d589924f95901299ffeb1bba6",
+      "locator": "request description and follow-up",
+      "note": "Finance request and attachment follow-up.",
+      "url": null
+    },
+    {
+      "id": "S535e2bfce205",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "535e2bfce205b423563cf92d289761f992fa1bf82d3638392f794ced679a3017",
+      "locator": "pp. 1–3",
+      "note": "Separate request number with overlapping finance scope.",
+      "url": null
+    },
+    {
+      "id": "S3e94425c4af3",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "3e94425c4af3baf40051a0e19d0dc97c98b7edb2d752979191faf514ae6a744e",
+      "locator": "request description",
+      "note": "Electronic preservation/retention scope.",
+      "url": null
+    },
+    {
+      "id": "S53dac446de0c",
+      "filename": "doc01390520260903133837-Redacted.pdf",
+      "sha256": "53dac446de0cfb0756981a65b3f261da3e988dd7af2c3562805e76ece28683a7",
+      "locator": "p. 1; p. 24; destruction affidavits beginning p. 26",
+      "note": "Department-specific replies and older support-record destruction records.",
+      "url": null
+    },
+    {
+      "id": "Se292a33125f8",
+      "filename": "ITCSD Policy - Working - 2-3-2025.pdf",
+      "sha256": "e292a33125f83baa68aa58a5504436fc85de6d86f291e9c7e9411ff461f2323d",
+      "locator": "pp. 5 and 11",
+      "note": "Working policy; not proof of adopted policy or actual tenant settings.",
+      "url": null
+    },
+    {
+      "id": "Saf6e81dcc5a4",
+      "filename": "Gmail - City of Sherwood - Public Records Request CITY-2026-170_ Confirmation 3.pdf",
+      "sha256": "af6e81dcc5a435c11472a67c35590faad861bb78cca0f2e1ba685723581f8332",
+      "locator": "pp. 1–3",
+      "note": "September 1 request; October 21 footer is print date.",
+      "url": null
+    },
+    {
+      "id": "Sd88e36a27838",
+      "filename": "Gmail - City of Sherwood - Public Records Request CITY-2026-170_ Completed 4.pdf",
+      "sha256": "d88e36a2783805bf0354fc3fd5f5669a82a0c602ccc82ae83877e914b1f31a95",
+      "locator": "p. 1; pp. 4–5",
+      "note": "Original one-record statement; October 21, 1:17 p.m. James promises update by end of business. Later response not represented here.",
+      "url": null
+    },
+    {
+      "id": "Sc8b87cf490e8",
+      "filename": "FLOCK SAFETY - SOLE SOURCE LETTER 2022.pdf",
+      "sha256": "c8b87cf490e82c024d525f216c3d313070cd343a1530bfb2c581c6ae234eb3cf",
+      "locator": "pp. 1–2",
+      "note": "Vendor-authored letter; 2022 in title/filename is not proof of receipt/execution date.",
+      "url": "/downloads/sherwood/foia-reconciliation/FLOCK-SAFETY-SOLE-SOURCE-LETTER-2022.pdf"
+    },
+    {
+      "id": "Scfe13845c107",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "cfe13845c10764bb3de6c8e57bc51af983ea48cd7006ac903f866f07affcf7da",
+      "locator": "pp. 1–4",
+      "note": "Original scope and four-file portal listing.",
+      "url": null
+    },
+    {
+      "id": "Sf22c9a8f2930",
+      "filename": "Gmail - City of Sherwood - Public Records Request CITY-2026-193_ Confirmation.pdf",
+      "sha256": "f22c9a8f293092234209e57bc074563128e307c6dbb504e9b52f71df38bf6117",
+      "locator": "pp. 1–2",
+      "note": "Eight numbered ALPR categories; not a drone request.",
+      "url": null
+    },
+    {
+      "id": "S1307ec3ea432",
+      "filename": "CITY 2026-193.pdf",
+      "sha256": "1307ec3ea43223a0b54d47dfa950856171846e5c1bcc5d3310a244068d7a1284",
+      "locator": "p. 1",
+      "note": "Hicks October 20 response concerning 40% supporting documentation.",
+      "url": null
+    },
+    {
+      "id": "S279496a7fdb2",
+      "filename": "FOIA Flock Audit Statement.pdf",
+      "sha256": "279496a7fdb2c1f1929baa9cfb859ef8ce94c04b55dc5d23e6c296d07531eb9b",
+      "locator": "p. 1",
+      "note": "Edwards October 14 no-releasable-discipline statement; not completed audit findings.",
+      "url": null
+    },
+    {
+      "id": "S72f8f833798d",
+      "filename": "40915671.pdf",
+      "sha256": "72f8f833798d3fe7e30d57cc3ec6613e4105194557ccfcd416293dd5eb7b12d7",
+      "locator": "pp. 4–5",
+      "note": "Annual documented findings/three years; separate six-month statistics/18 months.",
+      "url": null
+    },
+    {
+      "id": "S3412f1ae742e",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "3412f1ae742e17dbbf56a4aa1e1f6722d4d426624f907d747109d8fe7a098761",
+      "locator": "pp. 1–4",
+      "note": "October 20 submission; no determination about a response deadline.",
+      "url": null
+    },
+    {
+      "id": "Sefb67d5bedee",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "efb67d5bedee28033dfe0a5de4662c3d96764f99a60060b9affab5f62790ddca",
+      "locator": "pp. 1–4",
+      "note": "October 20 drone procurement submission; no overdue finding.",
+      "url": null
+    },
+    {
+      "id": "Sb61b43587ce1",
+      "filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "sha256": "b61b43587ce1a648c36574afe9602f1fee77ee4c5053518cd7c2904f387530b4",
+      "locator": "pp. 1–2",
+      "note": "October 20 AML legal-review submission; response may overlap records in CITY-193.",
+      "url": null
+    },
+    {
+      "id": "Sa33d56af2e56",
+      "filename": "Drone League Memo-Redacted.pdf",
+      "sha256": "a33d56af2e56d144f26ed1c159a764afa465ecc7bf7c8e68c41e663cd4006c47",
+      "locator": "pp. 1–2",
+      "note": "September 17 advice postdates CITY-164 cutoff; named contract attachment requires reconciliation.",
+      "url": null
+    }
+  ],
+  "production_inventories": [
+    {
+      "request": "CITY-2026-98",
+      "archive": "Records_Request_Download_CITY-2026-98_2026-06-23--07-56-32.zip",
+      "sha256": "9f6d14923244c6d4fcc83de7fe63eae912ae7a231f3b014ed61761449443366a",
+      "files": 2,
+      "formats": {
+        ".pdf": 2
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-103",
+      "archive": "Records_Request_Download_CITY-2026-103_2026-07-10--13-38-51.zip",
+      "sha256": "659472f380fb51c18b2453bef3a01fb5093f63974cf72f9463363096bfb5abb4",
+      "files": 35,
+      "formats": {
+        ".pdf": 34,
+        ".msg": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-112",
+      "archive": "Records_Request_Download_CITY-2026-112_2026-07-01--14-44-08.zip",
+      "sha256": "f47e6e3d2e7b6168072228449dd6a3571cc594ff0453a54cd72d52744294d51a",
+      "files": 85,
+      "formats": {
+        ".jpg": 84,
+        ".csv": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-113",
+      "archive": "Records_Request_Download_CITY-2026-113_2026-07-28--07-20-50.zip",
+      "sha256": "7ed644b6f09bb162bbe079a5c3f6520d4facee24ca12b2c8ba4da8c7e3164b50",
+      "files": 90,
+      "formats": {
+        ".pdf": 43,
+        ".msg": 46,
+        ".txt": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-117",
+      "archive": "Records_Request_Download_CITY-2026-117_2026-07-13--07-08-10.zip",
+      "sha256": "f6fc27f115cefd5b8b432800b376b0f4d2ce323d504d3e3079b987164776148d",
+      "files": 4,
+      "formats": {
+        ".xlsx": 1,
+        ".pdf": 3
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-117",
+      "archive": "Records_Request_Download_CITY-2026-117_2026-07-13--14-09-42.zip",
+      "sha256": "23eef285bba88e600a7c53ef7b2f7912e70985b7e3bfea57337cd18a74c21fe9",
+      "files": 6,
+      "formats": {
+        ".xlsx": 1,
+        ".pdf": 3,
+        ".csv": 2
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-129",
+      "archive": "Records_Request_Download_CITY-2026-129_2026-08-04--08-21-52.zip",
+      "sha256": "fb1e8cbba8e194d7a24108e547fe26e53e80fbb8ab020b827435dcc56b81a3ab",
+      "files": 53,
+      "formats": {
+        ".pdf": 53
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-130",
+      "archive": "Records_Request_Download_CITY-2026-130_2026-08-04--08-21-24.zip",
+      "sha256": "ff875e8ce95178539f34316abab613c497d7787245141e221fcc78e959fe3813",
+      "files": 2,
+      "formats": {
+        ".pdf": 2
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-137",
+      "archive": "Records_Request_Download_CITY-2026-137_2026-08-10--16-27-31.zip",
+      "sha256": "395b863d5639addba21324c7423cf973bd57fff411dbaa9ea2cbacc0b111672e",
+      "files": 1,
+      "formats": {
+        ".pdf": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-140",
+      "archive": "Records_Request_Download_CITY-2026-140_2026-08-14--07-47-20.zip",
+      "sha256": "7f3316b74afcdafd12aa05a4cf065da2f686fe2fc0127d9fd1f6f679d2c7030d",
+      "files": 9,
+      "formats": {
+        ".csv": 7,
+        ".xlsx": 1,
+        ".pdf": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-150",
+      "archive": "Records_Request_Download_CITY-2026-150_2026-08-26--10-41-25.zip",
+      "sha256": "beffe8a677dfee7449dccd40160127bcece6410c87486226906bd211493360f6",
+      "files": 24,
+      "formats": {
+        ".docx": 2,
+        ".pdf": 21,
+        ".txt": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-150",
+      "archive": "Records_Request_Download_CITY-2026-150_2026-10-05--11-45-40.zip",
+      "sha256": "cb6b2f04ea5b2218de04447417255b3310649d9250210e757727247a05899f2e",
+      "files": 58,
+      "formats": {
+        ".pdf": 50,
+        ".docx": 2,
+        ".msg": 5,
+        ".txt": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-160",
+      "archive": "Records_Request_Download_CITY-2026-160_2026-08-28--16-02-39.zip",
+      "sha256": "165ae922b4e589a059ebbdaae51abd7cedf12d739f92055e0e2914d763716261",
+      "files": 6,
+      "formats": {
+        ".pdf": 6
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-160",
+      "archive": "Records_Request_Download_CITY-2026-160_2026-09-09--17-10-08.zip",
+      "sha256": "f4e9e1e53643da7820aa5b58c0024a326e5625741878c3e59669fc1c8f49ecae",
+      "files": 7,
+      "formats": {
+        ".pdf": 7
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-164",
+      "archive": "Records_Request_Download_CITY-2026-164_2026-10-05--14-16-28.zip",
+      "sha256": "22dfcef6f03e1cedf763bbd712743fd612f569d183152b0fb90790ffc18e5bc8",
+      "files": 9,
+      "formats": {
+        ".pdf": 9
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-165",
+      "archive": "Records_Request_Download_CITY-2026-165_2026-09-03--16-13-38.zip",
+      "sha256": "d7da14cee976a5aef8ec46274742fdbbec7fb612d5b56781d51b2d2a5965c053",
+      "files": 1,
+      "formats": {
+        ".pdf": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-165",
+      "archive": "Records_Request_Download_CITY-2026-165_2026-09-05--10-05-12.zip",
+      "sha256": "e0b273164a8f6e2c40ed6e33d2248b7794473aa48bb981797447c867a7a785f0",
+      "files": 37,
+      "formats": {
+        ".pdf": 37
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-167",
+      "archive": "Records_Request_Download_CITY-2026-167_2026-09-03--16-12-46.zip",
+      "sha256": "e63bc0d068fb861105ce64d425e889293615cb909ab5c9ac8c5835d4bd627f92",
+      "files": 2,
+      "formats": {
+        ".pdf": 2
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-170",
+      "archive": "Records_Request_Download_CITY-2026-170_2026-10-21--14-32-27.zip",
+      "sha256": "d6c02e9680c597ef086a165e36b7965883c8e978a467b1b36fb42143b868d73a",
+      "files": 1,
+      "formats": {
+        ".pdf": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-189",
+      "archive": "ARAP-Benton-Sherwood-DFR-Website-Update.zip",
+      "sha256": "4c3c597a1186df964cd62947723f42fd88517f1c21c7bec45dabe0994918b3bd",
+      "files": 75,
+      "formats": {
+        ".ps1": 1,
+        ".cmd": 1,
+        ".txt": 7,
+        ".md": 1,
+        ".json": 6,
+        ".html": 21,
+        ".xml": 2,
+        ".css": 3,
+        ".js": 3,
+        ".png": 22,
+        ".pdf": 6,
+        ".xlsx": 2
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-189",
+      "archive": "Records_Request_Download_CITY-2026-189_2026-10-13--06-42-45.zip",
+      "sha256": "d576a067f24c16fe596a7ac486b67447fe676a906a7429fe0a680736a6eee2f2",
+      "files": 4,
+      "formats": {
+        ".pdf": 3,
+        ".xlsx": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-189",
+      "archive": "Sherwood-Facebook-graphic-set.zip",
+      "sha256": "a518debd4d1d5fa791b10b04a40bddee4671631d821328cbe5ac5663d6acc288",
+      "files": 8,
+      "formats": {
+        ".png": 7,
+        ".md": 1
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    },
+    {
+      "request": "CITY-2026-193",
+      "archive": "Records_Request_Download_CITY-2026-193_2026-10-21--11-40-43.zip",
+      "sha256": "8d727e6950d0a139b351d6c19ed2cd2e7d6e8b342648dfe00537285e9c3e8302",
+      "files": 6,
+      "formats": {
+        ".pdf": 6
+      },
+      "meaning": "Dated download inventory; not proof of first delivery, final response or completeness."
+    }
+  ]
+}
