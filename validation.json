@@ -1,19 +1,14 @@
 {
   "status": "passed",
-  "new_pages": 5,
-  "local_links_checked": 128,
-  "benton_request_categories": 9,
-  "sherwood_request_categories": 11,
-  "payload_files": 33,
-  "checks": [
-    "local file links and HTML anchors",
-    "request HTML/text equivalence",
-    "known private-contact/account-URL exclusion",
-    "image alt text and duplicate IDs",
-    "manifest SHA-256 consistency",
-    "sitemap XML parse"
-  ],
-  "browser_qa": "Unverified: loopback socket access denied; browser timed out; offline file URL blocked by browser security policy.",
-  "application": "Blocked at backup-directory creation before copying. Six original baseline hashes unchanged; no new targets present.",
-  "apply_helper_test": "Passed in workspace fixture: 33 final hashes, six exact backup hashes; idempotent repeat."
+  "comparison_categories": 8,
+  "production_documents": 6,
+  "production_pages": 16,
+  "original_and_public_hashes": "verified",
+  "new_page_local_links": "resolved against overlay plus existing site",
+  "homepage_sherwood_repository_links": "present",
+  "public_text_private_values": "none found",
+  "public_zip": "CRC passed, no private originals",
+  "pdf_derivatives": "all seven pages rasterized, no original text layer",
+  "browser_visual_check": "not completed; local preview socket access restricted",
+  "deployment": "manual GitHub publication by user; not deployed"
 }
