@@ -1,0 +1,90 @@
+{
+  "target": "D:\\ARAP\\arap-website",
+  "files": [
+    {
+      "path": "public/index.html",
+      "sha256": "d796e7e5acbc5bd7d8ba0b5736c64ba4cfecd3f4ad3901d528e01f31a6201c98",
+      "baseline_sha256": "42dcd340dee9432fd0892a9c41e93fa4e516af480dd11bdd43087547c4d7a5c0"
+    },
+    {
+      "path": "public/sitemap.xml",
+      "sha256": "e3449a6680e20d4c0c2f590e395830244e0fcf94f9ebec8c085e552f40b24281",
+      "baseline_sha256": "863b11b80dd8f59613d7a21720b0e5cb0f6ba79004ce06587988ab53115c5370"
+    },
+    {
+      "path": "public/evidence-repository/index.html",
+      "sha256": "f5240cbaeabf4dab5db71c3592b554b123b429781eb63ccc7ceeff7d745ec051",
+      "baseline_sha256": "48a484da01030066ee55c3d26257f532701d3a0eaa44fe93e12e69ef768de5e9"
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/40915671.pdf",
+      "sha256": "72f8f833798d3fe7e30d57cc3ec6613e4105194557ccfcd416293dd5eb7b12d7",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/BRINC DFR FOIA Request.pdf",
+      "sha256": "15b9890b61d273b18c9652376f88e34aa7a0326d91bbfe87b12e94601858578e",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "sha256": "8272a3f98bb2168fd3c9d6b328ff89b01eeca84cb9c17fb030d1a8ed900965d8",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/city-production-PUBLIC-REDACTED.zip",
+      "sha256": "cb100619fb1a18f185400c77e3e976a2f642003f6cea014351bd6b81f0fd9ed9",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/Drone League Memo-Redacted.pdf",
+      "sha256": "a33d56af2e56d144f26ed1c159a764afa465ecc7bf7c8e68c41e663cd4006c47",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/Flock sole source letter.pdf",
+      "sha256": "d8af96ff3e90e56ac2a5d027b431a568ce2bc5139ed941fd4eb5860028e5c87d",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/FOIA Flock Audit Statement.pdf",
+      "sha256": "279496a7fdb2c1f1929baa9cfb859ef8ce94c04b55dc5d23e6c296d07531eb9b",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/mayoral-debate-flock-clip.mp4",
+      "sha256": "68416d749381328c72e412e481adeb93a3cb2eb509144ffbb59ac2f387534a4d",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "sha256": "a8d9e9a6ce7c5ebde3f35c912085108f27ae60be09889ad8ab24e260a48bccdb",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/original-request-verbatim.txt",
+      "sha256": "27a5ebc07bd683ee1a0bba3fcb84fa94e3ad843a573232fc58bcded28c28532d",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/request-response-comparison.csv",
+      "sha256": "5792e1faf755156e1892c94511d608f4bd4261852d86ef010138567dd8c31338",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/downloads/sherwood/city-2026-193/source-manifest.json",
+      "sha256": "14c3506a3ab90c879d61e7f9bd09cd885f21377cd9bc18660d29131aa64e90e9",
+      "baseline_sha256": null
+    },
+    {
+      "path": "public/jurisdictions/sherwood/index.html",
+      "sha256": "6a27dd2b9444290c3eccc581a2a3bcc4f8e68cc8fc2d8fc37211d9965bf80091",
+      "baseline_sha256": "09435dd40bafaafaf0aec16b5b43426fa6b8eac87ba927e48c86c161035522a1"
+    },
+    {
+      "path": "public/jurisdictions/sherwood/flock-40-percent/index.html",
+      "sha256": "ca4aacc301c48e0e0513fb832c42691d20fb06f4ab5fa20f536097cae88fca65",
+      "baseline_sha256": null
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "review_date": "2026-10-22",
+  "original_zip": {
+    "filename": "Records_Request_Download_CITY-2026-193_2026-10-21--11-40-43.zip",
+    "sha256": "8d727e6950d0a139b351d6c19ed2cd2e7d6e8b342648dfe00537285e9c3e8302",
+    "bytes": 3150203,
+    "crc": "passed",
+    "entries": 6,
+    "pages": 16
+  },
+  "files": [
+    {
+      "filename": "FOIA Flock Audit Statement.pdf",
+      "pages": 1,
+      "bytes": 197208,
+      "sha256": "279496a7fdb2c1f1929baa9cfb859ef8ce94c04b55dc5d23e6c296d07531eb9b",
+      "public_filename": "FOIA Flock Audit Statement.pdf",
+      "public_sha256": "279496a7fdb2c1f1929baa9cfb859ef8ce94c04b55dc5d23e6c296d07531eb9b",
+      "description": "One-page \u201cDiscipline Records\u201d email from Drew Edwards, October 14. Its filename does not describe a completed audit."
+    },
+    {
+      "filename": "BRINC DFR FOIA Request.pdf",
+      "pages": 2,
+      "bytes": 297401,
+      "sha256": "15b9890b61d273b18c9652376f88e34aa7a0326d91bbfe87b12e94601858578e",
+      "public_filename": "BRINC DFR FOIA Request.pdf",
+      "public_sha256": "15b9890b61d273b18c9652376f88e34aa7a0326d91bbfe87b12e94601858578e",
+      "description": "Two-page Perez email chain about TIPS/Sourcewell drone procurement, explicitly referencing CITY-2026-199. Appears unrelated to the eight Flock categories; reason for inclusion is not supplied."
+    },
+    {
+      "filename": "CITY 2026-193.pdf",
+      "pages": 4,
+      "bytes": 354686,
+      "sha256": "1307ec3ea43223a0b54d47dfa950856171846e5c1bcc5d3310a244068d7a1284",
+      "public_filename": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "public_sha256": "8272a3f98bb2168fd3c9d6b328ff89b01eeca84cb9c17fb030d1a8ed900965d8",
+      "description": "Four-page Hicks response and forwarded request. Public copy removes requester contact details and routing tokens; response and request body are retained."
+    },
+    {
+      "filename": "40915671.pdf",
+      "pages": 5,
+      "bytes": 155507,
+      "sha256": "72f8f833798d3fe7e30d57cc3ec6613e4105194557ccfcd416293dd5eb7b12d7",
+      "public_filename": "40915671.pdf",
+      "public_sha256": "72f8f833798d3fe7e30d57cc3ec6613e4105194557ccfcd416293dd5eb7b12d7",
+      "description": "Five-page ALPR Policy 11.08.00, effective March 24, 2026. Responsive policy; not a completed audit or statistical report."
+    },
+    {
+      "filename": "Drone League Memo-Redacted.pdf",
+      "pages": 2,
+      "bytes": 1318312,
+      "sha256": "a33d56af2e56d144f26ed1c159a764afa465ecc7bf7c8e68c41e663cd4006c47",
+      "public_filename": "Drone League Memo-Redacted.pdf",
+      "public_sha256": "a33d56af2e56d144f26ed1c159a764afa465ecc7bf7c8e68c41e663cd4006c47",
+      "description": "Two-page September 17 drone-contract legal-advice email. City-supplied blackouts retained. Drone procurement, not substantiation of Flock case-solving or proof of completed audits; its advice is not a judicial finding."
+    },
+    {
+      "filename": "Flock sole source letter.pdf",
+      "pages": 2,
+      "bytes": 826325,
+      "sha256": "d8af96ff3e90e56ac2a5d027b431a568ce2bc5139ed941fd4eb5860028e5c87d",
+      "public_filename": "Flock sole source letter.pdf",
+      "public_sha256": "d8af96ff3e90e56ac2a5d027b431a568ce2bc5139ed941fd4eb5860028e5c87d",
+      "description": "Two-page vendor sole-source/product description, including cloud storage language. General vendor assertions, not Sherwood outcome statistics or a site-specific storage agreement."
+    }
+  ],
+  "video": {
+    "original_filename": "Mayoral Debate Flock Camera with CC.mp4",
+    "duration_seconds": 373.27,
+    "sha256": "c6b94aed99be39c598e22df657ddebf980944108c04279e144092726a65c62e5",
+    "provenance": "Project-local closed-captioned excerpt; not the full debate. Date October 13, 2026 is supported by project context and request; captions are not independently certified.",
+    "public_sha256": "68416d749381328c72e412e481adeb93a3cb2eb509144ffbb59ac2f387534a4d",
+    "public_bytes": 22860440,
+    "public_derivative": "480p web compression, no editorial cuts; full supplied 6:13 excerpt retained."
+  },
+  "request": {
+    "source": "Gmail - City of Sherwood - Public Records Request CITY-2026-193_ Confirmation.pdf",
+    "sha256": "f22c9a8f293092234209e57bc074563128e307c6dbb504e9b52f71df38bf6117",
+    "transcription": "Request Description field; words and original markup retained; page headers/footers removed and line wrapping normalized."
+  },
+  "redactions": [
+    {
+      "file": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "CITY-2026-193-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 1,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 2,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    },
+    {
+      "file": "original-request-confirmation-PUBLIC-REDACTED.pdf",
+      "page": 3,
+      "reason": "requester contact, access key, routing token, or mailbox URL"
+    }
+  ]
+}
