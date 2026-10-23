@@ -1,0 +1,17 @@
+ARAP TRANSCRIPTION OF SELECTED NATIVE EMAIL EXCERPTS
+Source: CITY-2026-150 October 5-labelled ZIP, Re Drone Infrastructure Expenses.msg.
+Checked against original MSG body. Signatures/contact details omitted. This is an excerpt transcript, not the native email or a financial ledger.
+
+July 21, 2026, 4:17 PM - Drew Edwards to Cameron Snyder and Austin Spears:
+Subject: Drone Infrastructure Expenses
+"Am I correct that the expense for the ethernet is coming out of IT's budget and the electrical upgrade is coming out of Facilities budget?"
+"I just want to make sure so I can let Chief know."
+
+July 21, 2026, 4:20 PM - Cameron Snyder to Drew Edwards and Austin Spears:
+"Yessir. That's my understanding as well."
+[Typographic apostrophe normalized to ASCII in this transcript.]
+
+July 22, 2026, 09:31:07 -05:00 (native message timestamp) - Austin Spears to Cameron Snyder:
+"That was my understanding as well."
+
+Limit: This is an in-range DFR infrastructure communication absent from the selected CITY-164 nine-file ZIP. It is present in CITY-150. It does not prove payment, final funding allocation, intent to withhold, or whether a separate response directed the requester to earlier records.

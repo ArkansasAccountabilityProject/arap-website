@@ -1,14 +1,15 @@
 {
-  "status": "passed",
-  "comparison_categories": 8,
-  "production_documents": 6,
-  "production_pages": 16,
-  "original_and_public_hashes": "verified",
-  "new_page_local_links": "resolved against overlay plus existing site",
-  "homepage_sherwood_repository_links": "present",
-  "public_text_private_values": "none found",
-  "public_zip": "CRC passed, no private originals",
-  "pdf_derivatives": "all seven pages rasterized, no original text layer",
-  "browser_visual_check": "not completed; local preview socket access restricted",
-  "deployment": "manual GitHub publication by user; not deployed"
+  "checks": "passed",
+  "counts": {
+    "completeness-matrix.csv": 39,
+    "evidence-ledger.csv": 31,
+    "archive-inventory.csv": 180,
+    "archive-comparison.csv": 58
+  },
+  "source_manifest_entries": 25,
+  "public_bundle_entries": 26,
+  "privacy": "new text assets scanned for known identifiers/local paths; raster derivatives visually reviewed separately",
+  "links": "all overlay HTML local file links and same-page anchors resolve against overlay or existing site",
+  "city189_hash_match": true,
+  "limits": "No live deployment, City search certification or legal adjudication. Browser/visual checks recorded separately."
 }

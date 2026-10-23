@@ -1,15 +1,11 @@
-# CITY-2026-193 website update — October 22, 2026
+# Sherwood four-request review - October 23, 2026
 
-For manual GitHub publication. No deployment or target-directory modification was performed. Merge the public/ overlay into the existing website; do not replace the whole site with this partial overlay. Homepage, Sherwood landing page, evidence repository and sitemap are included. Existing files are based on the local website at build time; consult update-manifest.json hashes if the repository has since changed. Preserve later changes when merging.
+New route: /jurisdictions/sherwood/foia-four-request-review/
 
-New route: /jurisdictions/sherwood/flock-40-percent/
+The public/ directory is a targeted overlay for the existing ARAP static site, not a replacement for the whole website. It adds the review, privacy-reviewed documents, exact CITY-189 agency-redacted exports, public derivatives, native-message excerpt transcripts, ZIP/member inventories, 39-category comparison and 31-entry ledger. It links the new review from Sherwood and the evidence repository, adds a dated supersession note to the older register, and adds the sitemap route.
 
-The public downloads include the 6:13 supplied video, verbatim request-body transcription, redacted original confirmation, five exact production PDFs and one permanently redacted production PDF. Public ZIP is a clearly labeled derivative. Source-manifest.json provides original and public hashes, full filenames and review provenance. request-response-comparison.csv is the supporting eight-category analysis; the page adds format/disposition limits.
+Do not publish inventory.json, PRIVATE-source-map.json, texts/, qa/, source scripts or the private original ZIPs. Only public/ belongs in the website. Original images/plate, requester personal fields and unreviewed operational URLs are excluded. Public derivatives are labelled and original/public hashes distinguished. Raw original ZIPs are not public downloads.
 
-PRIVATE-DO-NOT-PUBLISH is excluded from the public website ZIP. It preserves the original uploaded ZIP and all six exact production files plus the original confirmation. Never copy this directory to public/ or commit it to a public GitHub repository: it contains requester contact information, routing tokens and a request access key. The private originals bundle is for your custody. This privacy separation means the exact original ZIP and CITY 2026-193.pdf are deliberately not public links. Do not describe the derivative ZIP as original.
+The four cases are a purposive selection, not a compliance rate. CITY-150's later ZIP adds 34 filenames and changes six; do not call all 58 new files. CITY-164's routing and infrastructure evidence comes from CITY-150. CITY-112's 85 files are 84 JPEGs plus one 80-row CSV. CITY-189's page log is not a flight inventory. Preserve the full caveats.
 
-Read the page before publication. The defensible conclusion is failed substantiation, not disproof of 40%. The discipline statement is not a completed audit; the drone procurement files are not answers to the Flock statistics request. No inference of misconduct or legal compliance is made.
-
-Source access: referenced-chat upload was recovered at its Windows attachment path; /mnt/data was unavailable. It matched the local CITY-193 ZIP exactly. The provided archive timestamp is not treated as a receipt date. The supplied clip is an excerpt with embedded captions; not the full debate or a certified transcript.
-
-Verification and publication: validate links on the deployed domain after GitHub deployment; test the MP4 and PDF/ZIP downloads. The supplied 75.7 MB original video was compressed to a 480p web derivative under 25 MB, with no editorial cuts. Its source and derivative hashes are in the manifest. The update does not change Worker logic or deployment configuration.
+The apply step verifies baseline hashes and refuses stale target pages. It creates recoverable backups of changed existing files, then adds only the manifest-listed files. No Git commit, push, Cloudflare deployment or social post is performed by the apply step.

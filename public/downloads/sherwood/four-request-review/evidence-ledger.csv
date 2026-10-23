@@ -1,0 +1,32 @@
+﻿evidence_id,request,proposition,sources,locator,caveat
+L01,112,Original scope and Jun 30 submission; Jul 14 snapshot Completed,112-R,pp.1-2,Direct record; plate removed in public derivative. Current portal status not checked.
+L02,112,85 archive entries = 84 JPEGs + one CSV,112-Z,Archive central directory; archive-inventory.csv,"File counts, not flight/detection counts."
+L03,112,"80 CSV data rows, 19 dates, 12 cameras",112-C,"Header + data rows 2-81, ignoring blank lines in source",Raw source rows; not 74 derived burst groups.
+L04,112,All 80 normalized image-reference groups match delivered filenames; 84 distinct JPEG byte hashes,112-Z; 112-C,Image File Name column; JPEG member names/hashes,"Normalize leading #, punctuation, millisecond filename rendering and numbered suffixes only. No claim of identical images or full system capture coverage."
+L05,112,"July 14 clarification asks release basis, verification, approvals and preservation",112-F,Original pp.1-2,"Requester inquiry, not proof of legal violation."
+L06,112,One copied-address message blocked,112-D,"Original email PDF p.3, delivery-notice excerpt",Does not establish non-delivery to all recipients or no later rerouting.
+L07,150,Nine requested categories and through-processing communications period,150-R,pp.1-2,Native preference qualified by reasonable availability.
+L08,150,Aug 21 staff update says request remains in progress,150-U,p.1,Promise of next update is not evidence whether it was sent; no lateness conclusion.
+L09,150,24-file earlier ZIP; 58-file later ZIP,150-A; 150-B,"Archive inventory, per archive","Download labels, not confirmed upload/completion dates."
+L10,150,"34 added names, 18 byte-identical, six byte-changed, zero removed",150-D,All 58 rows of archive-comparison.csv,Filename-level comparison; not unique email or semantic record count.
+L11,150,Five quote/proposal files: later pp.7-10 render black; p.11 also differs,150-D; 150-Q,Different-render pages in comparison; representative p.7 and p.11 before/after,"20 newly black page instances; repeated product material, no inferred motive or lawfulness."
+L12,150,Drone Emails 2 visual changes on six pages,150-D,"Original pp.22,23,31,33,36,39",Full-page render comparison. Resource URLs not republished.
+L13,150,Signed Products Agreement incorporates terms by reference,150-S,"Original p.2, II(c) and signature block",Separate Oct 20 web downloads are not agency production or proof of controlling execution-date terms.
+L14,150 / 164,"Native routing email shows specialist, police, IT and Facilities exchange",150-E,Aug 27 07:47 / 08:13 / 08:18:50 -05:00,Selected transcript verified against original MSG. Initial interpretation/confirmation plan only.
+L15,150 / 164,July infrastructure chain fits CITY-164 dates and subject; absent from nine-file ZIP,150-I; 164-R; 164-Z,July 21 16:17/16:20 and July 22 09:31:07 -05:00; request pp.2-3,"Actual cross-request communication; not proof of payment, intentional withholding or absence of a separate cross-reference."
+L16,164,Citywide communications/attachments scope Jan 1 2025-Aug 27 2026,164-R,"pp.1-5, especially p.2 offices and p.5 format/disposition",No unlimited standalone records or general Slack/text scope inferred.
+L17,164,"Nine PDFs, 26 total pages, no extractable text",164-Z,Archive directory and PDF page counts,One 16-page compilation plus eight credential/course files. Not nine emails.
+L18,164,COA-BVLOS and Class Instructions response expressly described as attached,164-M,Original pp.10-11,Neither exact attachment identified among nine files; present retention/withholding unresolved.
+L19,164,Requester asks about office searches and supplemental production Oct 21,164-F,pp.1-2,Requester statements about Mayor and completed status not independent City confirmation.
+L20,164,No procurement/legal/council chain identifiable in selected ZIP,164-R; 164-Z,Compare original request to nine-file inventory and compilation,Archive-bounded absence; not a finding no responsive communications exist Citywide.
+L21,189,Receipt-bounded scope; Oct 7 submitted; four uploads Oct 9; Completed snapshot Oct 13,189-R,pp.1-4,Receipt hour/timezone not shown.
+L22,189,"218 summary rows; 216 positive, two zero, six blank call types",189-S; 189-V,Data pp.1-3:77/78/63; paired Call Type pp.4-6,Prior independent recount reused after SHA-256 matching; IDs redacted.
+L23,189,562 distinct page-access IDs; 28 missing exit/duration,189-L; 189-V,pp.1-10,"356 show,197 mission,8 sync video view,1 diagram. Not flight or viewer counts."
+L24,189,"550 Auth IDs, including two printed Oct 8",189-A; 189-V,pp.1-26 and48-51; IDs183074/183075 p.48,548 printed-calendar-through-Oct7 subset is not receipt-bounded total; timezone unresolved.
+L25,189,12 share rows;10 expired/two revoked;21.5h configured windows,189-H,Sep 2026!A2:I12; Oct 2026!A2:I2,No recipient/viewer/download field. Configured windows not actual use.
+L26,189,Flight/Auth PDFs described as redacted copies of XLSX,189-R,p.4 File Description,"Native-format follow-up justified; PDF allowed by original request, so no automatic violation."
+L27,All four,Generalized Citywide misconduct/compliance rate not established,112-R; 150-R; 164-R; 189-R,Selected four-request scope,"Purposive set; overlapping drone requests and incomplete correspondence, not a representative sample."
+L28,Law,Written no-records/exemption/other-custodian response requirements,LAW-FOIA,25-19-105(a)(3)-(4),No express file-by-file withholding index or detailed search narrative requirement in cited provision.
+L29,Law,Segregable remainder and deletion indication,LAW-FOIA,25-19-105(f)(1)-(3),No final adjudication of any particular redaction.
+L30,Law,Native availability and no-new-record limit,LAW-FOIA,25-19-105(d)(2)(B)-(C),Existing readily available/convertible formats; no required newly created analysis.
+L31,112 / Law,Captured plate data has specific privacy restrictions and exceptions,LAW-ALPR,12-12-1808,Authority for this particular disclosure unresolved; do not assume ownership exception or unauthorized release.
