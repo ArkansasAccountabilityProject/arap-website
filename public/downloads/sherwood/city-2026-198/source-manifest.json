@@ -1,0 +1,39 @@
+{
+  "review_date": "2026-10-23",
+  "archive": {
+    "archive_bytes": 178250186,
+    "archive_sha256": "23472ec927bf2b66ee4284d757f9a7689afe2080f4be645343f26fc1c5fb4002",
+    "entries": 68,
+    "uncompressed_bytes": 178236014,
+    "types": {
+      ".pdf": 60,
+      ".txt": 1,
+      ".docx": 2,
+      ".msg": 5
+    },
+    "pdf_pages": 570,
+    "matched_prior": 67,
+    "new_to_selected_prior_set": [
+      "AAP FOIA Capt edwards.pdf"
+    ]
+  },
+  "archive_filename": "Records_Request_Download_CITY-2026-198_2026-10-23--10-13-45.zip",
+  "sources": [
+    {
+      "id": "R1",
+      "original_filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+      "original_sha256": "efb67d5bedee28033dfe0a5de4662c3d96764f99a60060b9affab5f62790ddca",
+      "public_file": "CITY-2026-198-request-public.pdf",
+      "public_form": "ARAP permanent raster derivative",
+      "public_sha256": "78f2109699de32a59acb8228e5e7a5ad2adf57718478f478658069326ff12065"
+    },
+    {
+      "id": "N1",
+      "original_filename": "AAP FOIA Capt edwards.pdf",
+      "original_sha256": "0cde2603c98f5373fcf2612e506644eb8ed9bd06b3bef22728a4a8b665d4af71",
+      "public_file": "AAP-FOIA-Capt-Edwards-2026-10-21.pdf",
+      "public_form": "ARAP public derivative; link annotations removed, visible pages/text retained",
+      "public_sha256": "07b073b28eda651b75ed77e3315fc3428ccb5422ac29af14f9274460b4364e5b"
+    }
+  ]
+}

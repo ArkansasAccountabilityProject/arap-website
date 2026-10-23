@@ -167,7 +167,7 @@
       "status": "August 27 portal snapshot: Submitted. The October 21 requester email describes the request as completed and unable to accept portal correspondence. That statement is preserved, but no later portal snapshot or City completion notice is in the selected folder.",
       "received": "October 5-labelled ZIP: nine PDFs totaling 26 pages. One 16-page email compilation, seven pilot credential PDFs and one recurrent-course certificate. All nine PDFs lack extractable text. The 16-page compilation reproduces two forwarded chains concerning onboarding/training; earliest substantive email in those chains is August 11, 2026.",
       "assessment": "This ZIP documents implementation, training arrangements and credentials but does not establish the requested early procurement, mayoral/legal-review, signing-authority or council-notification communication history. Stronger, specific leads are the expressly referenced COA-BVLOS and class-instructions attachments absent from this ZIP, and in-range infrastructure communications actually supplied in CITY-150.",
-      "history": "An October 21 clarification to the FOIA Coordinator, copied to police PIO, asks about searches across offices and supplemental production. Its account of the Mayor's public statements is a requester statement here, not independent verification of the speech. No substantive answer to that clarification is identified in the selected folder.",
+      "history": "The initial CITY-164 folder contained ARAP's October 21 clarification but no substantive City answer. CITY-2026-198 subsequently supplied an October 21 internal response from Capt. Edwards and the FOIA Coordinator's broader routing to City recipients. Those developments are credited; completed searches and each category's disposition remain unverified. The reproduced account of the Mayor's statements is still the requester's account, not an independent speech transcript.",
       "findings": [
         "The original request expressly reaches City personnel regardless of department. Its subject is Citywide even though records were handled through police. A police response alone does not establish the City failed to search other offices.",
         "Cross-request routing email: August 27, 07:47, Williams asks Edwards/Perez to review and be specific about documentation not held; Edwards forwards to Snyder/Spears around 08:13; Snyder replies around 08:18 that he does not think IT/Facilities must reply and will seek Williams's confirmation. This documents an initial interpretation and proposed clarification, not the outcome of the search.",
@@ -184,7 +184,9 @@
         "164-F",
         "150-E",
         "150-I",
-        "150-A"
+        "150-A",
+        "198-N",
+        "198-R"
       ],
       "categories": [
         [
@@ -261,8 +263,8 @@
           "No-records/exemption/retention explanations and follow-up",
           "Not identified in selected CITY-164 ZIP",
           "October 21 clarification seeks category-specific answers and supplementation.",
-          "No final answer identified in selected folder. Separate correspondence could change this assessment; requester letter is not a City finding.",
-          "164-R p.5; 164-F"
+          "CITY-198 now supplies an internal substantive City response and broader routing. A final category-by-category disposition and completed office-search results remain unverified.",
+          "164-R p.5; 164-F; 198-N"
         ]
       ]
     },
@@ -393,5 +395,12 @@
         ]
       ]
     }
-  ]
+  ],
+  "supplement": {
+    "request": "CITY-2026-198",
+    "new_file_count": 1,
+    "exact_prior_file_copies": 67,
+    "url": "/jurisdictions/sherwood/foia-four-request-review/city-2026-198/",
+    "effect": "City internal response/broader routing now credited; search results and procurement authority unresolved."
+  }
 }

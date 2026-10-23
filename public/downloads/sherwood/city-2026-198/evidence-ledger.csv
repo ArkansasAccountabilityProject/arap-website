@@ -1,0 +1,15 @@
+﻿Evidence,Proposition,Source / locator,Caveat
+E198-01,Submitted October 20; receipt-bounded procurement scope,R1 pp. 1-4,Receipt hour/current final status not shown.
+E198-02,Seven categories; prior exact identification/link accepted,"R1 pp. 1-4, especially p. 3",Repeated records are not automatically inadequate.
+E198-03,"68 files, 60 PDFs/570 pages, five MSG/two DOCX/one TXT",A1 central directory and PDF page trees; comparison-inventory.csv,"File/page counts, not newly disclosed record count."
+E198-04,58 P150 + nine P164 exact matches; one new-to-selected-set PDF,A1 member SHA-256 versus earlier inventories,No claim of first disclosure anywhere.
+E198-05,October 21 08:24 broader internal routing,N1 pp. 1-2,"Distribution/request for review, not completed searches or results."
+E198-06,Three in-progress FOIAs mentioned,N1 p. 2,Numbers not identified; no inference of formal reopening.
+E198-07,October 21 13:30 TIPS explanation and non-maintenance statement,N1 p. 1,"Attributed City claims, not independent verification of listing/membership/authority."
+E198-08,Forwarded BRINC confirmation referenced,N1 p. 1,"Exact message is a lead requiring identification, not proven absent from all records."
+E198-09,"No-purchase stance, signed agreement and no-cost-year/termination interpretation",N1 p. 1,"Not adjudication of purchasing law, complete obligations or zero added costs."
+E198-10,Sourcewell and legal-review statements reproduced from requester,N1 pp. 2-3,Not independent City confirmation or original speech transcript.
+E198-11,Internal response to CITY-164 clarification included under CITY-198,N1 subject/header and R1 request number,Cross-request supplementation must be credited; direct prior delivery to requester not established.
+E198-12,Earlier redactions/black pages unchanged in carried-forward files,E198-04 plus earlier CITY-150 version comparison,"Persistent copies, not new redaction decisions established here."
+E198-13,No new flight/audit production relative to selected CITY-189 exports,A1 full member inventory,"CITY-198's scope is procurement, so absence of new flight logs is not itself a deficiency."
+E198-14,Original records preserved,SHA-256 inventory and original folder read-only workflow,"Hash custody identifies reviewed bytes, not authenticity or legal sufficiency."

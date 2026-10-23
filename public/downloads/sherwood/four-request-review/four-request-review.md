@@ -4,6 +4,10 @@ Arkansas Accountability Project | October 23, 2026
 
 The selected records document substantial disclosure, later additions, changes to redactions, and unresolved questions about attachment and search coverage. They support specific follow-up inquiries, not a citywide compliance score or a finding of intentional withholding.
 
+## October 23 supplemental evidence: CITY-2026-198
+
+The 68-file procurement production repeats 67 exact earlier files and supplies a three-page October 21 internal City response. The response-history finding for CITY-164 is updated to credit broader routing and Edwards’s TIPS/Takeoff explanation. Completed searches and procurement/category dispositions remain unresolved. [Read the supplement](/jurisdictions/sherwood/foia-four-request-review/city-2026-198/).
+
 ## What this review can establish
 
 The reviewed records show meaningful production and later additions, together with unresolved category, attachment, redaction and cross-request reconciliation questions. They do not establish that Sherwood never provided records that appear in another request, that every City office was or was not searched, or that officials intentionally withheld or destroyed records.
@@ -133,7 +137,7 @@ Ask for an itemized explanation of the replacement versions and applicable exemp
 
 **Assessment:** This ZIP documents implementation, training arrangements and credentials but does not establish the requested early procurement, mayoral/legal-review, signing-authority or council-notification communication history. Stronger, specific leads are the expressly referenced COA-BVLOS and class-instructions attachments absent from this ZIP, and in-range infrastructure communications actually supplied in CITY-150.
 
-**Response history:** An October 21 clarification to the FOIA Coordinator, copied to police PIO, asks about searches across offices and supplemental production. Its account of the Mayor's public statements is a requester statement here, not independent verification of the speech. No substantive answer to that clarification is identified in the selected folder.
+**Response history:** The initial CITY-164 folder contained ARAP's October 21 clarification but no substantive City answer. CITY-2026-198 subsequently supplied an October 21 internal response from Capt. Edwards and the FOIA Coordinator's broader routing to City recipients. Those developments are credited; completed searches and each category's disposition remain unverified. The reproduced account of the Mayor's statements is still the requester's account, not an independent speech transcript.
 
 ### Findings
 
@@ -158,7 +162,7 @@ Ask for an itemized explanation of the replacement versions and applicable exemp
 | Complete chains and responsive attachments | Specific absent-attachment leads | COA-BVLOS, Class Instructions response, request letter and resend are expressly referenced. | Content not among nine files or reproduced in the compilation; seek exact attachments or disposition. | 164-R pp.4-5; 164-M pp.10-13 |
 | Native/searchable format and metadata | Format shortcoming; availability unresolved | Nine image-based PDFs, no native emails in this ZIP. | Native/searchable export was preferred where practicable. Availability and conversion limits are not established. | 164-R p.5; 164-Z |
 | Citywide search coverage and routing | Initial routing documented; final coverage unresolved | CITY-150 native email shows Williams to police, then Edwards to IT/Facilities and Snyder's clarification plan. | Does not establish all requested offices were searched or excluded; seek actual outcome and existing search records. | 164-R p.2; 150-E |
-| No-records/exemption/retention explanations and follow-up | Not identified in selected CITY-164 ZIP | October 21 clarification seeks category-specific answers and supplementation. | No final answer identified in selected folder. Separate correspondence could change this assessment; requester letter is not a City finding. | 164-R p.5; 164-F |
+| No-records/exemption/retention explanations and follow-up | Not identified in selected CITY-164 ZIP | October 21 clarification seeks category-specific answers and supplementation. | CITY-198 now supplies an internal substantive City response and broader routing. A final category-by-category disposition and completed office-search results remain unverified. | 164-R p.5; 164-F |
 
 ### Prioritized follow-up
 
@@ -243,7 +247,7 @@ For response-history conclusions, the selected local folders and preserved corre
 
 ## Evidence ledger
 
-The downloadable evidence-ledger.csv contains 31 propositions with exact source locators and caveats. The completeness-matrix.csv contains 39 reviewer-defined categories. These counts describe review structure, not 39 violations. The archive-inventory.csv provides 180 actual production member entries across five ZIPs (85 + 24 + 58 + 9 + 4), including files repeated between batches.
+The downloadable evidence-ledger.csv contains 34 propositions with exact source locators and caveats. The completeness-matrix.csv contains 39 reviewer-defined categories. These counts describe review structure, not 39 violations. The archive-inventory.csv provides 180 actual production member entries across five ZIPs (85 + 24 + 58 + 9 + 4), including files repeated between batches.
 
 ## Recommended publication language
 

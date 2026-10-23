@@ -1,181 +1,107 @@
 {
   "target": "D:\\ARAP\\arap-website",
   "baseline": {
-    "public/jurisdictions/sherwood/index.html": "6a27dd2b9444290c3eccc581a2a3bcc4f8e68cc8fc2d8fc37211d9965bf80091",
-    "public/evidence-repository/index.html": "f5240cbaeabf4dab5db71c3592b554b123b429781eb63ccc7ceeff7d745ec051",
-    "public/jurisdictions/sherwood/foia-reconciliation/index.html": "fd875a6bcd6de81230caeff5d238f7fc72f341ca9979eb82496a67c521d49138",
-    "public/sitemap.xml": "e3449a6680e20d4c0c2f590e395830244e0fcf94f9ebec8c085e552f40b24281"
+    "public/jurisdictions/sherwood/foia-four-request-review/index.html": "442024c199c508968a81e9d355c29fc8155651eb46a16817b954ff8b8b4daa57",
+    "public/downloads/sherwood/four-request-review/four-request-review.md": "7c501e1396ec49614cce17f5d1e03d213817908aeb78b2d96d5fde2ec97266b0",
+    "public/downloads/sherwood/four-request-review/review-data.json": "bebaddb97ad8efdfeae8e4a0a016fef36425b413b40a8acef038d4fd6a7576a4",
+    "public/downloads/sherwood/four-request-review/completeness-matrix.csv": "59b86a80d39e67a73d0fd26446a167e0100fcf8e59bddf03cda1537b1fa0a1a2",
+    "public/downloads/sherwood/four-request-review/evidence-ledger.csv": "5a7ec9e25cc9b9d4918ab7727e0023bc1ed9ecb53ffd3ac4c03867d4dcd015e7",
+    "public/downloads/sherwood/four-request-review/source-manifest.json": "861eb8b8c863adf241602fa496b36d273da1de2a3203d4164aea6f36bc1ba809",
+    "public/downloads/sherwood/four-request-review/public-evidence-package.zip": "2994d772f0b1e34ec4d9563d5234b34b02f44dc259234dec4d91e1de38dd288c",
+    "public/jurisdictions/sherwood/index.html": "54b97a4342297b942dae3bbda8bca198390be4bd6755c0a1c7fc747f085fd97c",
+    "public/evidence-repository/index.html": "cb5897b0563ec138e1e0e954a181c6be622abfaa5b3ac2c6bb0f2e8795b92ab6",
+    "public/sitemap.xml": "7ebe3f9ae14c48032692239cd15ae3b33d0127a37f803fa318f0dfa5329d54c8"
   },
   "files": [
     {
       "path": "public/sitemap.xml",
-      "sha256": "7ebe3f9ae14c48032692239cd15ae3b33d0127a37f803fa318f0dfa5329d54c8",
-      "baseline_sha256": "e3449a6680e20d4c0c2f590e395830244e0fcf94f9ebec8c085e552f40b24281"
+      "sha256": "015361c0a4b0f9bda3a92b64570fac032e8139d2a047e69da7b1dc0728744be4",
+      "baseline_sha256": "7ebe3f9ae14c48032692239cd15ae3b33d0127a37f803fa318f0dfa5329d54c8"
     },
     {
       "path": "public/evidence-repository/index.html",
-      "sha256": "cb5897b0563ec138e1e0e954a181c6be622abfaa5b3ac2c6bb0f2e8795b92ab6",
-      "baseline_sha256": "f5240cbaeabf4dab5db71c3592b554b123b429781eb63ccc7ceeff7d745ec051"
+      "sha256": "6818eee0a4095f4bb73a0ac9cc4ba5acfa0f035249f42ea273a1d7288c183164",
+      "baseline_sha256": "cb5897b0563ec138e1e0e954a181c6be622abfaa5b3ac2c6bb0f2e8795b92ab6"
     },
     {
-      "path": "public/assets/sherwood-four-request-review/review.css",
-      "sha256": "ef4f358db5287f3f2d0f24039c0c1c72d1032bdbba482f8900edb83b28bc4cae",
+      "path": "public/downloads/sherwood/city-2026-198/AAP-FOIA-Capt-Edwards-2026-10-21.pdf",
+      "sha256": "07b073b28eda651b75ed77e3315fc3428ccb5422ac29af14f9274460b4364e5b",
       "baseline_sha256": null
     },
     {
-      "path": "public/assets/sherwood-four-request-review/review.js",
-      "sha256": "e842dfab79db4429689b9b556ca50d1c2a75930dc32739c31a613e97d14994d2",
+      "path": "public/downloads/sherwood/city-2026-198/ARAP-CITY-2026-198-review.md",
+      "sha256": "9c85cf127eaf973471fc82aa2a2b6c6ff2de11414cbe60297faff2b7bf77936a",
       "baseline_sha256": null
     },
     {
-      "path": "public/downloads/sherwood/four-request-review/archive-comparison.csv",
-      "sha256": "70959c49fa6241384d0691eb4c5384d69e4a9bd135f1a8c69cca46a6709373e0",
+      "path": "public/downloads/sherwood/city-2026-198/CITY-2026-198-request-public.pdf",
+      "sha256": "78f2109699de32a59acb8228e5e7a5ad2adf57718478f478658069326ff12065",
       "baseline_sha256": null
     },
     {
-      "path": "public/downloads/sherwood/four-request-review/archive-inventory.csv",
-      "sha256": "9ff072468f240c5d355bfbfab3e99b08aa08458d831df5889b83b2b332684b31",
+      "path": "public/downloads/sherwood/city-2026-198/comparison-inventory.csv",
+      "sha256": "be7ba103b130880ec0747aae815724111511320078edd38f84ab6059590eb848",
       "baseline_sha256": null
     },
     {
-      "path": "public/downloads/sherwood/four-request-review/BRINC-SWPD Auth Log-8 Oct 2026-Redacted.pdf",
-      "sha256": "735ec7787e6eb712bc00cb2f4b1650284dd6c9d23f8cf346300483827ee43bab",
+      "path": "public/downloads/sherwood/city-2026-198/completeness-matrix.csv",
+      "sha256": "b2d1a08e86170228530c27ca4737058f354306a1dcdf4e4bab1ee6a2d7e51c25",
       "baseline_sha256": null
     },
     {
-      "path": "public/downloads/sherwood/four-request-review/BRINC-SWPD Flight Log-8 Oct 2026-Redacted.pdf",
-      "sha256": "0c204febbadc329647b0473d0fb2c8642af86cb83c973a0b8f910c404c90441e",
+      "path": "public/downloads/sherwood/city-2026-198/evidence-ledger.csv",
+      "sha256": "132ecac29777ff8126ce2b3e109f1c5216ff1815cba90eda11e5b0f352dc3b81",
       "baseline_sha256": null
     },
     {
-      "path": "public/downloads/sherwood/four-request-review/BRINC-SWPD Flight Summary Log-7 Oct 2026-Redacted.pdf",
-      "sha256": "43369e928af1899584c3f203e8497ab5eeed7f42b1b92d3767e68014fa33d7a8",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/BRINC-SWPD ShareLink Log-8 Oct 2026.xlsx",
-      "sha256": "a1a8eb6fee30437b071df14ba5054c44a08dffd16e4641f0a0932a3375b10c42",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-112-clarification-excerpt.pdf",
-      "sha256": "df23e545641af9362291d7f9e457813003d9e1fe202126a2d4274122901d3dc2",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-112-delivery-notice-excerpt.txt",
-      "sha256": "7eebb7ce363af826f9acdb81dbbaa58001a6b9cef8b98ad06aee29fff9d55581",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-112-detection-rows-plate-redacted.csv",
-      "sha256": "c4abe206c88799c9b80d5d982877caee43cfc2f8ee154ca244f238530b5a44e9",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-112-request-public.pdf",
-      "sha256": "2c06a3edf9513444b98d889b9ba20c206ded6d12a06317fac2c90c93ede46c8d",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-150-quote-version-excerpts.pdf",
-      "sha256": "8730670d045829b76ec0e6c15486db48858097c1ff26694150b822ebfbf197c3",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-150-request-public.pdf",
-      "sha256": "a390ae998effa4498332f6bd4597dfe99608228353e77999069660983152a143",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-150-signed-agreement-public.pdf",
-      "sha256": "f028d789afb0e0d97d93030901dd3c2fd6442dd68f267896017ebd4f85089861",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-150-status-update-public.pdf",
-      "sha256": "73b470124bb8613d9b2e5f3449853fc4e3e9741a2b86d44dca34b23dc6e35131",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-164-attachment-reference-excerpts.pdf",
-      "sha256": "0e27929044134e8c5a576ab2c3ec8bb83cbeed6a2c0527587107668461300d63",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-164-clarification-public.pdf",
-      "sha256": "a50e136d92836a36632b69c9b6fcddb0c56ae33ca247baa3002a6680666b9653",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-164-cross-request-infrastructure-excerpts.txt",
-      "sha256": "bd903c0335ad83edb90e8af4735b467937ecd669cc7c6ee5727e0d4bc094527a",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-164-request-public.pdf",
-      "sha256": "76aa1b56dea098fbb1ae3156bd417e6b1bcd038ef8a3b1ac56d1ae85deaf79c2",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-164-routing-excerpts.txt",
-      "sha256": "b5749c127b74bd2855314dc8a2685567ef2cd4ff556d100056676384d96d5983",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-189-detailed-review.md",
-      "sha256": "15cc42535b2e36daf938bb95c1f3d7dca183ad0210f9e8644e78443550be402a",
-      "baseline_sha256": null
-    },
-    {
-      "path": "public/downloads/sherwood/four-request-review/CITY-2026-189-request-public.pdf",
-      "sha256": "5b84edff3e32fa83d42e1f6f893fcbb2de6fda9d334e48ed9ff2e192a526a3e7",
+      "path": "public/downloads/sherwood/city-2026-198/source-manifest.json",
+      "sha256": "f727e998ff9a6fa973a3ca67b372d227fcf196dcf99ecd011b0436edb20dac68",
       "baseline_sha256": null
     },
     {
       "path": "public/downloads/sherwood/four-request-review/completeness-matrix.csv",
-      "sha256": "59b86a80d39e67a73d0fd26446a167e0100fcf8e59bddf03cda1537b1fa0a1a2",
-      "baseline_sha256": null
+      "sha256": "9e9a41ada80da6163acd9e12bef95cd50e09e60fe23aca9838ba9027a840f4a8",
+      "baseline_sha256": "59b86a80d39e67a73d0fd26446a167e0100fcf8e59bddf03cda1537b1fa0a1a2"
     },
     {
       "path": "public/downloads/sherwood/four-request-review/evidence-ledger.csv",
-      "sha256": "5a7ec9e25cc9b9d4918ab7727e0023bc1ed9ecb53ffd3ac4c03867d4dcd015e7",
-      "baseline_sha256": null
+      "sha256": "3f4b535499cbc3e254aede9fd7a7f33b45eab9ad6f7146f53ea744a6cf76516c",
+      "baseline_sha256": "5a7ec9e25cc9b9d4918ab7727e0023bc1ed9ecb53ffd3ac4c03867d4dcd015e7"
     },
     {
       "path": "public/downloads/sherwood/four-request-review/four-request-review.md",
-      "sha256": "7c501e1396ec49614cce17f5d1e03d213817908aeb78b2d96d5fde2ec97266b0",
-      "baseline_sha256": null
+      "sha256": "dfbd0d8369479475d282e37750f67559c41344d8da034797cfbce621f13563e6",
+      "baseline_sha256": "7c501e1396ec49614cce17f5d1e03d213817908aeb78b2d96d5fde2ec97266b0"
     },
     {
       "path": "public/downloads/sherwood/four-request-review/public-evidence-package.zip",
-      "sha256": "2994d772f0b1e34ec4d9563d5234b34b02f44dc259234dec4d91e1de38dd288c",
-      "baseline_sha256": null
+      "sha256": "81f12bd2d559e5b8b36405b9a393de5146d1cc125e27e16937995c42edf2beaf",
+      "baseline_sha256": "2994d772f0b1e34ec4d9563d5234b34b02f44dc259234dec4d91e1de38dd288c"
     },
     {
       "path": "public/downloads/sherwood/four-request-review/review-data.json",
-      "sha256": "bebaddb97ad8efdfeae8e4a0a016fef36425b413b40a8acef038d4fd6a7576a4",
-      "baseline_sha256": null
+      "sha256": "f7e3e468e283c9a42af683bd1c7936159837f72c90df0e201eefd6f208dfbf37",
+      "baseline_sha256": "bebaddb97ad8efdfeae8e4a0a016fef36425b413b40a8acef038d4fd6a7576a4"
     },
     {
       "path": "public/downloads/sherwood/four-request-review/source-manifest.json",
-      "sha256": "861eb8b8c863adf241602fa496b36d273da1de2a3203d4164aea6f36bc1ba809",
-      "baseline_sha256": null
+      "sha256": "97f7f756699bbf39a48c6935e0fdacf155f72cd9fbcfaf3a66abd02ea8cde99a",
+      "baseline_sha256": "861eb8b8c863adf241602fa496b36d273da1de2a3203d4164aea6f36bc1ba809"
     },
     {
       "path": "public/jurisdictions/sherwood/index.html",
-      "sha256": "54b97a4342297b942dae3bbda8bca198390be4bd6755c0a1c7fc747f085fd97c",
-      "baseline_sha256": "6a27dd2b9444290c3eccc581a2a3bcc4f8e68cc8fc2d8fc37211d9965bf80091"
+      "sha256": "b8529ce0564dfc81385587f5ff715178ae4af3267f5c96cfe19bb99364cc552e",
+      "baseline_sha256": "54b97a4342297b942dae3bbda8bca198390be4bd6755c0a1c7fc747f085fd97c"
     },
     {
       "path": "public/jurisdictions/sherwood/foia-four-request-review/index.html",
-      "sha256": "442024c199c508968a81e9d355c29fc8155651eb46a16817b954ff8b8b4daa57",
-      "baseline_sha256": null
+      "sha256": "704261ba9c264bde7e677fa28b4e4f15aa0013379daf50663eeb6b1f26a03371",
+      "baseline_sha256": "442024c199c508968a81e9d355c29fc8155651eb46a16817b954ff8b8b4daa57"
     },
     {
-      "path": "public/jurisdictions/sherwood/foia-reconciliation/index.html",
-      "sha256": "cf7ae75e8f5e8e1f2639bc808fd8b4fdbe1b7733a8986a322e81da2cd0f90142",
-      "baseline_sha256": "fd875a6bcd6de81230caeff5d238f7fc72f341ca9979eb82496a67c521d49138"
+      "path": "public/jurisdictions/sherwood/foia-four-request-review/city-2026-198/index.html",
+      "sha256": "fdcf274a527755cae89d206c4c762b933647a7fd06423a7237cf70f0863db93c",
+      "baseline_sha256": null
     }
   ]
 }

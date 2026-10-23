@@ -297,5 +297,27 @@
     "label": "Detailed CITY-189 review and 24-entry ledger",
     "public_form": "ARAP analysis",
     "note": "Independent review; not an agency record or a legal adjudication."
+  },
+  {
+    "id": "198-N",
+    "request": 198,
+    "original_filename": "AAP FOIA Capt edwards.pdf",
+    "original_sha256": "0cde2603c98f5373fcf2612e506644eb8ed9bd06b3bef22728a4a8b665d4af71",
+    "public_url": "/downloads/sherwood/city-2026-198/AAP-FOIA-Capt-Edwards-2026-10-21.pdf",
+    "public_sha256": "07b073b28eda651b75ed77e3315fc3428ccb5422ac29af14f9274460b4364e5b",
+    "label": "October21 City response and broader routing",
+    "public_form": "ARAP public derivative; source link annotations removed",
+    "note": "Internal response to CITY-164 clarification, supplied under CITY-198. Visible content/searchable text retained. Does not certify complete searches or procurement legality."
+  },
+  {
+    "id": "198-R",
+    "request": 198,
+    "original_filename": "Sherwood Police Department, AR Records Requests - Request Details.pdf",
+    "original_sha256": "efb67d5bedee28033dfe0a5de4662c3d96764f99a60060b9affab5f62790ddca",
+    "public_url": "/downloads/sherwood/city-2026-198/CITY-2026-198-request-public.pdf",
+    "public_sha256": "78f2109699de32a59acb8228e5e7a5ad2adf57718478f478658069326ff12065",
+    "label": "CITY-198 procurement request",
+    "public_form": "ARAP permanent raster derivative",
+    "note": "Original October20 snapshot; no claim of later live portal completion status."
   }
 ]

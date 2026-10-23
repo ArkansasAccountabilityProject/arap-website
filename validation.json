@@ -1,15 +1,15 @@
 {
-  "checks": "passed",
-  "counts": {
-    "completeness-matrix.csv": 39,
-    "evidence-ledger.csv": 31,
-    "archive-inventory.csv": 180,
-    "archive-comparison.csv": 58
+  "status": "passed",
+  "csv_counts": {
+    "downloads/sherwood/city-2026-198/comparison-inventory.csv": 68,
+    "downloads/sherwood/city-2026-198/completeness-matrix.csv": 7,
+    "downloads/sherwood/city-2026-198/evidence-ledger.csv": 14,
+    "downloads/sherwood/four-request-review/completeness-matrix.csv": 39,
+    "downloads/sherwood/four-request-review/evidence-ledger.csv": 34
   },
-  "source_manifest_entries": 25,
-  "public_bundle_entries": 26,
-  "privacy": "new text assets scanned for known identifiers/local paths; raster derivatives visually reviewed separately",
-  "links": "all overlay HTML local file links and same-page anchors resolve against overlay or existing site",
-  "city189_hash_match": true,
-  "limits": "No live deployment, City search certification or legal adjudication. Browser/visual checks recorded separately."
+  "new_thread_public_copy": "Three pages; text and rendered pixels identical to source; link annotations and tracking redirect removed",
+  "links": "All overlay local links and same-page anchors resolve",
+  "privacy": "Known requester/private-path markers absent from new public text assets; PDF visible pages checked separately",
+  "source_comparison": "67 exact prior file matches; no changed carried-forward bytes",
+  "browser_limit": "No live browser layout verification or deployment; local static checks only"
 }
